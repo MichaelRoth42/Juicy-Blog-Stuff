@@ -31,12 +31,22 @@ Maybe all those examples give you an idea, that quite often you have no idea, wh
 
 
 ## What do I need to do?
-Start little
-Raise awareness to begin with
-For example "Accessability Tracker" in Office products. It's super simple and an easy thing to do and maybe you can make someones life so much easier or give the possibility to work with your product after all. 
-Many people think the effort is very high, because many people think in patterns, like "we have to build ramps and wider doors and how can we include deaf people". But in reality the thing starts somewhere else:
+The first step of using accessible design is to recognize that there is a need to. Period.
+Once there is realization, progress can occur, but it always starts with recognition first.
+
+The second step is to spread the idea. Not telling people to do it, or asking people to do it. Nor to claim that it is necessary. It's not about arguing, it's about spreading the idea that there is a need. The idea can grow if it meets the right mindset. Instead of telling people what to do and what not, it is important to appeal to their mindset. If we can set the core idea about include everybody and sharing is caring into the mindset of people, the following steps will be a lot easier. I will give you an example later on, check the iceberg model for further explanation.
+
+Do you want to do more than realizing that there is the need? I recommend two things:
+1. Take the [Accessibility fundamentals learning path](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](https://docs.microsoft.com/en-us/learn/).
+2. Start using the Accessability tools like the [Accessability Checker](https://support.microsoft.com/en-us/topic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/en-us/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
+
+It's super simple and an easy thing to do and maybe you can make someones life so much easier or give the possibility to work with your product after all. 
+
+Once you started you can include the thought of accessibility in more areas of your worklife. Get inspiration from the article [10 Habits to create accessible content](https://blogs.microsoft.com/accessibility/10-habits-to-create-accessible-content/) or include the idea of accessible content in your company by discussing the [Accessability Evolution Model](https://blogs.microsoft.com/accessibility/accessibility-evolution-model/).
+
+Many people think the effort is very high, because we tend to think in patterns, like "we have to build ramps and wider doors and how can we include deaf people?!". But in reality the thing starts somewhere else:
 1. Realizing that you can do small and easy baby steps
-2. Because far more people are affected than you actually might think.
+2. Embracing the fact that far more people are affected than you actually might think.
 
 
 ## What are the benefits/What do I get out of it?
@@ -50,7 +60,8 @@ That leads to a bigger target audience and a bigger market. And that means, that
 
 
 ## Iceberg model
-What I'm saying is, start to think about it differently. Instead of telling people that they should use alt text for pictures, because it's a good thing to do, think about the mental model behind it. 
+I mentioned earlier, that a good approach may be to remind people of their mental model. Many people believe in values expressed in slogans like "include everybody" or "sharing is caring". Quite often people are driven by their mental model more than they realize. If you want people to think about their behavior and change it, it can often be helpful to keep that thought in mind. Instead of telling people what to do differently, start with the mental model. If that aligns with an accessability idea, the necessary steps will follow much more easily. Let me explain it with the iceberg model of change. If you want a detailed description, check the [explanation of the iceberg model](https://docs.microsoft.com/en-us/microsoft-365/community/why-m365-adoption-projects-fail#the-iceberg-model) in the article [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/en-us/microsoft-365/community/why-m365-adoption-projects-fail).
+
 
 **Level 4: Mental Model**
 Our core beliefs are a representation of the Sharing is caring - mindset. We don't compete against each other but value and listen to every voice. We are convinced that we can face challenges better together and that learning, experimenting, and sharing failure and success are essential, since we want to include everybody.
@@ -58,16 +69,12 @@ Our core beliefs are a representation of the Sharing is caring - mindset. We don
 **Level 3: Structures**
 
 **Level 2: Patterns and Trends**
-For example: use of accessibility tracker without even thinking about, like the spell check. Using alternative text for pictures
+To create inclusive design, Microsoft's built-in accessibility tools (e.g. accessability Checker, descriptive text for pictures, etc) are known and used by all employees without thinking twice about it.
 
 **Level 1: Events**
-People use a design that is accessible by a broad range of people, regardless their state. 
+People create a design that is accessible by a broad range of people, regardless their state. 
 
-
-
-**Text blocks and things to include?**
-Iceberg model 
-The first step in breaking down exclusionary design principles is recognizing that they exist. When recognition occurs, progress is possible.
-Exclusion often happens unintentionally.
-Inclusion is a crucial element in how we design anything in the business context: Power Point slides, apps, articles, reports and many more. 
+##Conclusion
+The first step of using accessible design is to recognize that there is a need to. Period.
+Once there is realization, progress can occur, because exclusion often happens unintentionally. Exclusive design affets far more people than meets the eye and the effort to change it is actaully small. To make it easier for people to feel included and contribute to our efforts, especially in the workplace, thinking about accessability is an important first step. 
 
