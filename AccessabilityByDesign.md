@@ -76,6 +76,6 @@ The first step of using accessible design is to recognize that there is a need t
 Once there is realization, progress can occur, because exclusion often happens unintentionally. Exclusive design affets far more people than meets the eye and the effort to change it is actaully small. To make it easier for people to feel included and contribute to our efforts, especially in the workplace, thinking about accessability is an important first step. 
 
 ## Additional Ressources
-- Accessibility terms [Accessibility terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)- Write in a way that puts people first.
+- [Accessibility terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)- Write in a way that puts people first.
 - [Bias-free communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication).
 - The Microsoft [Accessibility Blog](https://www.microsoft.com/en-us/accessibility?rtc=1).
