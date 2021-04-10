@@ -48,7 +48,7 @@ The second step is to spread the idea. Not telling people to do it, or asking pe
 Do you want to do more than realizing that there is the need? I recommend two things:
 1. Take the [Accessibility fundamentals learning path](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](https://docs.microsoft.com/en-us/learn/).
 2. Start using the Accessability tools like the [Accessability Checker](https://support.microsoft.com/en-us/topic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/en-us/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
-3. Switch on the grammar settings in Word for inclusiveness to become more aware of the language you use. ![Showing the grammer settings in Word for inclusiveness](media/Word Options.png)
+3. Switch on the grammar settings in Word for inclusiveness to become more aware of the language you use. ![Showing the grammer settings in Word for inclusiveness](Word Options.png)
 
 It's super simple and an easy thing to do and maybe you can make someones life so much easier or give the possibility to work with your product after all. 
 
