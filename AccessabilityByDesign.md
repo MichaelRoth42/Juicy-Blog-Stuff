@@ -1,18 +1,18 @@
 # Accessibility by design
 
 ## Introduction
-In the last time, the topics inclusion and diversity gain more and more attention. The tech community, in general, is very diverse and does a lot to include people from different backgrounds whatsoever. But those topics are much bigger than many people realize. Way more people are affected than most of us assume. 
-At the same time there are a lot of unanimous statements, like "We don't want to exclude anyone!". This is a very good starting point, of course, but when we get to the bottom of the statement and ask what is being done to include people from different backgrounds actively, the discussion often becomes difficult. Many people want to live inclusion actively but don't know how. 
+In the last time, the topics inclusion and diversity gain more and more attention. The tech community, in general, is very diverse and does a lot to include people from different backgrounds. But those topics are much bigger than many people realize. Way more people are affected than most of us assume. 
+At the same time there are a lot of unanimous statements, like "We don't want to exclude anyone!". This is a very good starting point, but when we get to the bottom of the statement and ask what is being done to include people from different backgrounds actively, the discussion often becomes difficult. Many people want to live inclusion actively but don't know how. 
 
-When we think of an accessible workplace, we often think of ramps, wide doors, and elevators. Few, however, think about what they produce at work every day: Documents, presentations, images. All this outstanding content is not too accessible for many people, as we would like it to be. 
+When we think of an accessible workplace, we often think of ramps, wide doors, and elevators. Few think about what they produce at work every day: Documents, presentations, images. All this outstanding content is not too accessible for many people, as we would like it to be. 
 
 That's why it's important to talk about the topic of "accessibility by design". 
 
 Let us take a step together towards a more accessible world.
 
 ## Reasons why we don't think about accessibility and inclusion / Our mental model
-When thinking about inclusion and accessibility, we often think about a particular group of people that may be excluded. But quite often, the actual group of people is far more significant than we anticipate. 
-Quite often, we read and transport values like "include everybody", "sharing is caring", "we're all in this together," and most of the people don't want to be excluding on purpose. But there can be a gap between wanting to be inclusive and knowing what's necessary to be it. 
+When thinking about inclusion and accessibility, we often think about a particular group of people that maybe excluded. But quite often, the actual group of people is far more significant than we anticipate. 
+Quite often, we read and transport values like "include everybody", "sharing is caring", "we're all in this together,". Most people don't want to be excluding on purpose. But there can be a gap between wanting to be inclusive and knowing what's necessary to be it. 
 
 Often it is a trade-off between effort and benefit. As already explained, many people do not know what to do, i.e., how significant the step is. And when we turn to the benefit, we must, of course, be able to assess how great it actually is. How many people would benefit from designing our app, our article, our report inclusive and accessible? 
 When we start to ask the question "Is it really worth it?" that can be a scary thougt. The question of whether it is worthwhile should never be decisive, but it often is.
@@ -21,57 +21,60 @@ Do we only want to include people if we get a benefit from it? Or do we want to 
 Most of us live privileged lives with a good education, a safe home, access to resources, jobs, and other people. We are so privileged that we can afford to take care of everyone.
 This fact leads to a moral duty to do so!
 
-Now let's first talk about who is affected when we go for poorly accessible design and why that may be a barrier we face while thinking about inclusion and accessibility. Let's then see what we can do to design more accessible stuff, how much work it is, and what our target group looks like.
+Now, let's first talk about who is affected when we go for poorly accessible design. Why are there barriers, while thinking about inclusion and accessibility? Let's then see what we can do to design more accessible stuff, how much work it is, and what our target group looks like.
 After we know all that, let's have a closer look at the benefits, what we might get out of it.
 
 ## Who is affected when we go for poorly accessible design?
 When we start to think about accessibility, we tend to start thinking about physical limitations. We all know people who use a wheelchair, who may be blind or deaf, or missing limbs like a hand, an arm, or a leg. 
 
 We all can see and recognize those things quickly; that's why they come to mind first. But actually, there are far, far more things we should think about.
-- There are **physical impairments** that we can not recognize well, like poor vision, motor impairment, or challenges that affect your hearing. Just because we can't recognize them easily doesn't mean that those don't impact people's life and behavior.
-- We all know a lot of **mental conditions** that have a considerable impact on our behavior. Anxiety disorder, obsessive-compulsive disorder, or dyslexia, to name just a few of far over 200 different conditions that affect our behavior. Once again, we can't detect those conditions that easy but they have a massive effect on people's life. 
+- There are **physical impairments** that we can not recognize well, like poor vision, motor impairment, or challenges that affect our hearing. Just because we can't recognize them easily doesn't mean that those don't impact people's life and behavior.
+- We all know a lot of **mental conditions** that have a considerable impact on our behavior: Anxiety disorder, obsessive-compulsive disorder, or dyslexia, to name just a few of far over 200 different conditions that affect our behavior. Once again, we can't detect those conditions that easy but they have a massive effect on people's life. 
 - Even if people are not diagnosed, that doesn't mean that they can't be affected. Many of these can also be **temporary affections**. If we lack sleep, our eyesight may suffer; if we're dehydrated, we may find it challenging to focus on a specific type of fonts. If we're calming our baby, we maybe realize how hard it is to complete even simple tasks with just one free hand. 
 
-Maybe all those examples give us an idea that we often have no idea who may be affected by challenges in daily life and that the target audience for accessible design is far bigger than we anticipated initially. 
+All of these examples give us a sense that we often can't really tell who is affected in their daily lives. And this also makes it clear that the target group for accessible design is much larger than we initially anticipated. 
 
 
 ## What can we do?
 The first step of using accessible design is to recognize that there is a need to. Period.
-Once there is realization, progress can occur, but it always starts with recognition first.
+Once we have established that, progress can be made. But it always begins with recognition.
 
-The second step is to spread the idea. It is not telling people to simply do it or asking people to do it. Nor to claim that it is necessary. It's not about arguing; it's about spreading the idea that there is a need. The argument can grow if it meets the right mindset; instead of telling people what to do and what not, it is essential to appeal to their attitude. If we can set the core idea about including everybody and sharing is caring into people's mindset, the following steps will be a lot easier. 
+The second step is to spread the idea. It is not telling people to simply do it or asking people to do it. Nor to claim that it is necessary. It's not about arguing; it's about spreading the idea that there is a need. 
+
+The right arguments can follow as soon as we have the right mindset; instead of telling people what to do and what not, it is essential to appeal to their attitude. If we can set the core idea about including everybody and sharing is caring into people's mindset, the following steps will be a lot easier. 
 
 Let us have a look at some examples, what we can do.
 
 Do we want to do more than just realizing that there is a need? Here are three simple steps we all can do right now:
 1. Let's take the [Accessibility fundamentals learning path](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/) provided by [Microsoft Learn](https://docs.microsoft.com/en-us/learn/).
 2. Let's start using the accessibility tools like the [Accessability Checker](https://support.microsoft.com/en-us/topic/improve-accessibility-with-the-accessibility-checker-a16f6de0-2f39-4a2b-8bd8-5ad801426c7f) or [descriptive text for pictures](https://support.microsoft.com/en-us/topic/everything-you-need-to-know-to-write-effective-alt-text-df98f884-ca3d-456c-807b-1a1fa82f5dc2).
-3. We can wwitch the grammar settings in Word for inclusiveness to become more aware of the language we are using. ![Showing the grammar settings in Word for inclusiveness](Word%20Options.png)
+3. We can switch the grammar settings in Word for inclusiveness to become more aware of the language we are using. ![Showing the grammar settings in Word for inclusiveness](Word%20Options.png)
 
-It's no big effort, and an easy thing to do, and maybe we can make someone's life so much easier or give the possibility to work with our products after all. 
+This shows us that a first step requires little effort. And perhaps we can already simplify people's lives significantly. We can also make it possible for people to work with our product in the first place. 
 
 Once we started, we can include the thought of accessibility in more areas of our work life. Get inspiration from the article [10 Habits to create accessible content](https://blogs.microsoft.com/accessibility/10-habits-to-create-accessible-content/) or include the idea of accessible content in our company by discussing the [Accessability Evolution Model](https://blogs.microsoft.com/accessibility/accessibility-evolution-model/).
 
-Many people assume the effort is tremendous because we tend to think in patterns, like "we have to build ramps and wider doors, and how can we include deaf people? ". But in reality, the thing starts somewhere else:
+Many people assume that the effort is huge, because we are used to orienting ourselves to familiar patterns. As already explained, it is difficult to look for solutions when you do not even recognize the problem. The first step is not to build ramps and bigger doors or to ask ourselves how we can include deaf people. In reality, the first steps look like this:
+
 1. Realizing that we can do small and easy baby steps.
 2. Embracing the fact that far more people are affected than we actually might think.
 
 
 ## What are the benefits of accessible design?
-After seeing how few steps can have a considerable effect and that this effect can impact many people, let's have a quick look at the benefits of choosing an accessible design. 
+We have now seen that small steps can add great value. This added value can already make a big difference in many lives, so let's take a closer look at what we can gain by using accessible design. 
 
-First of all, we're doing a good thing by thinking about others. It doesn't feel good to be excluded. Psychologists even argue that rejection or feeling excluded is processed in our brain the same way, as if we get hurt physically. It hurts to feel excluded, and that leads to feeling sad and angry. One step further, feeling excluded can reduce self-esteem, the sense of control, and even the sense of contributing something meaningful.
+First of all, we're doing a good thing by thinking about others. It doesn't feel good to be excluded. Psychologists even argue that rejection or feeling excluded is processed in our brain the same way, as if we get hurt physically. It hurts to feel excluded, and that leads to feeling sad and angry. In addition, feeling excluded can cause people to lose self-confidence, feel a loss of control, or even feel they have nothing valuable to contribute. 
 
 Apart from that, we are making a better product. If it's an app, a piece of code, or a PowerPoint presentation, it will be better in the end because it is more complete. It's more versatile, and more people can have access to it.
 
-That leads to a bigger target audience and a bigger market. And that means that more people can use or buy our products or contribute by giving us feedback and evolving our product even further.
+And that means more people can buy or use our product. That in turn leads to us getting more and better feedback, which makes our product better as a whole.
 
 ## Iceberg model
-It was mentioned earlier that a reasonable approach might be to remind people of their mental model. Many people believe in slogans and values like "include everybody" or "sharing is caring". Quite often, people are driven by their mental model more than they realize. If we want people to think about their behavior and change it, it can often be helpful to keep that thought in mind. Instead of telling people what to do differently, let's start with the mental model. If that aligns with an accessibility idea, the necessary steps will follow much more quickly. There is the possibility to use the iceberg model for that [explanation of the iceberg model](https://docs.microsoft.com/en-us/microsoft-365/community/why-m365-adoption-projects-fail#the-iceberg-model), and it might be beneficial to analyze accessibility by design with that model as a next step to get a clearer picture of what is happening right now.
+Well-known slogans that convey values include "Sharing is Caring" or "Include Everybody." Many people are driven by these values, which are anchored in their mental model. Instead of telling other people how to behave, it can be helpful to start with the mental model. When that mental model is closely linked to an accessibility thought, change can happen much more easily. There is the possibility to use the iceberg model for that [explanation of the iceberg model](https://docs.microsoft.com/en-us/microsoft-365/community/why-m365-adoption-projects-fail#the-iceberg-model), and it might be beneficial to analyze accessibility by design with that model as a next step to get a clearer picture of what is happening right now.
 
 ## Conclusion
 The first step of using accessible design is to recognize that there is a need to. Period.
-Once there is realization, progress can occur because exclusion often happens unintentionally. Exclusive design affects far more people than meets the eye, and the effort to change it is tiny. To make it easier for people to feel included and contribute to our efforts, especially in the workplace, thinking about accessibility is an essential first step. 
+Once there is realization, progress can occur because exclusion often happens unintentionally. Exclusive design affects far more people than meets the eye, and the effort to change it is tiny. If the first step is thinking about accessibility, we can make it so that more people experience a sense of community, feel they belong, and can make valuable contributions with their knowledge and skills.
 
 ## Additional Ressources
 - [Accessibility terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)- Write in a way that puts people first.
