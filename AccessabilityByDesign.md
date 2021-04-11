@@ -74,7 +74,8 @@ Well-known slogans that convey values include "Sharing is Caring" or "Include Ev
 
 ## Conclusion
 The first step of using accessible design is to recognize that there is a need to. Period.
-Once there is realization, progress can occur because exclusion often happens unintentionally. Exclusive design affects far more people than meets the eye, and the effort to change it is tiny. If the first step is thinking about accessibility, we can make it so that more people experience a sense of community, feel they belong, and can make valuable contributions with their knowledge and skills.
+Once there is realization, progress can occur because exclusion often happens unintentionally. Exclusive design affects far more people than meets the eye, and the effort to change it is tiny. 
+If we want to give more people a sense of community and belonging, we need to start thinking about accessibility. Then we can get people to contribute their knowledge and skills. That's how we grow as a community and as individuals.
 
 ## Additional Ressources
 - [Accessibility terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)- Write in a way that puts people first.
