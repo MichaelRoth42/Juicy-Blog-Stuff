@@ -2,7 +2,7 @@
 
 ## Introduction
 In the last time, the topics inclusion and diversity gain more and more attention. The tech community, in general, is very diverse and does a lot to include people from different backgrounds. But those topics are much bigger than many people realize. Way more people are affected than most of us assume. 
-At the same time there are a lot of unanimous statements, like "We don't want to exclude anyone!". This is a very good starting point, but when we get to the bottom of the statement and ask what is being done to include people from different backgrounds actively, the discussion often becomes difficult. Many people want to live inclusion actively but don't know how. 
+At the same time there are a lot of unanimous statements, like "We don't want to exclude anyone!". This is a very good starting point, but when we get to the bottom of the statement and ask what is being done to include people from different backgrounds, the discussion often becomes difficult. Many people want to live inclusion actively but don't know how. 
 
 When we think of an accessible workplace, we often think of ramps, wide doors, and elevators. Few think about what they produce at work every day: Documents, presentations, images. All this outstanding content is not too accessible for many people, as we would like it to be. 
 
@@ -11,14 +11,14 @@ That's why it's important to talk about the topic of "accessibility by design".
 Let us take a step together towards a more accessible world.
 
 ## Reasons why we don't think about accessibility and inclusion / Our mental model
-When thinking about inclusion and accessibility, we often think about a particular group of people that maybe excluded. But quite often, the actual group of people is far more significant than we anticipate. 
-Quite often, we read and transport values like "include everybody", "sharing is caring", "we're all in this together,". Most people don't want to be excluding on purpose. But there can be a gap between wanting to be inclusive and knowing what's necessary to be it. 
+When thinking about inclusion and accessibility, we often think about a particular group of people that is excluded. But quite often, the actual group of people is far more significant than we anticipate. 
+Quite often, we read and transport values like "include everybody", "sharing is caring" or "we're all in this together,". Most people don't want to be excluding on purpose. But there can be a gap between wanting to be inclusive and knowing what's necessary to be it. 
 
-Often it is a trade-off between effort and benefit. As already explained, many people do not know what to do, i.e., how significant the step is. And when we turn to the benefit, we must, of course, be able to assess how great it actually is. How many people would benefit from designing our app, our article, our report inclusive and accessible? 
+Often it is a trade-off between effort and benefit. As already explained, many people do not know what to do, i.e., how significant the step is. And when we turn to the benefit, we must, of course, be able to assess how great it actually is. How many people would actually benefit if we made our app, article or report inclusive and accessible? 
 When we start to ask the question "Is it really worth it?" that can be a scary thougt. The question of whether it is worthwhile should never be decisive, but it often is.
 Do we only want to include people if we get a benefit from it? Or do we want to be accessible because it's the right thing to do, no matter how many people benefit from it? 
 
-Most of us live privileged lives with a good education, a safe home, access to resources, jobs, and other people. We are so privileged that we can afford to take care of everyone.
+Many of us have privileged lives with access to good education, a safe home and resources. Many have a good job and a network of helpful people. We are so privileged that we can afford to take care of everyone.
 This fact leads to a moral duty to do so!
 
 Now, let's first talk about who is affected when we go for poorly accessible design. Why are there barriers, while thinking about inclusion and accessibility? Let's then see what we can do to design more accessible stuff, how much work it is, and what our target group looks like.
@@ -63,7 +63,7 @@ Many people assume that the effort is huge, because we are used to orienting our
 ## What are the benefits of accessible design?
 We have now seen that small steps can add great value. This added value can already make a big difference in many lives, so let's take a closer look at what we can gain by using accessible design. 
 
-First of all, we're doing a good thing by thinking about others. It doesn't feel good to be excluded. Psychologists even argue that rejection or feeling excluded is processed in our brain the same way, as if we get hurt physically. It hurts to feel excluded, and that leads to feeling sad and angry. In addition, feeling excluded can cause people to lose self-confidence, feel a loss of control, or even feel they have nothing valuable to contribute. 
+First of all, we're doing a good thing by thinking about others. It doesn't feel good to be excluded. Psychologists even argue that rejection or feeling excluded is processed in our brain the same way, as if we get hurt physically. It hurts to feel excluded, and that leads to feeling sad and angry. Feeling excluded can cause people to lose self-confidence, feel a loss of control, or even feel they have nothing valuable to contribute. 
 
 Apart from that, we are making a better product. If it's an app, a piece of code, or a PowerPoint presentation, it will be better in the end because it is more complete. It's more versatile, and more people can have access to it.
 
