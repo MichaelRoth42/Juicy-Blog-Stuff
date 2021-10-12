@@ -6,6 +6,7 @@ or
 ### table of contents
 - Definition – what are citizen developer
 - Role of Citizen Developer in Organizations
+    
     Challenges of Low Code revolution (Lack of programming skills) and how this becomes a challenge for organizations. How do Citizen Devs fit in.
 - Benefits of having them
 Actual benefits of having Citizen Devs in your organization (mention shadow IT and increased rate of digitalization)
