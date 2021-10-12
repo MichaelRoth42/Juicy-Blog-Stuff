@@ -29,7 +29,7 @@ They change from being passive user to become an active Maker. Low Code Platform
 
 This means, giving the tools and abilities to solve problems right where they appear: at the workfield of the subject matter experts. Nobody knows the unique workflows better than the employers who work on a daily basis with those workflows. If they are able to optimize and digitalize those workflows, you gain a very powerful group of employers. If somebody from the IT department wanted to optimize those workflows you’d need to have workshops and meetings to explain the subject, the challenge and how a solution might look like. And in those meetings two different kind of people, IT- and business, who not necessarily speak the same language, try to find a common ground to develop a solution. If the business doesn’t need to explain or even better, is able to show a simple workflow/app that leads to a common ground of understanding. 
 
->Laura Graham-Brown: [Citizen Developer]…are trained on what cannot be googled.
+>Laura Graham-Brown: "[Citizen Developer]…are trained on what cannot be googled"
 
 By enabling your staff to address the needs of their department on their own, you create the possibility for your IT department to work on more complex challenges and maintain governance, security and the overall oversight. 
 
