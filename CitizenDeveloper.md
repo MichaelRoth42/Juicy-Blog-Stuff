@@ -8,15 +8,15 @@ or
 - Role of Citizen Developer in Organizations
   - Challenges of Low Code revolution (Lack of programming skills) and how this becomes a challenge for organizations. How do Citizen Devs fit in.
 - Benefits of having them
-- 	Actual benefits of having Citizen Devs in your organization (mention shadow IT and increased rate of digitalization)
+  - Actual benefits of having Citizen Devs in your organization (mention shadow IT and increased rate of digitalization)
 - Limits and opportunity to grow / Challenges
-- 	What Citizen Devs Need to Learn
-- 	What knowledge they lack	
-- 	In which area can development take placE
+  - What Citizen Devs Need to Learn
+  - What knowledge they lack	
+  - In which area can development take placE
 - How to nurture Citizen Devs
-- 	Safe space / Governance (two sides of it)
-- 	Citizen Devs and IT – better together
-- 	Low Code platform = more citizen devs?
+  - Safe space / Governance (two sides of it)
+  - Citizen Devs and IT – better together
+  - Low Code platform = more citizen devs?
 
 ## Definition - What is Citizen Development?
 
