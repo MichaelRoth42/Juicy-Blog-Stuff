@@ -19,7 +19,8 @@ or
   - Low Code platform = more citizen devs?
 
 ## Definition - What is Citizen Development?
-The Low Code Revolution allows companies of all sizes to innovate and drive digitalization continuously to let their busines thrive. Employees with basic knowledge of spreadsheets and databases can build workflows and even applications to meet business needs in their personal work environment. 
+The Low Code Revolution allows companies of all sizes to innovate and drive digitalization continuously to let their busines thrive. They do this by using Low- and No Code platforms so employees get the chance of writing their own workflows and apps without the need to write code.
+Employees with basic knowledge of spreadsheets and databases can build workflows and even applications to meet business needs in their personal work environment (at least that's what Microsoft promises 😉)
 
 The idea is not new, over years have Excel Power User create almost database/apps with their own makros in Excel. Low Code app development is very similar. Giving the user the ability to solve problems and optimize work processes is something we do since a long time.
 
@@ -33,10 +34,24 @@ This means, giving the tools and abilities to solve problems right where they ap
 
 By enabling your staff to address the needs of their department on their own, you create the possibility for your IT department to work on more complex challenges and maintain governance, security and the overall oversight. 
 
+Overall, Citizen Development seems to be a fantastic opportunity to leverage your business and even evolve your work culture. Yet there are a few recuirements and things to consider, before you start your Citizen Development Journey.
+
 ## Role of Citizen Developers in organizations
+Citizen Devs are more than just user who do more. 
+
+They need a proper role, that means:
+- They need time to work on solutions
+- They need a proper training
+- They need the correct user rights
+
+You can use the Power Platform to play around, let user try out of this works or you can do it the right way. If you want your business to benefit from CD approach, you need to introduce CDs in you organization professionally. It's not just another tool to play around with, it can become a valuable way of transforming the way your user experience their work. You can create a better a deeper relationship between business and IT. You will benefit from improved business processes, you will get solutions for challenges in your business you haven't even been aware of. You can reduce the existance of shadow IT and make your IT landscape more secure. 
 
 ## Benefits of using Citizen Development
 
 ## Challenges of Citizen Development
 
 ## How to nurture your Citizen Development and grow as a whole organization
+- You need a safe space for makers
+  - Environment
+  - Security settings
+  - IT who doesn't work against the CD's but a mindset of "better together"
