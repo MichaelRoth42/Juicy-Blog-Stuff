@@ -2,11 +2,13 @@
 
 ## What?
 
-I'm trying to get more comfortable in VScode, since I realize that it helps me develop a better understanding of tech. Many of you might know already, I don't have a tech background, so sometimes I struggle with things. But the more I familiarize myself with, let's say Github and VScode, the better I understand how things work together.
+I'm trying to get more comfortable in VScode, since I realize that it helps me develop a better understanding of tech. Many of you might know already, I don't have a tech background, so sometimes I struggle with things. But the more I familiarize myself with, let's say Github, VScode and the terminal, the better I understand how things work together.
 
 Therefore I started to write my blog posts with VScode and **not** with MS Word anymore. From VScode I commit them to github, using my terminal.
 
 It's not easy for me to get behind all this, but here is my short explanation of the why and the how, if you'd like to start with it as well 😊
+
+*Note: There are several ways to do this and I just explain the way I do it right now. This is not a introduction to Github in general or to working with terminals. Please feel free to let me know if I make assumptions and you can't follow* 😊
 
 ## Why (should you care)?
 
@@ -57,6 +59,7 @@ Now open the terminal to create the local copy of your Github repository (make s
 type `git clone [url of your repository you copied earlier]` (without the square brackets).
 
 Congratulations, you just created a local copy of your Github repository. You should see it in the left panel of VScode.
+
 ![a picture showing the local copy of my Github repository in VScode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/local-copy-repo.png)
 
 ### work on VScode locally
@@ -65,6 +68,22 @@ Now you can create a new file in your repository (I use the UI element on the le
 
 ![a picture showing how to add a new file in VScode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/create-new-file.png)
 
-Then you can start writing your text (there are a few extensions that I use, to make it easier, like the Docs Authoring Pack, Grammarly or the Code Spell Cheker. Maybe I cover that in a different post or see to link a good resource for you).
+Then you can start writing your text (there are a few extensions that I use, to make it easier, like the Docs Authoring Pack, Grammarly or the Code Spell Checker. Maybe I cover that in a different post or see to link a good resource for you).
 
-### push/commit(?) your created content on Github
+### push/commit(?) your content on Github
+
+There are several different ways how to upload your content from your local clone to Github, yet as I mentioned earlier I want to get comfortable with using the terminal, so here's what you need to do:
+
+1. Add you content to the staging area by using `git add .`
+This command will put all changes that you made to the staging area. It's not uploaded yet, that comes later.
+If you worked on multiple files and want to upload only some of them, there are different ways, but I won't cover every possibility here.
+
+2. include a commit message by using  `git commit -m "this is your message"`
+Including commit messages will help you later on to see, what you actually did. And I just learned that it is good practice to tell, what this commit does in third person, e.g. "adds new pictures" or "adds new chapter of the blog".
+
+3. upload/commit your content by using  `git push`
+That command will upload your content from the staging area to Github.
+
+Tadaa, look at you, you did it you bad-ass open source rockstar 🥳🤘🚀
+
+P.S. when you come back to work on your content you should check, if your local copy is up to date by using  `git pull` (make sure your terminal is in the right folder though). That command will check if there have been any changes in your repository and updates your local copy to the latest version. It's not that important when you're the only one working in your repository. But when you start collaborating with others it's a good practice to acquire.
