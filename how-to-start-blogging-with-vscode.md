@@ -45,25 +45,25 @@ Now, let me guide you through each step for you to try it out for yourself.
 Actually that is something you need to do only the very first time, when you decide to try this approach. After you created a local copy, it's just there (maybe you need to update it, but more about that later).
 To do this, you navigate to your Github repository and select "Code" and select the copy button to copy the URL of your repository.
 
-![a picture how to copy the url of your Github repository](clone-repository-locally.png)
+![a picture how to copy the url of your Github repository](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/clone-repository-locally.png)
 
 Create a folder locally. You will work in this folder and push that content to Github later on.
 
 Then open the code editor of your choice (I use VScode) and open the folder you just created.
 
-![a picture showing how to open folders in VScode](open-folder-in-vscode.png)
+![a picture showing how to open folders in VScode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/open-folder-in-vscode.png)
 
 Now open the terminal to create the local copy of your Github repository (make sure that your terminal is in the local folder you just created). To clone the repository you will need your first powershell cmdlet:
 type `git clone [url of your repository you copied earlier]` (without the square brackets).
 
 Congratulations, you just created a local copy of your Github repository. You should see it in the left panel of VScode.
-![a picture showing the local copy of my Github repository in VScode](local-copy-repo.png)
+![a picture showing the local copy of my Github repository in VScode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/local-copy-repo.png)
 
 ### work on VScode locally
 
 Now you can create a new file in your repository (I use the UI element on the left hand side). Make sure to let it end in .md to tell VScode (and Github) that this is a markdown file.
 
-![a picture showing how to add a new file in VScode](create-new-file.png)
+![a picture showing how to add a new file in VScode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/create-new-file.png)
 
 Then you can start writing your text (there are a few extensions that I use, to make it easier, like the Docs Authoring Pack, Grammarly or the Code Spell Cheker. Maybe I cover that in a different post or see to link a good resource for you).
 
