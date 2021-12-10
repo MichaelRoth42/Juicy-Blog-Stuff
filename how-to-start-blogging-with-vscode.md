@@ -1,25 +1,25 @@
-# How to start blogging with VScode
+# How to start blogging with VSCode
 
-Prologue: This blog is going to describe how to write blogposts with VScode and upload them with the terminal to Github. If you already have a Github repository and you want to get more familiar with using VScode and your terminal, this blog is for you. 
+Prologue: This blog is going to describe how to write blog posts with VSCode and upload them with the terminal to GitHub. If you already have a GitHub repository (and you installed Git already) and you want to get more familiar with using VSCode and your terminal, this blog is for you.
 
 ## What?
 
-I'm trying to get more comfortable in ~~VScode~~ Visual Studio Code, since I realize that it helps me develop a better understanding of tech.
-~~Many of you might know already, I don't have a tech background, so sometimes I struggle with things. But the more I familiarize myself with, let's say Github, VScode and the terminal, the better I understand how things work together.~~
+I'm trying to get more comfortable in ~~VSCode~~ Visual Studio Code, since I realize that it helps me develop a better understanding of tech.
+~~Many of you might know already, I don't have a tech background, so sometimes I struggle with things. But the more I familiarize myself with, let's say GitHub, VSCode and the terminal, the better I understand how things work together.~~
 
-Therefore I started to write my blog posts with VScode and **not** with ~~MS~~ Microsoft Word anymore. From VScode I commit then to GitHub, using the built-in terminal.
+Therefore I started to write my blog posts with VSCode and **not** with ~~MS~~ Microsoft Word anymore. From VSCode I commit then to GitHub, using the built-in terminal.
 
 It's not easy for me to get behind all this, but here is my short explanation of the why and the how, if you'd like to start with it as well 😊
 
-*Note: There are several ways to do this and I just explain the way I do it right now. This is not a introduction to Github in general or to working with terminals. Please feel free to let me know if I make assumptions and you can't follow* 😊
+*Note: There are several ways to do this and I just explain the way I do it right now. This is not a introduction to GitHub in general or to working with terminals. Please feel free to let me know if I make assumptions and you can't follow* 😊
 
 ## Why (should you care)?
 
-I used to write my blogs with a text editor, e.g. Microsoft Word. It's obvious, isn't it? Use the right tool for the right job (use a text editor for writing texts). But there are a few benefits from using VScode and Github for blogging:
+I used to write my blogs with a text editor, e.g. Microsoft Word. It's obvious, isn't it? Use the right tool for the right job (use a text editor for writing texts). But there are a few benefits from using VSCode and GitHub for blogging:
 
-1. I get a better understanding of how **Github** works. Open-source is an amazing idea and I would love to contribute more. Therefore it's actually helpful to get better with GitHub. I created a repository in GitHub that contains all my texts and images that I need for my blog.
+1. I get a better understanding of how **GitHub** works. Open-source is an amazing idea and I would love to contribute more. Therefore it's actually helpful to get better with GitHub. I created a repository in GitHub that contains all my texts and images that I need for my blog.
 
-2. I familiarize myself with working in **VScode**. I use the terminal on a regular basis (my approach works with the UI too). Working with a console and VScode loses a bit of complexity and thus its horror 🙂
+2. I familiarize myself with working in **VSCode**. I use the terminal on a regular basis (my approach works with the UI too). Working with a console and VSCode loses a bit of complexity and thus its horror 🙂
 
 3. Since I blog for and with the tech community, I want to share my insights. This way I have very **good control** over what is still locally on my computer, and what's already shared with the community. I can even check afterwards what exactly I did at any given time.
 
@@ -37,41 +37,39 @@ It's actually not as complex as I thought it was. It's three steps:
 
 1. Create a local copy of your GitHub repository
 
-2. work in VScode locally (in my case I write my blog)
+2. work in VSCode locally (in my case I write my blog)
 
-3. upload your created content on Github
+3. upload your created content on GitHub
 
 Now, let me guide you through each step for you to try it out for yourself.
 
-### Create a repository on Github to store your blog posts and images
+### Create a repository on GitHub to store your blog posts and images
 
-### Create a local copy of your github repository
+### Create a local copy of your GitHub repository
 
 Actually that is something you need to do only the very first time, when you decide to try this approach. After you created a local copy, it's just there (maybe you need to update it, but more about that later).
-To do this, you navigate to your Github repository and select **Code** and select the copy button to copy the URL of your repository.
+To do this, you navigate to your GitHub repository and select **Code** and select the copy button to copy the URL of your repository.
 
-![a picture how to copy the url of your Github repository](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/clone-repository-locally.png)
+![a picture how to copy the url of your GitHub repository](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/clone-repository-locally.png)
 
-~~Create a folder locally. You will work in this folder and push that content to Github later on.~~
+~~Create a folder locally. You will work in this folder and push that content to GitHub later on.~~
 
-Create a parent folder locally where all your local copies of repositories shall live
+Create a parent folder locally where all your local copies of repositories shall live and open it in VSCode.
 
-Then open the code editor of your choice (I use VScode) and open the folder you just created.
-
-![a picture showing how to open folders in VScode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/open-folder-in-vscode.png)
+![a picture showing how to open folders in VSCode](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/open-folder-in-vscode.png)
 
 Now open the terminal to create the local copy of your GitHub repository (make sure that your terminal is in the local folder you just created). To clone the repository you will need this git command:
 type `git clone [url of your repository you copied earlier]` ~~(without the square brackets).~~
 
-Congratulations, you just created a local copy of your Github repository. You should see it in the ~~left~~ side panel of VScode.
+Congratulations, you just created a local copy of your GitHub repository. You should see it in the ~~left~~ side panel of VSCode.
 
-![a picture showing the local copy of my Github repository in VScode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/local-copy-repo.png)
+![a picture showing the local copy of my GitHub repository in VSCode](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/local-copy-repo.png)
 
-### Work in VScode locally
+### Work in VSCode locally
 
-Now you can create a new file in your repository (I use the UI element on the left hand side). Make sure to let it end in .md to tell VScode (and GitHub) that this is a markdown file.
+Now you can create a new file in your repository (I use the UI element on the left hand side). Make sure to let it end in .md to tell VSCode (and GitHub) that this is a markdown file.
 
-![a picture showing how to add a new file in VScode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/create-new-file.png)
+![a picture showing how to add a new file in VSCode](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/create-new-file.png)
 
 Then you can start writing your text (there are a few extensions that I use, to make it easier, like the Docs Authoring Pack, Grammarly or the Code Spell Checker. Maybe I cover that in a different post or see to link a good resource for you).
 
