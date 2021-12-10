@@ -84,7 +84,6 @@ Including commit messages will help you later on to see, what you actually did. 
 3. upload your content by using  `git push`
 That command will upload your content from the staging area to GitHub.
 
-Tadaa, look at you, you did it you bad-ass open-source rockstar 🥳🤘🚀
-
+Tadaa, look at you, you did it you bad-ass open-source rock star 🥳🤘🚀
 
 P.S. When you come back to work on your content you should check, if your local copy is up to date by using  `git pull` (make sure your terminal is in the right folder though). That command will check if there have been any changes in your repository and updates your local copy to the latest version. It's not that important when you're the only one working in your repository. But when you start collaborating with others it's a good practice to acquire.

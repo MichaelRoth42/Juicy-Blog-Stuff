@@ -46,11 +46,11 @@ Luckily we know the methods already.
 | PATCH | update partially |
 | DELETE | remove |
 
-In this usecase we want to **get** the number of the day, so we choose the **GET** method.
+In this use case we want to **get** the number of the day, so we choose the **GET** method.
 
 ## URL
 
-Now for the URL we need to know the **URL** (kind of obvious, isn't it 😁) of the service we want to address. But not only that, we will also need the **endpoint**. This is something like the direct call, putting you to that exact point that you want. Usually an API will tell you how the endpoint looks: 
+Now for the URL we need to know the **URL** (kind of obvious, isn't it 😁) of the service we want to address. But not only that, we will also need the **endpoint**. This is something like the direct call, putting you to that exact point that you want. Usually an API will tell you how the endpoint looks:
 
 ![a picture showing the api from the math tool site](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/api-math-tool.png)
 
@@ -79,6 +79,4 @@ And that's it, we used an **HTTP request** to **GET** information from a **API**
 
 ## Use a certain information from a JSON object in a chat message
 
-
-
-Next up: What's a custom connector, difference between http request and custom connector, when to use what and how to build one
+Next up: What's a custom connector, difference between http request and custom connector, when to use what and how to build one.
