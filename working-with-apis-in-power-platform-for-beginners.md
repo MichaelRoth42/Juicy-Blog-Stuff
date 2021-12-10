@@ -65,11 +65,11 @@ The endpoint for the number of the day is `https://api.math.tools/numbers/nod`. 
 It's a very long JSON object (if you want to get started with JSON, I recommend the amazing blog from Bob German [Introduction to JSON](https://bob1german.com/2021/01/11/introduction-to-json/)).
 But let's stay at our HTTP request in Power Automate. We know the Method, we know the URL and we know that we don't need any authentication. That means we can fill out all mandatory fields in that flow action and it looks like this:
 
-![a picture showing the filled out http request in flow](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/http-flow-step.png)
+![a picture showing the filled out http request in flow](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/HTTP-flow-step.png)
 
 Let's run this flow on a daily basis and see what the result looks like:
 
-![a picture showing the result of the flow](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/http-flow-run-successfull.png)
+![a picture showing the result of the flow](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/HTTP-flow-run-successfull.png)
 
 (Since you can hardly see the result, I paste the body here once again)
 
