@@ -49,7 +49,7 @@ Now, let me guide you through each step for you to try it out for yourself.
 Actually that is something you need to do only the very first time, when you decide to try this approach. After you created a local copy, it's just there (maybe you need to update it, but more about that later).
 To do this, you navigate to your GitHub repository and select **Code** and select the copy button to copy the URL of your repository.
 
-![a picture how to copy the url of your GitHub repository](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/clone-repository-locally.png)
+![a picture how to copy the url of your GitHub repository](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/clone-repository-locally.png?raw=true)
 
 Create a parent folder locally where all your local copies of repositories shall live and open it in VSCode.
 
