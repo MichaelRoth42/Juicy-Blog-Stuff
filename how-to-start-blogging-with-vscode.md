@@ -53,7 +53,7 @@ To do this, you navigate to your GitHub repository and select **Code** and selec
 
 Create a parent folder locally where all your local copies of repositories shall live and open it in VSCode.
 
-![a picture showing how to open folders in VSCode](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/open-folder-in-vscode.png)
+![a picture showing how to open folders in VSCode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/open-folder-in-vscode.png)
 
 Now open the terminal to create the local copy of your GitHub repository (make sure that your terminal is in the local folder you just created). To clone the repository you will need this git command:
 type `git clone [url of your repository you copied earlier]`
