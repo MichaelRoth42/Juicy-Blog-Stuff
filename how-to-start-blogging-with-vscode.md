@@ -49,7 +49,7 @@ Now, let me guide you through each step for you to try it out for yourself.
 Actually that is something you need to do only the very first time, when you decide to try this approach. After you created a local copy, it's just there (maybe you need to update it, but more about that later).
 To do this, you navigate to your GitHub repository and select **Code** and select the copy button to copy the URL of your repository.
 
-![a picture how to copy the url of your GitHub repository](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/clone-repository-locally.png?raw=true)
+![a picture how to copy the url of your GitHub repository](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/clone-repository-locally.png)
 
 Create a parent folder locally where all your local copies of repositories shall live and open it in VSCode.
 
@@ -60,13 +60,13 @@ type `git clone [url of your repository you copied earlier]`
 
 Congratulations, you just created a local copy of your GitHub repository. You should see it in the side panel of VSCode.
 
-![a picture showing the local copy of my GitHub repository in VSCode](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/local-copy-repo.png)
+![a picture showing the local copy of my GitHub repository in VSCode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/local-copy-repo.png)
 
 ### Work in VSCode locally
 
 Now you can create a new file in your repository (I use the UI element on the left hand side). Make sure to let it end in .md to tell VSCode (and GitHub) that this is a markdown file.
 
-![a picture showing how to add a new file in VSCode](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/create-new-file.png)
+![a picture showing how to add a new file in VSCode](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/create-new-file.png)
 
 Then you can start writing your text (there are a few extensions that I use, to make it easier, like the Docs Authoring Pack, Grammarly or the Code Spell Checker. Maybe I cover that in a different post or see to link a good resource for you).
 
