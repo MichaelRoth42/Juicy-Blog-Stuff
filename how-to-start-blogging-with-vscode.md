@@ -1,5 +1,7 @@
 # How to start blogging with VScode
 
+Prologue: This blog is going to describe how to write blogposts with VScode and upload them with the terminal to Github. If you already have a Github repository and you want to get more familiar with using VScode and your terminal, this blog is for you. 
+
 ## What?
 
 I'm trying to get more comfortable in VScode, since I realize that it helps me develop a better understanding of tech. Many of you might know already, I don't have a tech background, so sometimes I struggle with things. But the more I familiarize myself with, let's say Github, VScode and the terminal, the better I understand how things work together.
