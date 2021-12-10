@@ -4,10 +4,9 @@ Prologue: This blog is going to describe how to write blog posts with VSCode and
 
 ## What?
 
-I'm trying to get more comfortable in ~~VSCode~~ Visual Studio Code, since I realize that it helps me develop a better understanding of tech.
-~~Many of you might know already, I don't have a tech background, so sometimes I struggle with things. But the more I familiarize myself with, let's say GitHub, VSCode and the terminal, the better I understand how things work together.~~
+I'm trying to get more comfortable in Visual Studio Code, since I realize that it helps me develop a better understanding of tech.
 
-Therefore I started to write my blog posts with VSCode and **not** with ~~MS~~ Microsoft Word anymore. From VSCode I commit then to GitHub, using the built-in terminal.
+Therefore I started to write my blog posts with VSCode and **not** with Microsoft Word anymore. From VSCode I commit then to GitHub, using the built-in terminal.
 
 It's not easy for me to get behind all this, but here is my short explanation of the why and the how, if you'd like to start with it as well 😊
 
@@ -52,16 +51,14 @@ To do this, you navigate to your GitHub repository and select **Code** and selec
 
 ![a picture how to copy the url of your GitHub repository](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/clone-repository-locally.png)
 
-~~Create a folder locally. You will work in this folder and push that content to GitHub later on.~~
-
 Create a parent folder locally where all your local copies of repositories shall live and open it in VSCode.
 
 ![a picture showing how to open folders in VSCode](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/open-folder-in-vscode.png)
 
 Now open the terminal to create the local copy of your GitHub repository (make sure that your terminal is in the local folder you just created). To clone the repository you will need this git command:
-type `git clone [url of your repository you copied earlier]` ~~(without the square brackets).~~
+type `git clone [url of your repository you copied earlier]`
 
-Congratulations, you just created a local copy of your GitHub repository. You should see it in the ~~left~~ side panel of VSCode.
+Congratulations, you just created a local copy of your GitHub repository. You should see it in the side panel of VSCode.
 
 ![a picture showing the local copy of my GitHub repository in VSCode](https://GitHub.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/local-copy-repo.png)
 
