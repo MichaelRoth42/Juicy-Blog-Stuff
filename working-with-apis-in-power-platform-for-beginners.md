@@ -73,7 +73,7 @@ Let's run this flow on a daily basis and see what the result looks like:
 
 (Since you can hardly see the result, I paste the body here once again)
 
-![a picture showing the result of the flow again, but different](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/http-flow-result.png)
+![a picture showing the result of the flow again, but different](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/HTTP-flow-result.png)
 
 And that's it, we used an **HTTP request** to **GET** information from a **API**. Now for the last part of this blog, we want to use some information from this result to be posted in a chat in Teams.
 
