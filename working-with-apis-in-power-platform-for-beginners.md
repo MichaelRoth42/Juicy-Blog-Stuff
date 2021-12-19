@@ -79,4 +79,40 @@ And that's it, we used an **HTTP request** to **GET** information from a **API**
 
 ## Use a certain information from a JSON object in a chat message
 
-Next up: What's a custom connector, difference between http request and custom connector, when to use what and how to build one.
+Now it would make a lot of sense, if we cover the question, how to use a certain information from that JSON object in, let's say a chat message, right?
+Let's say, we want to post the number of the day in a daily Microsoft Teams chat. We need just two steps for that:
+
+1. put the information of that JSON file in a variable, so it's always up to date
+
+2. use that variable in message in a Microsoft Teams chat
+
+To use a certain information in a variable, you first need to initialize a variable and fill out all the information:
+
+**Name**: I called mine NrOfDay
+**Type**: We want to use a **string** here (a string is a sequence of characters, that can include letters or numbers, but it will be recognized as a "text")
+**Value**: Here we want to define the value of this variable. In our case that means that particular information from this long JSON object (If you want an excellent introduction to JSON, check out Bob germans blog [Introduction to JSON](https://bob1german.com/2021/01/11/introduction-to-json/)).
+
+![a picture showing the value of the property we're looking for](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/JSON-value.png)
+We want the value of the property "number"
+
+Notice, that this JSON element consists of three different objects. We have the objects "success", "copyright" and "content". The object "content" contains an object called "nod", which contains two more objects called "category" and "numbers".
+
+![a picture showing the different objects within the JSON object](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/JSON-objects.png)
+
+As stated earlier, we want the value of the property "number", which is located in the object "numbers" (which is part of the object "nod", which is part of the object "content"). 
+
+![a picture showing the value of the property "number", we're looking for](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/JSON-nod-value.png)
+
+Now we can tell our variable in Power Automate the exact location of the value we want to use in this variable. The expression to "navigate" to the value of this property looks like this:
+`body('HTTP_-_GETnon')['contents']['nod']['numbers']['number']`
+The first part (`body('HTTP_-_GETnon')`) tells where we want to look, the later parts are navigating through the JSON object until we reach the exact object and the exact property. With this method you can get any value of any JSON object you like.
+
+Now you can build in the variable in a "Post message in a chat or channel" action as dynamic content in Flow and it will always show the value of the property of that JSON object.
+
+![a picture showing the variable in the "Post message in a chat or channel" action in MS Teams](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/Teams-message.png)
+
+That's it. That is how you call an API, get a JSON object back and use certain values from that object in Power Automate. I hope you liked it and it helps you. If anything is unclear, or you have questions, please feel free to reach out to me. Easiest way would be twitter 😘
+[MichaelRoth42 on twitter](https://twitter.com/MichaelRoth42)
+
+As I mentioned in the beginning, I will further work with APIs. If you want to learn more, here's what I'm going to work on next. If you have specific questions, please ask me or make suggestions. I'm always eager to learn new things.
+Next API topic: What's a custom connector, where is the difference between a http request and a custom connector and when to use what.
