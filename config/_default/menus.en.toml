@@ -1,6 +1,12 @@
 ############# english navigation ##############
 
 # Dropdown menu
+
+[[main]]
+name = "Home"
+URL = "homepage/full-right/"
+weight = 1
+
 [[main]]
 weight = 1
 name = "homepage"
