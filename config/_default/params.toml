@@ -12,10 +12,10 @@ logo_text = "Reader"
 menu_align = "center"
 
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "Awesomeness and tech knowledge for beginner"
 author = "MichaelRoth42"
 # this image will be used as fallback if a page has no image of its own
-image = "images/logo.png"
+image = "images/social-card.png"
 
 # contact form action
 contact_form_action = "https://formspree.io/f/mlezdggl" # contact form works with https://formspree.io
