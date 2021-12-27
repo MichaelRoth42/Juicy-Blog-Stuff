@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://michaelroth42.com/homepage/full-right/"
+baseURL = "http://michaelroth42.com/"
 title = "MichaelRoth42 Blog"
 theme = "reader-hugo"
 # post pagination
