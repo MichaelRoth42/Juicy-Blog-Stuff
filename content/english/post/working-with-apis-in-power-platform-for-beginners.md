@@ -1,3 +1,13 @@
+---
+title: Working with APIs in Power Platform for beginners
+date: '2021-12-19T17:10:00.000Z'
+preview: /images/title-calling-apis.png
+description: In this post I'm going to explain what an API is and what it can be used for in Power Automate
+tags:
+    - Power Automate
+    - Power Platform
+    - Citizen Developer
+---
 # Working with APIs in Power Platform for beginners
 
 Prologue: In this post I'm going to explain what an API is and what it can be used for in Power Automate. I will use the example with a http request for this post, but there will follow others as well. If you want to learn the what and how of APIs, this post is for you.
