@@ -63,6 +63,6 @@ partners:
     - "images/logos/logo-9.png"
 ---
 
-## Helllo I’m Michael Roth, I'm a M365 business consultant and graphic designer 
+## Hello I’m Michael Roth, I'm a M365 business consultant and graphic designer 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Velit massa vitae felis augue. In venenatis scelerisque accumsan egestas mattis. Massa feugiat in sem pellentesque.
