@@ -18,34 +18,34 @@ URL = "contact/"
 weight = 3
 
 # Dropdown menu
-[[main]]
-weight = 4
-name = "Pages"
-hasChildren = true
+#[[main]]
+#weight = 4
+#name = "Pages"
+#hasChildren = true
 
-  [[main]]
-  parent = "Pages"
-  name = "Author"
-  url = "author/"
-  weight = 1
+#  [[main]]
+#  parent = "Pages"
+#  name = "Author"
+#  url = "author/"
+#  weight = 1
 
-  [[main]]
-  parent = "Pages"
-  name = "Category"
-  url = "categories/creativity/"
-  weight = 2
+#  [[main]]
+#  parent = "Pages"
+#  name = "Category"
+#  url = "categories/creativity/"
+#  weight = 2
 
-  [[main]]
-  parent = "Pages"
-  name = "Tags"
-  url = "tags/food/"
-  weight = 3
+#  [[main]]
+#  parent = "Pages"
+#  name = "Tags"
+#  url = "tags/food/"
+#  weight = 3
 
-  [[main]]
-  parent = "Pages"
-  name = "404 Page"
-  url = "404/"
-  weight = 4
+#  [[main]]
+#  parent = "Pages"
+#  name = "404 Page"
+#  url = "404/"
+#  weight = 4
 
 
 # footer menu
