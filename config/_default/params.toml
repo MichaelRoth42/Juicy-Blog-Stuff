@@ -27,7 +27,7 @@ custom_script= ""
 # search
 search = true
 # banner
-banner = true
+banner = false
 # featured
 featured_post = true
 # layout

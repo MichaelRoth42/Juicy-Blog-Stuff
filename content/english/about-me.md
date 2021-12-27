@@ -1,8 +1,8 @@
 ---
 title: "About Me"
-image : "images/about-me.jpg"
+image : "images/about-michael.jpg"
 # description
-description: "This is meta description"
+description: "a picture showing Michael Roth holding a coffee mug"
 layout: "about-me"
 draft: false
 
