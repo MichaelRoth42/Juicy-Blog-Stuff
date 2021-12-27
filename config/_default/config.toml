@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/reader/"
+baseURL = "http://michaelroth42.com/homepage/full-right/"
 title = "MichaelRoth42 Blog"
 theme = "reader-hugo"
 # post pagination
