@@ -35,9 +35,9 @@ education:
 # mission
 mission:
   enable : true
-  title : "What is the main mission of mine and what i wanna do?"
-  image : "images/mission.png"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+  title : "What is my mission?"
+  image : "images/michael-mission.png"
+  content : "I want to inspire people without a tech background to start their own journey into the tech world. <br>I'm a tech person by choice. That means, I didn't have a technical background to begin with until I decided (in my thirties) to learn everything around tech that seems relevant to me. In order to learn, I write. It helps me understand this complex stuff. With my blog I want to deliver instructions and helpful content for every beginner out there."
 
 # Youtube
 youtube:
