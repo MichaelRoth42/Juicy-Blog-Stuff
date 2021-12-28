@@ -4,7 +4,7 @@ date: Thu, 06 May 2021 17:48:44 +0000
 draft: false
 tags: ['Blog', 'M 365', 'PowerApps', 'Productivity', 'Teams']
 images: 
-- "images/title-calling-apis.png"
+  - "/images/title-calling-apis.png"
 ---
 
 Introduction
