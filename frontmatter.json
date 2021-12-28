@@ -5,7 +5,57 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "post",
-      "path": "c:/Users/Michael.Roth/OneDrive - Michael Roth Consulting/Hugo/sites/juicy-blog-stuff/content/english/post"
+      "path": "[[workspace]]/content/english/post"
+    }
+  ],
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "previewPath": null,
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "Author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "string"
+        },
+        {
+          "title": "Type",
+          "name": "type",
+          "type": "choice",
+          "choices": [
+            "popular",
+            "regular",
+            "epic",
+            "trending"
+          ]
+        },
+        {
+          "title": "Draft",
+          "name": "draft",
+          "type": "boolean"
+        }
+      ]
     }
   ]
 }
