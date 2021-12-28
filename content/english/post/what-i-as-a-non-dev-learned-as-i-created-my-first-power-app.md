@@ -1,8 +1,12 @@
 ---
-title: 'What I (as a non dev) learned as I created my first Power App'
-date: Thu, 01 Oct 2020 16:14:37 +0000
+title: What I (as a non dev) learned as I created my first Power App
+date: 'Thu, 01 Oct 2020 16:14:37 +0000'
 draft: false
-tags: ['Community', 'M 365', 'Productivity']
+tags:
+    - Community
+    - M 365
+    - Productivity
+description: The purpose of this blog is to share my very own experiences while building my first canvas app.
 ---
 
 The purpose of this blog is to share my very own experiences while building my first canvas app. I have no tech background and at the beginning I thought that I could never do it. But now, looking back, I’ve learned so many things. Not only about functions and Power Apps syntax, but about the process of building apps, learning from failure and community.
