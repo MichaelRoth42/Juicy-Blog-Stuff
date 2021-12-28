@@ -3,7 +3,7 @@ title: "Use apples to give your bakes caramel and a moist texture"
 date: 2021-09-14T15:40:24+06:00
 # post thumb
 images:
-  - "images/blog/blog-1.jpg"
+  - "images/blog/title-calling-apis.png"
 #author
 author: "Charls Xaviar"
 # description
