@@ -36,7 +36,7 @@ So, let's build one right now, shall we? 👏
 
 Since this is part two of my mini series "working with APIs" I'm using the same scenario and api as last time. I use an open API to get the number of the day from a website called MathTOOLs. I will post this number in a Microsoft Teams channel afterwards.
 
-First of all, navigate to your [Power Automate dashboard](www.flow.microsoft.com). Select "Data" and then "Custom connectors" ![no, it's not the Connectors menu, but the Data menu](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-1.png). If you already have some, they will be listed here, if not this page is empty. Select "+ New custom connector" in the upper right corner and then "Create from blank" ![let's start from scratch](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-2.png).
+First of all, navigate to your [Power Automate dashboard](www.flow.microsoft.com). Select "Data" and then "Custom connectors" ![no, it's not the Connectors menu, but the Data menu](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/JSON-nod-value.png). If you already have some, they will be listed here, if not this page is empty. Select "+ New custom connector" in the upper right corner and then "Create from blank" ![let's start from scratch](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-2.png).
 
 Now you are in the menu to create your own custom connector. At the top of the page you can see the necessary steps in a navigation:
 
