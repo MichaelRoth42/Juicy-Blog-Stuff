@@ -1,6 +1,8 @@
 ---
 title: 'Start debugging your PowerApp'
 date: Sun, 25 Apr 2021 11:22:51 +0000
+images:
+  - "images/blog/title-Debugging.png"
 draft: false
 tags: ['Blog', 'Citizen Developer', 'Debugging', 'M 365', 'Microsoft 365', 'Power Platform', 'PowerApps', 'PowerApps']
 ---
