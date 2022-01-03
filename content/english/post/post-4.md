@@ -12,7 +12,7 @@ description: "This is meta description"
 # Taxonomies
 categories: ["microwave","tech"]
 tags: ["season","recipe"]
-type: "trending" # available type (epic, trending, popular, or regular)
+type: "regular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
