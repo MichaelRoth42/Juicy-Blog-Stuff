@@ -9,7 +9,7 @@ tags:
 - Power Platform
 - Citizen Developer
 type: regular
-draft: true
+draft: false
 ---
 
 # Working with Custom Connectors in Power Platform for beginners
