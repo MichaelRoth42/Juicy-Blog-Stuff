@@ -1,8 +1,18 @@
 ---
 title: 'If we want equality and diversity, it starts with us!'
-date: Sun, 06 Sep 2020 08:35:42 +0000
+date: 'Sun, 06 Sep 2020 08:35:42 +0000'
+images:
+    - images/blog/title-equality.png
 draft: false
-tags: ['Blog', 'Change', 'Community', 'Community', 'Diversity', 'Equality', 'Equality', 'Gender', 'Tech']
+tags:
+    - Change
+    - Community
+    - Diversity
+    - Equality
+    - Gender
+    - Tech
+author: Michael Roth
+type: epic
 ---
 
 There have been a few posts on twitter lately about the behavior of men in social media networks. It was about the fact that women's dm mailboxes look entirely different from men's. As a woman on social media platforms, harassment and degradation are almost a normal part of life: ![](https://gezeitenbrand.de/wp-content/uploads/090620_0831_Ifwewantequ1.png) _Pic 1 Harassment is a widespread thing on social media_  And I learned that this is not the exception but the rule. That alone makes me incredibly angry, but I know that I am surrounded by people who see this the same way I do and actively resist it.  Right?  I spoke to some women who experience these things, and many told me that they had received much encouragement, also, from other men. Encouragement from people who agree that the behavior of some men, not only on social media platforms, but also at work or conferences, is not okay. 

@@ -1,16 +1,15 @@
 ---
-title: "Use apples to give your bakes caramel and a moist texture"
+title: "Let's build a timer app for Teams meetings"
 date: 2021-09-14T15:40:24+06:00
 # post thumb
 images:
-  - "images/blog/title-calling-apis.png"
+  - images/blog/title-timer-app.png
 #author
-author: "Charls Xaviar"
+author: "Michael Roth"
 # description
-description: "This is meta description"
+description: "This post describes how to build a timer app and optimize it for the usage in Microsoft Teams"
 # Taxonomies
-categories: ["creativity","natural"]
-tags: ["color","recipe","fish"]
+tags: ["Power Apps","M 365","Microsoft Teams", "Citizen Developer"]
 type: "epic" # available type (epic, trending, popular, or regular)
 draft: false
 ---
