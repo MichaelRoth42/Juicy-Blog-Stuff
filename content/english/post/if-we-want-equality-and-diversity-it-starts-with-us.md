@@ -4,13 +4,7 @@ date: 'Sun, 06 Sep 2020 08:35:42 +0000'
 images:
     - images/blog/title-equality.png
 draft: false
-tags:
-    - Change
-    - Community
-    - Diversitygit 
-    - Equality
-    - Gender
-    - Tech
+tags: ["Community", "Diversity", "Equality", "Gender"]
 author: Michael Roth
 type: popular
 ---
