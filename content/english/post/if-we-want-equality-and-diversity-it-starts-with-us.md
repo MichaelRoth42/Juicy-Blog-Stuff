@@ -7,12 +7,12 @@ draft: false
 tags:
     - Change
     - Community
-    - Diversity
+    - Diversitygit 
     - Equality
     - Gender
     - Tech
 author: Michael Roth
-type: epic
+type: popular
 ---
 
 There have been a few posts on twitter lately about the behavior of men in social media networks. It was about the fact that women's dm mailboxes look entirely different from men's. As a woman on social media platforms, harassment and degradation are almost a normal part of life: ![](https://gezeitenbrand.de/wp-content/uploads/090620_0831_Ifwewantequ1.png) _Pic 1 Harassment is a widespread thing on social media_  And I learned that this is not the exception but the rule. That alone makes me incredibly angry, but I know that I am surrounded by people who see this the same way I do and actively resist it.  Right?  I spoke to some women who experience these things, and many told me that they had received much encouragement, also, from other men. Encouragement from people who agree that the behavior of some men, not only on social media platforms, but also at work or conferences, is not okay. 
