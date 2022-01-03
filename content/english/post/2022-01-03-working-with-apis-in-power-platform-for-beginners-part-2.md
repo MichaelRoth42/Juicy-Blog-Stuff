@@ -2,7 +2,8 @@
 title: Working with Custom Connectors in Power Platform for beginners
 description: In this post I'm going to explain how to call an API with a custom connector and how to use it in Power Automate
 date: '2022-01-03T11:44:44.060Z'
-image: "https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/title-calling-connector.png"
+images: 
+- images/blog/title-calling-connector.png
 author: Michael Roth
 tags: 
 - Power Automate
