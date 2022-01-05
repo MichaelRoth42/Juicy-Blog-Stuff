@@ -2,7 +2,7 @@
 title: 'Exam PL-900: Microsoft Power Platform Fundamentals'
 date: Mon, 02 Nov 2020 14:31:53 +0000
 draft: false
-tags: ['Certification', 'Community', 'M 365']
+tags: ["Certification","Community","M 365"]
 ---
 
 ### **Intro**

@@ -2,7 +2,7 @@
 title: 'Add days to a timestamp in Power Automate'
 date: Mon, 21 Dec 2020 08:08:07 +0000
 draft: false
-tags: ['Blog', 'M 365', 'Nugget', 'Planner', 'Power Automate']
+tags: ["Blog","M 365","Nugget","Planner","Power Automate"]
 ---
 
 Learning Nugget: Power Automate

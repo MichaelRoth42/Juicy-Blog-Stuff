@@ -2,7 +2,7 @@
 title: 'Almost 10 hacks for nearly every Windows 10 user'
 date: Mon, 15 Jul 2019 14:55:00 +0000
 draft: false
-tags: ['M 365', 'Productivity', 'Windows 10']
+tags: ["M 365","Productivity","Windows 10"]
 ---
 
 Being knee-deep into Office 365 lately, I tend to forget that there are many customers out there, who are still new to Windows 10.

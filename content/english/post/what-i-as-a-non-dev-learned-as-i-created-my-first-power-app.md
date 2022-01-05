@@ -2,10 +2,7 @@
 title: What I (as a non dev) learned as I created my first Power App
 date: 'Thu, 01 Oct 2020 16:14:37 +0000'
 draft: false
-tags:
-    - Community
-    - M 365
-    - Productivity
+tags: ["Community","M 365","Productivity"]
 description: The purpose of this blog is to share my very own experiences while building my first canvas app.
 ---
 

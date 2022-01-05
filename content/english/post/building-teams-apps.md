@@ -2,7 +2,7 @@
 title: 'Building Teams Apps'
 date: Wed, 25 Nov 2020 16:01:54 +0000
 draft: false
-tags: ['Blog', 'Productivity', 'Teams']
+tags: ["Blog","Productivity","Teams"]
 ---
 
 **The Intro**

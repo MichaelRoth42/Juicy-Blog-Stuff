@@ -2,7 +2,7 @@
 title: 5 workhacks to raise TEAMS adoption to a new level
 date: 'Tue, 11 Feb 2020 21:16:00 +0000'
 draft: false
-tags: 'M 365,Productivity, Microsoft Teams'
+tags: ["M 365","Productivity","Microsoft Teams"]
 slug: 5-workhacks-raise-teams-adoption-level
 description: Learn about five workhacks to make your worklife with Microsoft Teams easier
 author: Michael Roth
