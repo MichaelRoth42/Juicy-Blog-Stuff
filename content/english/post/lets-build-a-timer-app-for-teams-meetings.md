@@ -10,7 +10,7 @@ author: "Michael Roth"
 description: "This post describes how to build a timer app and optimize it for the usage in Microsoft Teams"
 # Taxonomies
 tags: ["Power Apps","M 365","Microsoft Teams", "Citizen Developer"]
-type: "epic" # available type (epic, trending, popular, or regular)
+type: "popular" # available type (epic, trending, popular, or regular)
 draft: false
 ---
 
