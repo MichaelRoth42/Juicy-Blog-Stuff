@@ -4,7 +4,7 @@ date: 'Mon, 21 Dec 2020 17:42:58 +0000'
 images:
 - images/blog/title-overcoming-fear.png
 draft: false
-tags: 'Community,M 365,Power Automate,PowerApps'
+tags: ["Community","M 365","Power Automate","PowerApps"]
 description: How the Power Platform and the Community can save a shitty year. A quick review of what this horrible year was all about for a Microsoft 365 consultant.
 type: regular
 author: Michael Roth
