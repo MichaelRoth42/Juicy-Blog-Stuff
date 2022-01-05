@@ -33,7 +33,7 @@ So, let's build one right now, shall we? 👏
 
 Since this is part two of my mini series "working with APIs" I'm using the same scenario and api as last time. I use an open API to get the number of the day from a website called MathTOOLs. I will post this number in a Microsoft Teams channel afterwards.
 
-First of all, navigate to your [Power Automate dashboard](www.flow.microsoft.com). Select "Data" and then "Custom connectors" ![no, it's not the Connectors menu, but the Data menu](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/JSON-nod-value.png). If you already have some, they will be listed here, if not this page is empty. Select "+ New custom connector" in the upper right corner and then "Create from blank" ![let's start from scratch](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-2.png).
+First of all, navigate to your [Power Automate dashboard](www.flow.microsoft.com). Select "Data" and then "Custom connectors" ![no, it's not the Connectors menu, but the Data menu](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/JSON-nod-value.png). If you already have some, they will be listed here, if not this page is empty. Select "+ New custom connector" in the upper right corner and then "Create from blank" ![let's start from scratch](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/custom-connector-2.png).
 
 Now you are in the menu to create your own custom connector. At the top of the page you can see the necessary steps in a navigation:
 
@@ -52,25 +52,25 @@ You can also upload a nice icon for you connector (which I love, obviously), jus
 
 You don't need to fill out the rest. We will look into that at a another blog of this series. For now we're good and we can click on "Security" either in the lower right corner or in the navigation at the top of the page.
 
-![both links work, the one at the top and the one in the lower right corner](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-3.png)
+![both links work, the one at the top and the one in the lower right corner](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/custom-connector-3.png)
 
 ## 2. Security
 Since we use an open API we don't need to fill out anything here 😊
 
 ## 3. Definition
 Now things are getting interesting, since we're defining the other parameters here. For this example, we just want to create an action that gets us the number of the day.
-Start by selecting "+ New action" on the right hand side ![ready, set, action!](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-4.png).
+Start by selecting "+ New action" on the right hand side ![ready, set, action!](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/custom-connector-4.png).
 
 Once again, only one mandatory field, yet I recommend to fill out the Summary and the Description as well.
 Summary: This will be the name of the action of your custom connector
-![choose....wisley](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-5.png)
+![choose....wisley](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/custom-connector-5.png)
 Description: Gives colleagues a good idea of what it does
 Operation ID: This is going to be the string, which is used in the operation. Keep it simple, I guess.
 
-After that information is provided it's time for our request. ![now it's getting interesting](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-6.png), Select "+ Import from sample" and the next menu should look familiar to you. Here we can choose the **method** as well as the **URL**.
+After that information is provided it's time for our request. ![now it's getting interesting](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/custom-connector-6.png), Select "+ Import from sample" and the next menu should look familiar to you. Here we can choose the **method** as well as the **URL**.
 In this case the method is: **GET**, the URL is **https://api.math.tools/numbers/nod**
 (We provided the same information at the last part, where we needed to give those to the https request, remember?). When we're done, select "Import" to finish this step.
-![feels familiar?](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-7.png)
+![feels familiar?](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/custom-connector-7.png)
 
 Now it's time to actually create the connector. Select "Create connector" in the upper right corner and keep your fingers crossed 🤞🤞🤞
 
@@ -82,7 +82,7 @@ Once again, no work for us here, so we skip this part 😊
 ## 5. Test
 There is one last task for us to finish our custom connector. We need to create a new connection. Select "+ New connection". 
 There should appear a connection with the name of your connector in the "Selected connection" field.
-![let's connect first](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-8.png)
+![let's connect first](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/custom-connector-8.png)
 
 Now we just need to test the connector. Select "Test operation" and wait for the response.
 
@@ -102,9 +102,9 @@ Our flow contents of three actions:
 
 3. Post message in a chat or channel
  
-![a trigger and three actions](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-9.png)
+![a trigger and three actions](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/custom-connector-9.png)
 
-In order to select your custom connector you select "Custom" when choosing a connector in Power Automate ![click on custom to see all custom connectors](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-10.png)
+In order to select your custom connector you select "Custom" when choosing a connector in Power Automate ![click on custom to see all custom connectors](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/custom-connector-10.png)
 
 Since our connector just has one action, that's all we needed to do. 
 
@@ -118,7 +118,7 @@ Now let's put the value in a variable, so the number of the day is always up to 
 Do you recognize the difference to the last function we used for the http request? Just the body is different, because we named it that why while creating the connector 💡
 
 Last step: include that variable in a Microsoft Teams message like a boss 😎 
-![click on dynamic content to include the variable](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/custom-connector-11.png).
+![click on dynamic content to include the variable](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/custom-connector-11.png).
 
 ---
 
