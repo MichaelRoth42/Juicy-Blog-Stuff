@@ -13,7 +13,7 @@ There have been a few posts on twitter lately about the behavior of men in socia
 
 ![Harassment is a widespread thing on social media](https://gezeitenbrand.de/wp-content/uploads/090620_0831_Ifwewantequ1.png)
 
-{{< image src="https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/static/images/JSON-nod-value.png" >}}
+{{< image src="images/blog/title-calling-apis.png" >}}
 
 ![Something, something](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/Word%20Options.png)
 
