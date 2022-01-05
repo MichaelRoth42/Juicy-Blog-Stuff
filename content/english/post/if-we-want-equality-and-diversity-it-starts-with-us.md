@@ -9,7 +9,11 @@ author: Michael Roth
 type: "epic"
 ---
 
-There have been a few posts on twitter lately about the behavior of men in social media networks. It was about the fact that women's dm mailboxes look entirely different from men's. As a woman on social media platforms, harassment and degradation are almost a normal part of life: ![Harassment is a widespread thing on social media](https://gezeitenbrand.de/wp-content/uploads/090620_0831_Ifwewantequ1.png) And I learned that this is not the exception but the rule. That alone makes me incredibly angry, but I know that I am surrounded by people who see this the same way I do and actively resist it.  Right?  I spoke to some women who experience these things, and many told me that they had received much encouragement, also, from other men. Encouragement from people who agree that the behavior of some men, not only on social media platforms, but also at work or conferences, is not okay.
+There have been a few posts on twitter lately about the behavior of men in social media networks. It was about the fact that women's dm mailboxes look entirely different from men's. As a woman on social media platforms, harassment and degradation are almost a normal part of life:
+![Harassment is a widespread thing on social media](https://gezeitenbrand.de/wp-content/uploads/090620_0831_Ifwewantequ1.png)
+![Something, something](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/Word%20Options.png)
+
+And I learned that this is not the exception but the rule. That alone makes me incredibly angry, but I know that I am surrounded by people who see this the same way I do and actively resist it.  Right?  I spoke to some women who experience these things, and many told me that they had received much encouragement, also, from other men. Encouragement from people who agree that the behavior of some men, not only on social media platforms, but also at work or conferences, is not okay.
 
 **But hardly any person gave this kind of encouragement publicly.**
 
