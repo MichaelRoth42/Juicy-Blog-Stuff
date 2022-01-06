@@ -68,7 +68,6 @@ Furthermore, I started my own blog, got a few certifications, held hold many ses
 Since this is a recap I use to review my own path, I want to take a deeper look into the different aspects of it.
 
 **From Work - Onward towards the Power Platform**
-
 I come from a non-technical background (I majored in Educational Sciences) and am mostly working in Adoption and Change projects. Analyzing organizations, looking at processes & methods and deriving the work culture from them is my daily business. From there I usually start helping people in organizations to plan their Microsoft 365 Rollout, baring their employers and their needs in mind and even questioning old and outdated working principles.
 
 But I got into tech for a reason, one of them being the challenge and improvement. Regular jobs are getting more and more IT inflected. Therefore, if my goal is to help people enjoy their work more, by taking out the unnecessary bullshit and add value and sense, I had to understand the modern IT workplace.
@@ -76,7 +75,6 @@ But I got into tech for a reason, one of them being the challenge and improvemen
 Understanding and being able to convey the basic principles behind Microsoft 365 remains a fundamental part of my work. And I know that many people find the change to a new way of working unfamiliar, difficult and perhaps even frightening. I'm always on the lookout for new examples and great use cases to give people a new, modern view of work.
 
 **To work work – Confusion is the sweat of learning**
-
 Power Platform helps me with that, of course, and after feeling pretty confident in Power Automate (and even writing my first flow with code 🥳 - big step for me) I'm still kind of not comfortable with Power Apps.
 
 ![](https://gezeitenbrand.de/wp-content/uploads/Flow.png)
@@ -90,7 +88,6 @@ That's why I started the Learn Nuggets mini-blog series. Every little bit of inf
 But this was all for work (which means things I do for fun, private projects, my own learning path, community work, etc.), not work work (actually paid customer projects).
 
 **Back to work again**
-
 So my journey to the Power Platform is far from over. And it often left me confused, exhausted and frustrated. And that’s when [PJ Metz](https://twitter.com/MetzinAround) came along. I saw his session at [Start.Dev.Change.](https://channel9.msdn.com/Events/Start-Dev-Change/Start-Dev-Change) and was literally BLOWN AWAY (srsly, watch it [right here on youtube](https://www.youtube.com/watch?v=M8fYU42JLT4)).
 
 He invented the phrase “Confusion is the sweat of learning” and I quote it quite a lot since then. It is okay to get things not at first try. It is okay to feel completely lost when learning something new. That is actually a good thing. It means, that you are learning and making progress.
@@ -102,7 +99,6 @@ And as soon as I realized that I started focusing on the Power Platform on a pro
 And I had success with that. [I finished my first Power App](https://gezeitenbrand.de/what-i-as-a-non-dev-learned-as-i-created-my-first-power-app/) (for a client who also paid for it) in August this year. And in this real-life scenario I learned a ton of things. Far more than any training session ever did. And just as this year is about to end the best thing ever happened. Somebody asked me to be on a Power Automate project, because he recognized me from my social media activities and people actually said my name, when he was asking about somebody being familiar with change management and Power Automate. This still feels so wild. It seems self-perception and external perception are two different things.
 
 **Community – Get backup and support from the gang**
-
 Going more and more technical in 2020 beside my personal situation was a lot, honestly. Quite often I didn’t know how to proceed and I could’ve never done all of that on my own. I had help. A lot of it. That maybe the most important thing to happen in 2020 by far:
 
 After I started my twitter Account in 2019, after discovering that there is something like a tech community and dipping my toes into it, I found this community to be my true family in 2020.

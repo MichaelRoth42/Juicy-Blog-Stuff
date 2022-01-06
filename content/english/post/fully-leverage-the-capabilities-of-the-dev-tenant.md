@@ -1,8 +1,12 @@
 ---
 title: 'Fully leverage the capabilities of the dev tenant'
 date: Thu, 25 Feb 2021 19:56:43 +0000
+images: 
+- images/blog/title-leverage-tenant.png
 draft: false
+author: Michael Roth
 tags: ['Blog', 'Lvl 50', 'M 365', 'Power Automate', 'PowerApps']
+type: regular
 ---
 
 Now let’s imagine this. You have the developer tenant from your Microsoft 365 Developer Subscription, and you enrolled the [Power Apps Community Plan](https://powerapps.microsoft.com/en-us/communityplan/) with it, so you have the full range of possibilities on your dev tenant, right? 
