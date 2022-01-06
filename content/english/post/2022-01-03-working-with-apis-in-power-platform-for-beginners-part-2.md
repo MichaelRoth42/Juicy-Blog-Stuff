@@ -35,7 +35,7 @@ Since this is part two of my mini series "working with APIs" I'm using the same 
 
 First of all, navigate to your [Power Automate dashboard](www.flow.microsoft.com). Select "Data" and then "Custom connectors"
 {{< image src="images/blog/JSON-nod-value.png" >}}
-no, it's not the Connectors menu, but the Data menu 😁\
+no, it's not the Connectors menu, but the Data menu 😁
 
 If you already have some, they will be listed here, if not this page is empty. Select "+ New custom connector" in the upper right corner and then "Create from blank".
 {{< image src="images/blog/custom-connector-2.png" >}}
@@ -74,7 +74,7 @@ ready, set, action!
 Once again, only one mandatory field, yet I recommend to fill out the Summary and the Description as well.
 Summary: This will be the name of the action of your custom connector
 {{< image src="images/blog/custom-connector-5.png" >}}
-choose....wisley
+choose....wisely
 
 Description: Gives colleagues a good idea of what it does
 Operation ID: This is going to be the string, which is used in the operation. Keep it simple, I guess.
@@ -129,7 +129,7 @@ In order to select your custom connector you select "Custom" when choosing a con
 {{< image src="images/blog/custom-connector-10.png" >}}
 click on custom to see all custom connectors
 
-Since our connector just has one action, that's all we needed to do. 
+Since our connector just has one action, that's all we needed to do.
 
 Now let's put the value in a variable, so the number of the day is always up to date. Select the action "Initialize variable" and put in the following information:
 
