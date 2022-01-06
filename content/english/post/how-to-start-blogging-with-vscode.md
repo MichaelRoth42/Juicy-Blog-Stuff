@@ -1,6 +1,19 @@
+---
+title: How to start blogging with VSCode
+description: This blog is going to describe how to write blog posts with VSCode and upload them with the terminal to GitHub.
+date: '2021-12-10T07:43:31.000Z'
+author: Michael Roth
+tags:
+    - Github
+    - VSCode
+    - PowerShell
+    - Open Source
+type: regular
+---
 # How to start blogging with VSCode
 
-Prologue: This blog is going to describe how to write blog posts with VSCode and upload them with the terminal to GitHub. If you already have a GitHub repository (and you installed Git already) and you want to get more familiar with using VSCode and your terminal, this blog is for you.
+Prologue: 
+This blog is going to describe how to write blog posts with VSCode and upload them with the terminal to GitHub. If you already have a GitHub repository (and you installed Git already) and you want to get more familiar with using VSCode and your terminal, this blog is for you.
 
 ## What?
 
