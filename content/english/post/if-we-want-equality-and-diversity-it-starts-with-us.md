@@ -2,7 +2,7 @@
 title: 'If we want equality and diversity, it starts with us!'
 date: 'Sun, 06 Sep 2020 08:35:42 +0000'
 images:
-    - images/blog/title-equality.png
+    - images/blog/title-equality-2.png
 draft: false
 tags: ["Community", "Diversity", "Equality", "Gender"]
 author: Michael Roth
