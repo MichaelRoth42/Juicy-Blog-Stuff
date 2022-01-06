@@ -89,14 +89,14 @@ Then you can start writing your text (there are a few extensions that I use, to 
 
 There are several different ways how to upload your content from your local clone to GitHub, yet as I mentioned earlier I want to get comfortable with using the terminal, so here's what you need to do:
 
-1. Add you content to the staging area by using `git add .`
+1. Add you content to the staging area by using `git add .`\
 This command will put all changes that you made to the staging area. It's not uploaded yet, that comes later.
 If you worked on multiple files and want to upload only some of them, there are different ways, but I won't cover every possibility here.
 
-2. include a commit message by using  `git commit -m "this is your message"`
+2. include a commit message by using  `git commit -m "this is your message"`\
 Including commit messages will help you later on to see, what you actually did. And I just learned that it is good practice to tell, what this commit does in third person, e.g. "adds new pictures" or "adds new chapter of the blog".
 
-3. upload your content by using  `git push`
+3. upload your content by using  `git push`\
 That command will upload your content from the staging area to GitHub.
 
 Tadaa, look at you, you did it you bad-ass open-source rock star 🥳🤘🚀
