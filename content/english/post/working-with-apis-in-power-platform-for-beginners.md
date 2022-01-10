@@ -46,7 +46,7 @@ As I mentioned earlier an **HTTP request** consists of a view things. We will ne
 - Headers
 - and a body
 
-![a picture showing the HTTP action in Power Automate](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/HTTPrequest.png)
+{{< image src="images/blog/HTTPrequest.png" >}}
 
 ### Method
 
@@ -66,28 +66,28 @@ In this use case we want to **get** the number of the day, so we choose the **GE
 
 Now for the URL we need to know the **URL** (kind of obvious, isn't it 😁) of the service we want to address. But not only that, we will also need the **endpoint**. This is something like the direct call, putting you to that exact point that you want. Usually an API will tell you how the endpoint looks:
 
-![a picture showing the api from the math tool site](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/api-math-tool.png)
+{{< image src="images/blog/api-math-tool.png" >}}
 
 The endpoint of the website MathTOOLS is `https://api.math.tools`, but if we read carefully (I usually struggle with that 😇), we get more details for the API of the number of the day:
 
-![a picture showing api from the number of the day](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/api-math-tool.png)
+{{< image src="images/blog/api-nr-of-day.png" >}}
 
 The endpoint for the number of the day is `https://api.math.tools/numbers/nod`. The API documentation even provides us with the information of how the HTTP response will look like:
 
-![a picture showing the response from calling the api from the number of the day](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/JSON-nod.png)
+{{< image src="images/blog/JSON-nod.png" >}}
 
 It's a very long JSON object (if you want to get started with JSON, I recommend the amazing blog from Bob German [Introduction to JSON](https://bob1german.com/2021/01/11/introduction-to-json/)).
 But let's stay at our HTTP request in Power Automate. We know the Method, we know the URL and we know that we don't need any authentication. That means we can fill out all mandatory fields in that flow action and it looks like this:
 
-![a picture showing the filled out http request in flow](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/HTTP-flow-step.png)
+{{< image src="images/blog/HTTP-flow-step.png" >}}
 
 Let's run this flow on a daily basis and see what the result looks like:
 
-![a picture showing the result of the flow](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/HTTP-flow-run-successfull.png)
+{{< image src="images/blog/HTTP-flow-run-successfull.png" >}}
 
 (Since you can hardly see the result, I paste the body here once again)
 
-![a picture showing the result of the flow again, but different](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/HTTP-flow-result.png)
+{{< image src="images/blog/HTTP-flow-result.png" >}}
 
 And that's it, we used an **HTTP request** to **GET** information from a **API**. Now for the last part of this blog, we want to use some information from this result to be posted in a chat in Teams.
 
@@ -106,16 +106,17 @@ To use a certain information in a variable, you first need to initialize a varia
 **Type**: We want to use a **string** here (a string is a sequence of characters, that can include letters or numbers, but it will be recognized as a "text")
 **Value**: Here we want to define the value of this variable. In our case that means that particular information from this long JSON object (If you want an excellent introduction to JSON, check out Bob germans blog [Introduction to JSON](https://bob1german.com/2021/01/11/introduction-to-json/)).
 
-![a picture showing the value of the property we're looking for](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/JSON-value.png)
+{{< image src="images/blog/JSON-value.png" >}}
+
 We want the value of the property "number"
 
 Notice, that this JSON element consists of three different objects. We have the objects "success", "copyright" and "content". The object "content" contains an object called "nod", which contains two more objects called "category" and "numbers".
 
-![a picture showing the different objects within the JSON object](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/JSON-objects.png)
+{{< image src="images/blog/JSON-objects.png" >}}
 
 As stated earlier, we want the value of the property "number", which is located in the object "numbers" (which is part of the object "nod", which is part of the object "content"). 
 
-![a picture showing the value of the property "number", we're looking for](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/JSON-nod-value.png)
+{{< image src="images/blog/JSON-nod-value.png" >}}
 
 Now we can tell our variable in Power Automate the exact location of the value we want to use in this variable. The expression to "navigate" to the value of this property looks like this:
 `body('HTTP_-_GETnon')['contents']['nod']['numbers']['number']`
@@ -123,7 +124,7 @@ The first part (`body('HTTP_-_GETnon')`) tells where we want to look, the later 
 
 Now you can build in the variable in a "Post message in a chat or channel" action as dynamic content in Flow and it will always show the value of the property of that JSON object.
 
-![a picture showing the variable in the "Post message in a chat or channel" action in MS Teams](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/media/Teams-message.png)
+{{< image src="images/blog/Teams-message.png" >}}
 
 That's it. That is how you call an API, get a JSON object back and use certain values from that object in Power Automate. I hope you liked it and it helps you. If anything is unclear, or you have questions, please feel free to reach out to me. Easiest way would be twitter 😘
 [MichaelRoth42 on twitter](https://twitter.com/MichaelRoth42)
