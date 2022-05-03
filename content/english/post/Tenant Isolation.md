@@ -3,7 +3,7 @@ title: Tenant Isolation
 description: This blog is going to describe what tenant isolation is and how you activate in on your tenant
 date: '2022-05-03T07:43:31.000Z'
 images:
-    - 
+    - images/blog/Tenant_Isolation_title.png
 author: Michael Roth
 tags:
     - Power Platform
