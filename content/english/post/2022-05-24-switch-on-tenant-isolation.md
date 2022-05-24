@@ -1,15 +1,18 @@
 ---
-title: Tenant Isolation
-description: This blog is going to describe what tenant isolation is and how you activate in on your tenant
-date: '2022-05-03T07:43:31.000Z'
-images:
-    - images/blog/Tenant_Isolation_title.png
-author: Michael Roth
+title: Switch on tenant Isolation
+description: ""
+date: 2022-05-24T16:08:19.024Z
+author: "Michael Roth"
 tags:
-    - Power Platform
+  - Power Platform
+  - Governance
+  - Administration
+  - Security
 type: regular
+draft: true
 ---
-# Tenant Isolation
+
+# Switch on tenant isolation
 
 Recently a new (old) Power Platform feature came into preview and it's a huge deal.
 
@@ -19,13 +22,16 @@ Now you have a handy little switch in your Power Platform Admin Center to switch
 
 {{< image src="images/blog/Tenant_Isolation_4.png" >}}
 
-But wait, why should you care? What is cross-tenant isolation anyway?
+## Why should you care?
 
-Basically you can block inbound and outbound connections from and to another tenant.
+Even if you have a very mature security concept (you have multiple DLP policies in place, external sharing is managed, automatic forwarding is disabled, you have the creation of custom connectors monitored) there is a crucial aspect you need to consider.
 
-That means you can create a flow that connects to another tenant, if you have the credentials (anyone ever worked with customer who created a guest account?)
+With tenant isolation you can block inbound and outbound connections from and to another tenant.
 
-Let me show you, what I did to demonstrate this:
+That means without tenant isolation someone can create a flow that connects to another tenant (if you have the credentials).
+If you ever worked with guest accounts, service accounts or external contractors, you should consider this.
+
+Here is a demonstration between a flow that works between two tenants:
 
 I have two tenants:
 **ITPtestlab** and **MichaelRoth42**
@@ -54,8 +60,12 @@ the flow run successful!
 
 {{< image src="images/blog/Tenant_Isolation_6.png" >}}
 
-If that is not scary I don't know what is.
+You see, there is the possibility to run flows from in your tenant from a different tenant.
 
 If you work with multiple tenants in your organization you can add tenant rules to create exceptions. You can decide if this exception is only for inbound, for outbound or for both. That gets you a lot of possibilities to customize it to your needs.
 
-If you want all the details how this works and why, check out Thibault's blog [Power Platform & Tenant isolation: why everyone should have a look at it?](https://www.thijoubert.com/2021-07/PowerPlatform-TenantIsolation/) he explains it pretty straight forward.
+## Further ressources
+
+[Enable cross-tenant isolation](https://docs.microsoft.com/power-platform/guidance/adoption/tenant-isolation)
+
+[Power Platform & Tenant isolation: why everyone should have a look at it?](https://www.thijoubert.com/2021-07/PowerPlatform-TenantIsolation/)

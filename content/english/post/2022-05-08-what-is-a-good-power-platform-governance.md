@@ -3,7 +3,7 @@ title: What is a good Power Platform Governance
 description: This blog asks the questions "What makes for good governance?" and how do we
   create one?
 date: 2022-05-09T15:00:09.925Z
-author: ""
+author: "Michael Roth"
 tags:
   - Power Platform
   - Governance
@@ -44,17 +44,13 @@ In order to help setting up a good governance I will cover two main questions in
 
 Good governance helps to make the benefits of the Power Platform usable in the company. This is what we actually want when we think about integrating the Power Platform into our company.
 
-{{< image src="images/blog/BenefitsOfPowerPlatform.png" >}}
-
-{{< image src="https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/BenefitsOfPowerPlatform.png" >}}
-
-![Test](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/BenefitsOfPowerPlatform.png)
+![a graphic showing the four main areas of benefits from Power Platform usage: Reduced operating costs, increased productivity, improved collaboration and improved employee engagement](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/BenefitsOfPowerPlatform.png)
 
 Everyone must determine for themselves what good governance looks like and it always depends on the organization. The architecture of the IT landscape, the structure, the working culture, the goals and strategies of the organization, all these are determining factors, so no one can simply impose good governance from the outside.
 It must always be adapted to the organization, otherwise it won't paint a coherent picture. (This leads to users trying to circumvent the governance because it is too restrictive or to security gaps because it has only been cared for laxly).
 
 In addition to a basic understanding, I want to provide guidance and questions that will help create good governance. This series consists of technical articles as well as organizational considerations, such as why and how. This is equally important, because for good governance, you don't just have to look at the technology and decide what users are allowed to do and what they are not, but ask yourself, where are we actually going with this? What goal do we want to pursue and how do we get there? Or rather, what questions do we need to ask so that we can find answers to how we can get to our goal?
-
+# 
 How can we use governance to create a framework for all stakeholders that increases the likelihood that they will make good decisions. Good decisions are those that lead us to reach our goal (which we should have defined beforehand).
 
 ### Safespace for maker
