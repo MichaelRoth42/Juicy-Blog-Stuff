@@ -6,6 +6,10 @@
     {
       "title": "post",
       "path": "[[workspace]]/content/english/post"
+    },
+    {
+      "title": "blogimages",
+      "path": "[[workspace]]/assets/images/blog"
     }
   ],
   "frontMatter.taxonomy.contentTypes": [
@@ -54,6 +58,19 @@
           "title": "Draft",
           "name": "draft",
           "type": "boolean"
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "string"
+        },
+        {
+          "title": "images",
+          "name": "images",
+          "type": "choice",
+          "choices": [
+            "images/blog/title-dev-tenant.png"
+          ]
         }
       ]
     }
