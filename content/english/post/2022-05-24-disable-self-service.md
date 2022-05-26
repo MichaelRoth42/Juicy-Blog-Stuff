@@ -2,6 +2,8 @@
 title: Disable self-service
 description: ""
 date: '2022-05-24T16:36:45.435Z'
+images: 
+- images/blog/title-calling-connector.png
 author: "Michael Roth"
 tags:
   - Power Platform

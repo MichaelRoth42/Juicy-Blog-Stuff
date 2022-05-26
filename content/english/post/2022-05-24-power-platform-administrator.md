@@ -2,16 +2,16 @@
 title: Power Platform Administrator
 description: ""
 date: '2022-05-24T14:11:06.185Z'
+images: 
+- images/blog/title-calling-connector.png
 author: "Michael Roth"
 tags: 
     - Power Platform
     - Governance
     - Administration
     - Security
-type: "regular"
-draft: "true"
-image: ""
-images: ""
+type: regular
+draft: true
 ---
 
 # Designate Power Platform Administrator

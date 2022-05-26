@@ -2,6 +2,8 @@
 title: Switch on tenant Isolation
 description: ""
 date: '2022-05-24T16:08:19.024Z'
+images: 
+- images/blog/title-calling-connector.png
 author: "Michael Roth"
 tags:
   - Power Platform
