@@ -15,7 +15,7 @@ type: regular
 
 ## What is a good Power Platform Governance
 
-When we talk about Power Platform Governance we need to set the scene to describe what is meant by Governance.
+When we talk about Power Platform Governance we need to set the scene to describe what is meant by Governance. 
 
 ## Definition of Governance
 
