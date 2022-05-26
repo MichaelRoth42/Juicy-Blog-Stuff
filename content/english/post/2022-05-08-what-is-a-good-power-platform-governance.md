@@ -22,7 +22,7 @@ According to Gartner, IT Governance is defined as the processes that ensure the 
 
 - fits the overall strategy
 - risk mitigation
-	@@ -30,39 +30,127 @@ We want to see how we can help users of Power Platform help to make good decisio
+- @@ We want to see how we can help users of Power Platform help to make good decision
 - enables IT to create value that fits into overall business strategy
 - ROI of IT decisions
 
