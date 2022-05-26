@@ -2,14 +2,8 @@
 title: What is a good Power Platform Governance
 description: "This blog asks the questions 'What makes for good governance?' and how do we create one?"
 date: '2022-05-09T07:43:31.000Z'
-images:
-    - images/blog/Tenant_Isolation_title.png
-author: Michael Roth
-tags:
-    - Power Platform
 type: regular
 ---
-
 
 ## What is a good Power Platform Governance
 
