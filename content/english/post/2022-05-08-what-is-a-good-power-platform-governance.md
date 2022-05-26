@@ -10,7 +10,7 @@ tags:
   - Administration
   - Security
 type: regular
-draft: true
+
 ---
 
 ## What is a good Power Platform Governance
