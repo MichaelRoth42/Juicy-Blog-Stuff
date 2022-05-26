@@ -1,7 +1,6 @@
 ---
 title: What is a good Power Platform Governance
-description: This blog asks the questions "What makes for good governance?" and how do we
-  create one?
+description: "This blog asks the questions 'What makes for good governance?' and how do we create one?"
 date: '2022-05-09T15:00:09.925Z'
 images: 
 - images/blog/title-calling-connector.png
@@ -15,7 +14,7 @@ type: regular
 draft: true
 ---
 
-# What is a good Power Platform Governance
+## What is a good Power Platform Governance
 
 When we talk about Power Platform Governance we need to set the scene to describe what is meant by Governance.
 
@@ -52,7 +51,7 @@ Everyone must determine for themselves what good governance looks like and it al
 It must always be adapted to the organization, otherwise it won't paint a coherent picture. (This leads to users trying to circumvent the governance because it is too restrictive or to security gaps because it has only been cared for laxly).
 
 In addition to a basic understanding, I want to provide guidance and questions that will help create good governance. This series consists of technical articles as well as organizational considerations, such as why and how. This is equally important, because for good governance, you don't just have to look at the technology and decide what users are allowed to do and what they are not, but ask yourself, where are we actually going with this? What goal do we want to pursue and how do we get there? Or rather, what questions do we need to ask so that we can find answers to how we can get to our goal?
-# 
+
 How can we use governance to create a framework for all stakeholders that increases the likelihood that they will make good decisions. Good decisions are those that lead us to reach our goal (which we should have defined beforehand).
 
 ### Safespace for maker
@@ -87,7 +86,7 @@ I'll start with a real-world example of a company struggling to increase user ad
 
 **Level 4 - Mental Model**: User don't know their way around data, therefore we should Power Platform down, so user don't break things
 
-*"What can we now do about it? Make people aware of the broken system that doesn't meet our needs anymore, and that forces people into workarounds, unhealthy work ethics, and poor connection to their organization.* 
+*"What can we now do about it? Make people aware of the broken system that doesn't meet our needs anymore, and that forces people into workarounds, unhealthy work ethics, and poor connection to their organization.*
 
 > Please stop trying to fix users when we need to fix this system.
 
@@ -111,7 +110,7 @@ So before we turn to the content of good governance, we urgently need to put our
 
 Let's turn to the second question, what belongs in good governance?
 
-As mentioned earlier, there is not one good governance that works for different organizations. The architecture of the IT landscape, the setup, the work culture, goals and strategies of the organization, these are all determining factors, so no one can just slap good governance on it from the outside. 
+As mentioned earlier, there is not one good governance that works for different organizations. The architecture of the IT landscape, the setup, the work culture, goals and strategies of the organization, these are all determining factors, so no one can just slap good governance on it from the outside.
 
 But there are a few things that should be considered at a minimum, which I have grouped into the following categories. Each category consists of its own articles, which should help to understand the different aspects in order to create a good basis for governance.
 
