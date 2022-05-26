@@ -1,7 +1,7 @@
 ---
 title: Think about limiting environment creation
 description: ""
-date: 2022-05-24T15:30:38.565Z
+date: '2022-05-24T15:30:38.565Z'
 author: "Michael Roth"
 tags:
   - Power Platform

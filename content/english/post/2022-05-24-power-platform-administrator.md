@@ -1,7 +1,7 @@
 ---
 title: Power Platform Administrator
 description: ""
-date: 2022-05-24T14:11:06.185Z
+date: '2022-05-24T14:11:06.185Z'
 author: "Michael Roth"
 tags: 
     - Power Platform
