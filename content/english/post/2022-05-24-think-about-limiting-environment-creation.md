@@ -4,7 +4,7 @@ description: ""
 date: '2022-05-24T15:30:38.565Z'
 images: 
 - images/blog/title-calling-connector.png
-author: "Michael Roth"
+author: Michael Roth
 tags:
   - Power Platform
   - Governance

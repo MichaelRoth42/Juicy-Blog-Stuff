@@ -5,7 +5,7 @@ description: This blog asks the questions "What makes for good governance?" and 
 date: '2022-05-09T15:00:09.925Z'
 images: 
 - images/blog/title-calling-connector.png
-author: "Michael Roth"
+author: Michael Roth
 tags:
   - Power Platform
   - Governance
