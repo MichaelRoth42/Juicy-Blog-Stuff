@@ -36,7 +36,7 @@ I'm happily working on my **MichaelRoth42** tenant and come up with a cool flow 
 
 Everytime a new file get's created in the **ITPtestlab** tenant (and I choose OneDrive to keep in simple) I want to get a notification in my **MichaelRoth42** tenant. Just to demonstrate, that I can create a flow between two tenants, despite both user accounts don't have access to the other tenant.
 
-So, my trigger is OneDrive - When a file is created. I then select the ellipsis and add another connection. I log in with the credentials from the **ITPtestlab** tenant and that's it. A new connection is done. 
+So, my trigger is OneDrive - When a file is created. I then select the ellipsis and add another connection. I log in with the credentials from the **ITPtestlab** tenant and that's it. A new connection is done.
 
 {{< image src="images/blog/Tenant_Isolation_2.png" >}}
 

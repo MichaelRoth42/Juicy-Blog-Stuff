@@ -1,11 +1,18 @@
 ---
 title: What is a good Power Platform Governance
-description: "This blog asks the questions 'What makes for good governance?' and how do we create one?"
-date: '2022-05-09T07:43:31.000Z'
+description: This blog asks the questions "What makes for good governance?" and how do we
+  create one?
+date: '2022-05-26T20:34:32.391Z'
+author: ""
+tags:
+  - Power Platform
+  - Governance
+  - Administration
+  - Security
 type: regular
 ---
 
-## What is a good Power Platform Governance
+# What is a good Power Platform Governance
 
 When we talk about Power Platform Governance we need to set the scene to describe what is meant by Governance.
 
@@ -15,17 +22,13 @@ According to Gartner, IT Governance is defined as the processes that ensure the 
 
 - fits the overall strategy
 - risk mitigation
-- data security
-- connects IT and business
-- enables Maker to achieve more
-- helps with good decision making
+	@@ -30,39 +30,127 @@ We want to see how we can help users of Power Platform help to make good decisio
 - enables IT to create value that fits into overall business strategy
 - ROI of IT decisions
 
 The clue is, that a good governance should always consider the user and make them a cornerstone in developing the governance.
 
 > Core idea: Governance and adoption are very closely intertwined and empowers users. If you think about governance, you have to think about users. Create safe space for all makers in order to develop a thriving and engaging usage around Power Platform in order to achieve tech intensity.
-
 I often experience that a lot of organizations don't have a governance concept in place considering Power Platform. I think this is because the very core nature of the Platform: bringing maker and code first developer together with low-code.
 In order to help setting up a good governance I will cover two main questions in this blog:
 
@@ -36,7 +39,7 @@ In order to help setting up a good governance I will cover two main questions in
 
 Good governance helps to make the benefits of the Power Platform usable in the company. This is what we actually want when we think about integrating the Power Platform into our company.
 
-
+{{< image src="images/blog/BenefitsOfPowerPlatform.png" >}}
 
 Everyone must determine for themselves what good governance looks like and it always depends on the organization. The architecture of the IT landscape, the structure, the working culture, the goals and strategies of the organization, all these are determining factors, so no one can simply impose good governance from the outside.
 It must always be adapted to the organization, otherwise it won't paint a coherent picture. (This leads to users trying to circumvent the governance because it is too restrictive or to security gaps because it has only been cared for laxly).
@@ -55,7 +58,7 @@ Governance is often used in organizations that are structured in a now-outdated 
 - Maintain control,
 - Ensure planning certainty,
 - isolate knowledge.
-  
+
 This is often underpinned by the fact that this is necessary to maintain data security and protection. It is often assumed that the business world as we know it from the last 40 years still exists. But that's not the case, because to put it succinctly: Control, predictability, and hierarchies no longer meet the needs of modern organizations; accordingly, as the demands on governance change, so must the demands on modern organizations. As explained in detail in the article [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail), it is necessary to abolish old mental models and replace them with new ones so that the benefits of M365 and the Power Platform can be lived by the users.
 
 Old mental models and their modern equivalent:
@@ -77,10 +80,9 @@ I'll start with a real-world example of a company struggling to increase user ad
 
 **Level 4 - Mental Model**: User don't know their way around data, therefore we should Power Platform down, so user don't break things
 
-*"What can we now do about it? Make people aware of the broken system that doesn't meet our needs anymore, and that forces people into workarounds, unhealthy work ethics, and poor connection to their organization.*
+*"What can we now do about it? Make people aware of the broken system that doesn't meet our needs anymore, and that forces people into workarounds, unhealthy work ethics, and poor connection to their organization.* 
 
 > Please stop trying to fix users when we need to fix this system.
-
 If we want to get a different event or outcome, we have to work on the underlying issue, the root of the problem. In order to change the outcome on the event level, we have to change our mental model first.
 To make it easier, I will turn the iceberg model upside down:
 
@@ -101,7 +103,7 @@ So before we turn to the content of good governance, we urgently need to put our
 
 Let's turn to the second question, what belongs in good governance?
 
-As mentioned earlier, there is not one good governance that works for different organizations. The architecture of the IT landscape, the setup, the work culture, goals and strategies of the organization, these are all determining factors, so no one can just slap good governance on it from the outside.
+As mentioned earlier, there is not one good governance that works for different organizations. The architecture of the IT landscape, the setup, the work culture, goals and strategies of the organization, these are all determining factors, so no one can just slap good governance on it from the outside. 
 
 But there are a few things that should be considered at a minimum, which I have grouped into the following categories. Each category consists of its own articles, which should help to understand the different aspects in order to create a good basis for governance.
 
