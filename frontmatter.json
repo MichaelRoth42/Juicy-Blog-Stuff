@@ -74,5 +74,6 @@
         }
       ]
     }
-  ]
+  ],
+  "frontMatter.templates.enabled": false
 }
