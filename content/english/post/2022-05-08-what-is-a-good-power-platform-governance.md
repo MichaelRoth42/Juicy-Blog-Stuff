@@ -36,7 +36,7 @@ In order to help setting up a good governance I will cover two main questions in
 
 Good governance helps to make the benefits of the Power Platform usable in the company. This is what we actually want when we think about integrating the Power Platform into our company.
 
-![a graphic showing the four main areas of benefits from Power Platform usage: Reduced operating costs, increased productivity, improved collaboration and improved employee engagement](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/BenefitsOfPowerPlatform.png)
+
 
 Everyone must determine for themselves what good governance looks like and it always depends on the organization. The architecture of the IT landscape, the structure, the working culture, the goals and strategies of the organization, all these are determining factors, so no one can simply impose good governance from the outside.
 It must always be adapted to the organization, otherwise it won't paint a coherent picture. (This leads to users trying to circumvent the governance because it is too restrictive or to security gaps because it has only been cared for laxly).
