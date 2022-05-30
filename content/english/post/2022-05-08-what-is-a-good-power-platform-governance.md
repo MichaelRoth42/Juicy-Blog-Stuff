@@ -1,5 +1,5 @@
 ---
-title: What is a good Power Platform Governance
+title: What is good Power Platform Governance
 description: This blog asks what good power platform governance is, what patterns need to be identified for good implementation, and what should be considered technically
 date: '2022-05-26T20:34:32.391Z'
 author: "Michael Roth"
@@ -12,59 +12,75 @@ type: regular
 draft: true
 ---
 
-# What is a good Power Platform Governance
 
-When we talk about Power Platform Governance we need to set the scene to describe what is meant by Governance.
-
-## Definition of Governance
-
-According to the [Gartner Glossary](https://www.gartner.com/en/information-technology/glossary/it-governance), IT Governance is defined as the processes that ensure the effective and efficient use of IT in enabling an organization to achieve its goals. In order to do so, governance concepts have a number of objectives to ensure the demand-side and the supply-side of IT processes:
-
-- fits the overall strategy
-- risk mitigation
-- We want to see how we can help users of Power Platform help to make good decision
-- enables IT to create value that fits into overall business strategy
-- ROI of IT decisions
-
-The clue is, that a good governance should always consider the user and make them a cornerstone in developing the governance.
-
-> Core idea: Governance and adoption are very closely intertwined and empowers users. If you think about governance, you have to think about users. Create safe space for all makers in order to develop a thriving and engaging usage around Power Platform in order to achieve tech intensity.
-I often experience that a lot of organizations don't have a governance concept in place considering Power Platform. I think this is because the very core nature of the Platform: bringing maker and code first developer together with low-code.
-In order to help setting up a good governance I will cover two main questions in this blog:
-
-1. What are the benefits of good power platform governance? Aka why should you care?
-2. What's needed to create a good Power Platform governance?
-
-## What are the benefits of good power platform governance?
-
-Good governance helps to make the benefits of the Power Platform usable in the company. This is what we actually want when we think about integrating the Power Platform into our company.
-
-{{< image src="images/blog/BenefitsOfPowerPlatform.png" >}}
-
-Everyone must determine for themselves what good governance looks like and it always depends on the organization. The architecture of the IT landscape, the structure, the working culture, the goals and strategies of the organization, all these are determining factors, so no one can simply impose good governance from the outside.
-It must always be adapted to the organization, otherwise it won't paint a coherent picture. (This leads to users trying to circumvent the governance because it is too restrictive or to security gaps because it has only been cared for laxly).
+## Introduction to Governance blog post series
 
 In addition to a basic understanding, I want to provide guidance and questions that will help create good governance. This series consists of technical articles as well as organizational considerations, such as why and how. This is equally important, because for good governance, you don't just have to look at the technology and decide what users are allowed to do and what they are not, but ask yourself, where are we actually going with this? What goal do we want to pursue and how do we get there? Or rather, what questions do we need to ask so that we can find answers to how we can get to our goal?
 
-How can we use governance to create a framework for all stakeholders that increases the likelihood that they will make good decisions. Good decisions are those that lead us to reach our goal. 
-That means, as a first step we need to define our goal. If we don't know where we're heading, we can't determine the steps necessary. Ask yourself...
-- who's the target audience for Power Platform? Citizen Developer, Code first Developer, the admin team or all of them?
-- Do we want to tackle personal productivity solutions or are we looking to retire legacy tools and processes?
-- What do we want to use Power Platform form in the first place?
+This is part 0 for setting the scene, in the upcoming parts, learn more about:
+
+- part 1: Basics
+- part 2: Environment considerations
+- part 3: DLP policies
+- part 4: Monitoring
+- part 5: Maker enablement
+
+---- Let's get started
+
+## Definition of Governance
+
+I would like to start by briefly clarifying what IT governance is good for in companies.
+IT governance provides a framework for how tools and services should be used. This framework serves to ensure that the tools and services are used in such a way that they contribute to the goals of the organization. It also aims to ensure security and efficient use.
+Governance, then, is something that relates directly to user behavior.
+Users and their behavior should also impact organizational goals, so tools and services are available to help users better realize them.
+So governance is about ensuring data security, ensuring compliant use, enabling efficiency, and thus enabling users to work better with tools and services.
+
+Accordingly, a governance concept should always closely involve the user.
+
+>A good governance develops a thriving and engaging usage around Power Platform in order to achieve tech intensity.
+
+Many organizations do not have a Power Platform Governance concept at all. And this is often due to the fact that there are no clearly defined Power Platform goals. Therefore, the rules for governance are often vague: Either they are too restrictive and leave little to no room for maneuver, or they are virtually non-existent.
+Too hard governance rules often result in poor user adoption (and thus poor ROI) and lead to shadow IT solutions.
+If there are no rules or hardly any rules implemented, this often leads to a wild growth of apps, little overview and resulting security gaps.
+
+The Power Platform is complex, so it is not easy to create a good concept, but it is worth it. To make this clear, I will answer two questions in this blog.
+
+//work over
+## What are the benefits of good Power Platform governance?
+
+Good governance helps making the benefits of Power Platform usable in a company. This is what we actually want when we think about integrating Power Platform into our company:
+
+{{< image src="images/blog/BenefitsOfPowerPlatform.png" >}}
+
+Every organization needs to determine what good governance looks like depending on their unique requirements. Determining factors are the architecture of IT landscape, structure, corporate culture, goals and strategies of an organization, which is why no one can impose good governance from the outside.
+Even advanced or elaborated concepts needs to be adapted to an organization, otherwise it won't paint a coherent picture.
+
+In that case it would lead to either users trying to circumvent the governance because it was too restrictive or to security gaps because it has only been cared for too laxly.
+
+We will utilize the Power Platform governance concept to support users in making good decisions that align with corporate and IT strategic objectives.
+
+To define our goals, we can use the following supporting questions as a guideline
+
+- Who shall benefit from Power Platform? Citizen Developers, Code first Developers, Admin teams, or all of them?
+- What is the intended scope of Power Platform (Do we want to tackle personal productivity solutions or are we looking to retire legacy tools and processes? Or are we looking into mission critical, organization-wide solutions)
 - Do we want to buy a low-code app or do we want to invest in a platform?
 
-If you have a look at the benefits of Power Platform again, you may realize that there are four different goals. Don't get me wrong, you can achieve all of them, but you should know where to start in order to not get overwhelmed.
+We can identify four goals of Power Platform - Don't get me wrong, you can achieve all of them, but you should know where to start to not get overwhelmed.
 
 >Don't Half-Ass multiple Things, Whole-Ass THE Thing
 
-If you start to work on multiple goals at once, it's likely to not reach any of them. Set a smart goal, then track your progress with success criteria as you go along (hint: the [Power Platform Adoption workbook](https://aka.ms/powerplatformadoptionworkbook) has a few awesome resources to help you with that)
+Set a smart goal, then track your progress with success criteria as you go along (hint: the [Power Platform Adoption workbook](https://aka.ms/powerplatformadoptionworkbook) has a few awesome resources to help you with that).
 
-### Safespace for maker
+### Safe space for maker
 
-If we want to benefit from the Power Platform, we need to help the ones using it to make better decisions. Decisions that lead to a good outcome. And users will need a room to make those decisions, where they can't break things and where they have the chance to learn how to make good decisions. With a governance concept we can create such room, which I like to call a safespace for makers.
-User need access to the tools, they need the training how to use the tools and they need the chance to try them out, without constantly encountering resistance and without having the feeling that they are not allowed to do so. By creating a safespace for makers, we can use governance to give users the possibility to learn how to increase productivity, improve collaboration and engagement with Power Platform.
+I often talk about a term I call safe space for makers and I'd like to explain what I mean by that. Maker need an environment in which they can learn how to use all the tools of Power Platform according to the rules, regulations and governance policies you have in your tenant. 
+That means that the exact same rules, regulations and governance policies which are in place in your production environment have to be in that safe place as well. Otherwise you don't learn the rules. Otherwise you're just playing.
 
-Governance models are still often used to prohibit things, to shut down and restrict opportunities. This grows out of an outdated understanding of the capabilities of my users and creates an IT vs Business mentality.
+The point is, that if user break something in this safe space, it can be reset. This is important for the user to know. People learn through trial and error and many organizations don't want errors, so they forbid trial in the first place. That's not how learning takes place.
+
+In this environment, people have access to the tools, are taught about the rules and how to use the tools accordingly. This is mandatory in order to teach makers how to use Power Platform for their personal productivity and for business productivity alike.
+
+A lot of governance models are still used to prohibit access and possibilities, to shut down and restrict opportunities. This comes out of an outdated understanding of the capabilities of users and creates an IT vs Business mentality.
 
 As a result, you often find models that are designed to ensure...
 
@@ -93,9 +109,10 @@ I'll start with a real-world example of a company struggling to increase user ad
 
 **Level 4 - Mental Model**: User don't know their way around data, therefore we should Power Platform down, so user don't break things
 
-*"What can we now do about it? Make people aware of the broken system that doesn't meet our needs anymore, and that forces people into workarounds, unhealthy work ethics, and poor connection to their organization.* 
+Now what can we now do about it? With our considerations behind a governance concept, we can make people aware of the broken system that doesn't meet the needs anymore, and that forces people into workarounds, unhealthy work ethics, and poor connection to their organization.
 
 > Please stop trying to fix users when we need to fix this system.
+
 If we want to get a different event or outcome, we have to work on the underlying issue, the root of the problem. In order to change the outcome on the event level, we have to change our mental model first.
 To make it easier, I will turn the iceberg model upside down:
 
@@ -134,6 +151,10 @@ But there are a few things that should be considered at a minimum, which I have 
 - security groups
 
 ### Data Loss Prevention Policies
+
+- Layering DLPs
+- Connector action control & endpoint filtering
+- PowerShell possibilities
 
 ### Monitoring whats going on
 
