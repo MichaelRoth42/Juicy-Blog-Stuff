@@ -44,8 +44,6 @@ In my experience, many organizations do not have a specific Power Platform Gover
 Too strict governance rules often result in poor user adoption (and thus poor ROI) and lead to shadow IT solutions.
 If there are no or hardly any rules enforced, this often leads to a wild and uncontrolled growth of apps, poor overview and thus resulting security gaps.
 
-//work over
-
 ## What are the benefits of good Power Platform governance?
 
 Good governance helps making the benefits of Power Platform usable in an organization:
@@ -83,11 +81,9 @@ The point is, that if user break something in this safe space, it can be reset. 
 
 In this environment, people have access to the tools, are taught about the rules and how to use the tools accordingly. This is mandatory in order to teach makers how to use Power Platform for their personal productivity and for business productivity alike.
 
-//TODO  rework so that it sounds less hostile "Zielkonflikt" --> unser Artikel
 The difficult part with governance is, that a there is a conflict of objectives. The objective of the IT department is, to maintain the functionality and security of the system, to keep the status quo. 
 When any new tool is introduced, the objective is to change behaviour for the better in order to optimize working processes. There is a conflict between keeping the status quo and changing it. Both objectives are equally valid, they just come from different areas of the organization. 
 In order to understand how to create a governance that maintains data security and protection on the one hand, yet enables users to experience new possibilities to develop business processes through low code platforms, we need to ask ourselves how governance models have often been designed.
-
 
 A lot of governance models are still used to prohibit access and possibilities, to shut down and restrict opportunities. This comes out of an outdated understanding of the capabilities of users and creates an IT vs Business mentality.
 
@@ -103,27 +99,29 @@ Before I make a clear comparison of old and new mental models, I want to give a 
 
 The acronym VUCA describes the environment in which modern organizations operate: These environments are volatile, uncertain, complex and ambiguous
 
-	```
-{
-Volatility: The world is changing faster than ever before, BUT the world will never change as slowly as it is right now. In other words, the pace of change will continue to increase. New challenges, competitors, and different unpredictable factors are something we have to deal with. That means that long term planning and the reliability of this planning won't be sufficient for modern organizations.
+**_NOTE:_**<br>
+**Volatility:** The world is changing faster than ever before, BUT the world will never change as slowly as it is right now. In other words, the pace of change will continue to increase. New challenges, competitors, and different unpredictable factors are something we have to deal with. That means that long term planning and the reliability of this planning won't be sufficient for modern organizations.
 
-Uncertainty: Predictability and calculability of events are rapidly decreasing; forecasts and experiences from the past due to shaping the future are losing their validity and relevance. Just look at how quickly and comprehensively COVID-19 changed the way we work. Do we have to say more?
+**Uncertainty:** Predictability and calculability of events are rapidly decreasing; forecasts and experiences from the past due to shaping the future are losing their validity and relevance. Just look at how quickly and comprehensively COVID-19 changed the way we work. Do we have to say more?
 
-Complexity: We live in a complex and connected world with various connections that are difficult to keep track of, making it challenging to clearly define cause and effect. The world is not just complicated; it's complex.
+**Complexity:** We live in a complex and connected world with various connections that are difficult to keep track of, making it challenging to clearly define cause and effect. The world is not just complicated; it's complex.
 
-Ambiguity:The aspects described above make it clear that decisions today are no longer straightforward. 'One size fits all' is rarely a suitable model anymore. It is often not a question of WHAT, but of HOW and WHY. This leads to the fact that the demands on organizations today are paradoxical, sometimes even contradictory.
-}
-```
+**Ambiguity:** The aspects described above make it clear that decisions today are no longer straightforward. 'One size fits all' is rarely a suitable model anymore. It is often not a question of WHAT, but of HOW and WHY. This leads to the fact that the demands on organizations today are paradoxical, sometimes even contradictory.
 
-I will give an example of old mental models and their modern equivalent:
+---
+
+> In an ever-changing environment, a strategy based on inflexibility can never be successful.
+
+Now as we can see, old mental models can't succeed in a modern organization, so let's have a look and compare old and new mental models:
 
 - Controlling --> Empowerment
 - Planning --> Experimentation
 - Privacy --> Transparency
 
-//TODO ausfuehren, warum altes denken neue probleme nicht loest --> (VUCA)
+I will use the [iceberg model](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail#defining-the-iceberg-model) to illustrate this, as it makes it easier to understand which structures, patterns, and mental models lead to certain behaviors. The iceberg model helps us look behind the events we can perceive. So we look at events that are based on patterns that are favored by structures that are based on mental models. So with the iceberg model we can filter out the root causes of certain events. 
+We can only change user behavior in the long term and sustainably if we work on the causes, the mental models.
 
-I will use the [iceberg model](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail#defining-the-iceberg-model) to illustrate this, as it makes it easy to understand which structures, patterns, and mental models lead to certain behaviors. If you want to create a governance concept that helps users making the right decisions and to increase security, it is necessary to create the right foundation.
+If you want to create a governance concept that helps users making the right decisions and to increase security, it is necessary to create the right foundation.
 
 I'll start with a real-world example of a company struggling to increase user adoption. As a result, Power Platform could not be sustainably implemented in the company, which led to neither the expected benefits nor the expected ROI being achieved.
 
@@ -139,8 +137,7 @@ I'll start with a real-world example of a company struggling to increase user ad
 
 Now what can we now do about it? With our considerations behind a governance concept, we can make people aware of the broken system that doesn't meet the needs anymore, and that forces people into workarounds, unhealthy work ethics, and poor connection to their organization.
 
-// TODO make it a quote
-> Please stop trying to fix users when we need to fix this system.
+> Stop trying to fix users when you need to fix the system.
 
 In order to change the outcome on the event level, we need to change our mental model first. To make it easier, I will turn the iceberg model upside down:
 
