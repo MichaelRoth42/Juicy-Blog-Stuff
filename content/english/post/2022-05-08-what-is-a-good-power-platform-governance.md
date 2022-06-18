@@ -15,7 +15,7 @@ draft: true
 
 ## Introduction to Governance blog post series
 
-In addition to a basic understanding, I want to provide guidance and questions that will help create good governance. This series consists of technical articles as well as organizational considerations, such as why and how. This is equally important, because for good governance, you don't just have to look at the technology and decide what users are allowed to do and what they are not, but ask yourself, where are we actually going with this? What goal do we want to pursue and how do we get there? Or rather, what questions do we need to ask so that we can find answers to how we can get to our goal?
+This series consists of technical articles as well as organizational considerations, such as why and how to create a good governance for Power Platform. This is equally important, because for good governance, you don't just have to look at the technology and decide what users are allowed to do and what they are not, but ask yourself, where are we actually going with this? What goal do we want to pursue and how do we get there? Or rather, what questions do we need to ask so that we can find answers to how we can get to our goal?
 
 This is part 0 for setting the scene, in the upcoming parts, learn more about:
 
@@ -28,8 +28,6 @@ This is part 0 for setting the scene, in the upcoming parts, learn more about:
 ---- Let's get started
 
 ## Definition of Governance
-
-I will start by briefly clarifying how organizations can benefit from IT governance.
 
 IT governance provides a framework for how tools and services should be used. This framework contributes to ensuring that tools and services are used in a way that they align with and work towards the objectives of the organization. It also aims to establish security and efficient usage.
 Thus, governance relates directly to user behavior.
@@ -71,15 +69,15 @@ To define our goals, we can use the following supporting questions as a guidelin
 
 - Do we want to buy one low-code app or do we want to invest in a platform?
 
-### Safe space for maker
+### Learning environment for maker
 
-I often talk about a term I call safe space for makers and I'd like to explain what I mean by that. Makers need an environment in which they can learn how to use all the tools of Power Platform according to the rules, regulations and governance policies you have in your tenant.
-That means that the exact same rules, regulations and governance policies which are in place in your production environment have to be in that safe place as well. 
+Makers need an environment in which they can learn how to use all the tools of Power Platform according to the rules, regulations and governance policies you have in your tenant. Let's call it a learning environment.
+In this environment the exact same rules, regulations and governance policies, which are in place in your production environment, have to be in that learning environment as well. 
 It's important that user experience the same working conditions across different environments, in order to learn how to use the tools. 
 
-The point is, that if user break something in this safe space, it can be reset. This is important for the user to know. People learn through trial and error and many organizations don't want errors, so they forbid trial in the first place. That's not how learning takes place.
+The point is, that if user break something in this lesarning environment, it can be reset. This is important for the user to know, since humans learn through trial and error. Yet many organizations don't want errors, so they forbid trial in the first place. That's not how learning takes place.
 
-In this environment, people have access to the tools, are taught about the rules and how to use the tools accordingly. This is mandatory in order to teach makers how to use Power Platform for their personal productivity and for business productivity alike.
+In this learning environment, people have access to the tools, are taught about the rules and how to use the tools accordingly. This is mandatory in order to teach makers how to use Power Platform for their personal productivity and for business productivity alike.
 
 The difficult part with governance is, that a there is a conflict of objectives. The objective of the IT department is, to maintain the functionality and security of the system, to keep the status quo. 
 When any new tool is introduced, the objective is to change behaviour for the better in order to optimize working processes. There is a conflict between keeping the status quo and changing it. Both objectives are equally valid, they just come from different areas of the organization. 
@@ -93,11 +91,9 @@ In a classic, often outdated perception of how we work together in organizations
 - ensure planning certainty and
 - isolate knowledge so the user can't break anything and we can ensure the stability of the system.
 
-As I said, this is the logical consequence from an old understanding of how organizations work. The concept of control, predictability and hierarchies are the main drivers for this mindset, yet these concepts no longer meet the needs of modern organizations; accordingly, as the demands on modern organizations change, so must the demands on a modern governance concept. As explained in detail in the article [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail), it is necessary to abolish old mental models and replace them with new ones so that the benefits of Microsoft 365 and Power Platform can be leveraged by the organization.
+This is the logical consequence from an old understanding of how organizations work. The concept of control, predictability and hierarchies are the main drivers for this mindset, yet these concepts no longer meet the needs of modern organizations; accordingly, as the demands on modern organizations change, so must the demands on a modern governance concept. As explained in detail in the article [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail), it is necessary to abolish old mental models and replace them with new ones so that the benefits of Microsoft 365 and Power Platform can be leveraged by the organization. Because old thinking cannot solve new problems (or also: why we have to adapt our thinking).
 
-Before I make a clear comparison of old and new mental models, I want to give a little insight into why old thinking cannot solve new problems (or also: why we have to adapt our thinking)
-
-The acronym VUCA describes the environment in which modern organizations operate: These environments are volatile, uncertain, complex and ambiguous
+The acronym VUCA describes the environments in which modern organizations operate and illustrates why we need to adapt our ways of thinking: These environments are volatile, uncertain, complex and ambiguous.
 
 **_NOTE:_**<br>
 **Volatility:** The world is changing faster than ever before, BUT the world will never change as slowly as it is right now. In other words, the pace of change will continue to increase. New challenges, competitors, and different unpredictable factors are something we have to deal with. That means that long term planning and the reliability of this planning won't be sufficient for modern organizations.
