@@ -38,11 +38,9 @@ In essence, governance is about ensuring data security, ensuring compliant use, 
 
 Accordingly, a governance concept needs to be user-centric.
 
-// TODO gov is not only limited to PP, rework
+>A good governance develops a thriving and engaging usage in order to achieve tech intensity.
 
->A good governance develops a thriving and engaging usage around Power Platform in order to achieve tech intensity.
-
-In my experience, many organizations do not have a Power Platform Governance concept at all as they did not clearly define their goals with Power Platform. Therefore, the rules for governance are often vague: Either they are too restrictive and leave little to no room for maneuver, or they are virtually non-existent.
+In my experience, many organizations do not have a specific Power Platform Governance concept at all as they did not clearly define their goals with Power Platform. Therefore, the rules for governance are often vague: Either they are too restrictive and leave little to no room for maneuver, or they are virtually non-existent.
 Too strict governance rules often result in poor user adoption (and thus poor ROI) and lead to shadow IT solutions.
 If there are no or hardly any rules enforced, this often leads to a wild and uncontrolled growth of apps, poor overview and thus resulting security gaps.
 
@@ -78,26 +76,44 @@ To define our goals, we can use the following supporting questions as a guidelin
 ### Safe space for maker
 
 I often talk about a term I call safe space for makers and I'd like to explain what I mean by that. Makers need an environment in which they can learn how to use all the tools of Power Platform according to the rules, regulations and governance policies you have in your tenant.
-That means that the exact same rules, regulations and governance policies which are in place in your production environment have to be in that safe place as well.
-//TODO its not about following or learning the rules per se, but about finding the same working conditions across env.- rework
+That means that the exact same rules, regulations and governance policies which are in place in your production environment have to be in that safe place as well. 
+It's important that user experience the same working conditions across different environments, in order to learn how to use the tools. 
 
- Otherwise you don't learn the rules. Otherwise you're just playing.
-
-// TODO translate to written language
 The point is, that if user break something in this safe space, it can be reset. This is important for the user to know. People learn through trial and error and many organizations don't want errors, so they forbid trial in the first place. That's not how learning takes place.
 
 In this environment, people have access to the tools, are taught about the rules and how to use the tools accordingly. This is mandatory in order to teach makers how to use Power Platform for their personal productivity and for business productivity alike.
 
 //TODO  rework so that it sounds less hostile "Zielkonflikt" --> unser Artikel
+The difficult part with governance is, that a there is a conflict of objectives. The objective of the IT department is, to maintain the functionality and security of the system, to keep the status quo. 
+When any new tool is introduced, the objective is to change behaviour for the better in order to optimize working processes. There is a conflict between keeping the status quo and changing it. Both objectives are equally valid, they just come from different areas of the organization. 
+In order to understand how to create a governance that maintains data security and protection on the one hand, yet enables users to experience new possibilities to develop business processes through low code platforms, we need to ask ourselves how governance models have often been designed.
+
+
 A lot of governance models are still used to prohibit access and possibilities, to shut down and restrict opportunities. This comes out of an outdated understanding of the capabilities of users and creates an IT vs Business mentality.
 
-As a result, you often find models that are designed to ensure...
+In a classic, often outdated perception of how we work together in organizations, there is the idea of silos. Employees work in their area and don't really collaborate with people from other areas. They each have their own goals, strategies and objectives. Following that logic, we often find governance models that make sure to achieve the objective to keep the status quo. We do that by designing governance models to...
 
-- Maintain control,
-- Ensure planning certainty and
-- isolate knowledge.
+- maintain control,
+- ensure planning certainty and
+- isolate knowledge so the user can't break anything and we can ensure the stability of the system.
 
-This is often substantiated to maintain data security and protection. Which is important, but the idea of how to achieve this is often a very outdated idea: Control, predictability, and hierarchies no longer meet the needs of modern organizations; accordingly, as the demands on modern organizations change, so must the demands on a modern governance concept. As explained in detail in the article [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail), it is necessary to abolish old mental models and replace them with new ones so that the benefits of Microsoft 365 and Power Platform can be leveraged by the organization.
+As I said, this is the logical consequence from an old understanding of how organizations work. The concept of control, predictability and hierarchies are the main drivers for this mindset, yet these concepts no longer meet the needs of modern organizations; accordingly, as the demands on modern organizations change, so must the demands on a modern governance concept. As explained in detail in the article [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail), it is necessary to abolish old mental models and replace them with new ones so that the benefits of Microsoft 365 and Power Platform can be leveraged by the organization.
+
+Before I make a clear comparison of old and new mental models, I want to give a little insight into why old thinking cannot solve new problems (or also: why we have to adapt our thinking)
+
+The acronym VUCA describes the environment in which modern organizations operate: These environments are volatile, uncertain, complex and ambiguous
+
+	```
+{
+Volatility: The world is changing faster than ever before, BUT the world will never change as slowly as it is right now. In other words, the pace of change will continue to increase. New challenges, competitors, and different unpredictable factors are something we have to deal with. That means that long term planning and the reliability of this planning won't be sufficient for modern organizations.
+
+Uncertainty: Predictability and calculability of events are rapidly decreasing; forecasts and experiences from the past due to shaping the future are losing their validity and relevance. Just look at how quickly and comprehensively COVID-19 changed the way we work. Do we have to say more?
+
+Complexity: We live in a complex and connected world with various connections that are difficult to keep track of, making it challenging to clearly define cause and effect. The world is not just complicated; it's complex.
+
+Ambiguity:The aspects described above make it clear that decisions today are no longer straightforward. 'One size fits all' is rarely a suitable model anymore. It is often not a question of WHAT, but of HOW and WHY. This leads to the fact that the demands on organizations today are paradoxical, sometimes even contradictory.
+}
+```
 
 I will give an example of old mental models and their modern equivalent:
 
