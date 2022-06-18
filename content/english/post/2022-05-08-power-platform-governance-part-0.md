@@ -1,5 +1,5 @@
 ---
-title: What is good Power Platform Governance
+title: Power Platform governance - setting the scene
 description: This blog asks what good power platform governance is, what patterns need to be identified for good implementation, and what should be considered technically
 date: '2022-05-26T20:34:32.391Z'
 author: "Michael Roth"
