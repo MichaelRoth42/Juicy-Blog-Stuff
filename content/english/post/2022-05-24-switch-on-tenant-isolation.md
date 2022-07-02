@@ -66,6 +66,12 @@ We see, there is the possibility to run flows from in our tenant from a differen
 
 If we work with multiple tenants in our organization we can add tenant rules to create exceptions. We can decide if this exception is only for inbound, for outbound or for both. That gets us a lot of possibilities to customize it to our needs.
 
+---
+
+I welcome comments, remarks and discussions about your experiences with Power Platform Governance, if I forgot something and what I can do better 🙂
+
+Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://www.linkedin.com/in/michael-roth-handsomeguy/)
+
 ## Further ressources
 
 [Enable cross-tenant isolation](https://docs.microsoft.com/power-platform/guidance/adoption/tenant-isolation)
