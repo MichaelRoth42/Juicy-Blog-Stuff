@@ -15,7 +15,7 @@ draft: true
 
 ## Introduction to Governance blog post series
 
-This series consists of technical articles as well as organizational considerations, such as why and how to create a good governance for Power Platform. This is equally important, because for good governance, you don't just have to look at the technology and decide what users are allowed to do and what they are not, but ask yourself, where are we actually going with this? What goal do we want to pursue and how do we get there? Or rather, what questions do we need to ask so that we can find answers to how we can get to our goal?
+This series consists of technical articles as well as organizational considerations, such as why and how to create a good governance for Power Platform. This is equally important, because for good governance, we don't just have to look at the technology and decide what users are allowed to do and what they are not, but ask ourself, where are we actually going with this? What goal do we want to pursue and how do we get there? Or rather, what questions do we need to ask so that we can find answers to how we can get to our goal?
 
 This is part 0 for setting the scene, in the upcoming parts, learn more about:
 
@@ -34,9 +34,9 @@ IT governance provides a framework for how tools and services should be used to 
 People and their behavior will impact organizational goals, which is why tools and services are available to help users achieve them. Accordingly, a governance concept needs to be user-centric to achieve tech intensity.
 
 In my experience, many organizations do not have a specific Power Platform governance concept at all as they did not clearly define their goals with Power Platform yet. Therefore, the rules for usage are often vague: Either they are too restrictive and leave little to no room for maneuver, or they are virtually non-existent.
-Too strict rules often result in poor user adoption (and thus poor ROI) and lead to shadow IT solutions. If there are no or hardly any rules enforced, this often leads to a wild and uncontrolled sprawl of apps, poor overview and thus resulting security gaps.
+Too strict rules often result in poor user adoption (and thus poor ROI) and lead to shadow IT solutions. If there are no or hardly any rules enforced, this often leads to a wild and uncontrolled sprawl of apps, poor overview and thus resulting in security gaps. Moreover, it also leads to administrators having to respond suddenly and unplanned to urgent matters.
 
-// feuerloescher taetigkeiten, unerwartet,unplanbar
+If there's one thing I don't want, it's unplanned tasks that grab my attention directly. The less governance rules are clearly formulated, the more likely you have to step in unexpectedly to put out fires.
 
 ### What are the benefits of good Power Platform governance?
 
@@ -51,7 +51,7 @@ Good governance helps making the benefits of Power Platform usable in an organiz
 
 You can utilize a Power Platform governance concept to support users in making good decisions that align with corporate and IT strategic objectives.
 
-To define your goals, you can use the following supporting questions as a guideline
+To define your goals, you can use the following supporting questions as a guideline:
 
 - Who shall benefit from Power Platform?
 
@@ -62,25 +62,25 @@ To define your goals, you can use the following supporting questions as a guidel
 *Do we want to tackle personal productivity solutions or are we looking to retire legacy tools and processes?*
 *Are we looking into mission critical, organization-wide solutions?*
 
-- Do we want to buy one low-code app or do we want to invest in a platform?
+- Do we want to buy one low-code app or do we want to invest in a platform to support a long term goal?
 
 #### Learning environment for maker
 
-Makers need an environment in which they can learn how to use all tools of Power Platform according to rules, regulations and governance policies you set up in your tenant. Let's call it a learning environment. You will want to have the exact same rules and governance policies, which are in place in your production environment, in that learning environment as well. It's important that users experience the same working conditions across different environments, to learn how to use the tools. 
+Makers need an environment in which they can learn how to use all tools of Power Platform according to rules, regulations and governance policies you set up in your tenant. Let's call it a learning environment. You will want to have the exact same rules and governance policies, which are in place in your production environment, in that learning environment as well. It's important that users experience the same working conditions across different environments, to learn how to use the tools.
 
-If users break something in this learning environment, it can be reset. This is important for users to know, since humans learn through trial and error. Yet many organizations don't foster a culture where making mistakes is part of learning ,which is why they don't encourage trial. In the learning environment, people have access to tools, are taught about the rules and how to use the tools accordingly. This is mandatory in order to teach makers how to use Power Platform for their personal and business productivity.
+If users break something in this learning environment, it can be reset. This is important for users to know, since humans learn through trial and error. Yet many organizations don't foster a culture where making mistakes is part of learning, which is why they don't encourage trial. In the learning environment, people have access to tools, are taught about the rules and how to use the tools accordingly. This is mandatory in order to teach makers how to use Power Platform for their personal and business productivity.
 
-The difficult part with governance is, that a there is a conflict of objectives. The objective of the IT departments is to maintain the functionality and security of systems. When any new tool is introduced, the objective is to change behavior for the better in order to optimize working processes. There is a conflict between keeping the status quo and changing it. Both objectives are equally valid, they just come from different areas of the organization. To get a better understanding of how to create a governance concept that maintains data security and protection on the one hand, yet enables users to experience new possibilities through low code platforms, let's have a look how governance models have often been designed and why that doesn't fully satisfy all needs.
+The difficult part with governance is, that a there is a conflict of objectives. The objective of the IT departments is to maintain the functionality and security of systems. Or in other words, to not change it (when it works). When any new tool is introduced, the objective is to change behavior for the better in order to optimize working processes. There is a conflict between keeping the status quo and changing it. Both objectives are equally valid, they just come from different areas of the organization. To get a better understanding of how to create a governance concept that maintains data security and protection on the one hand, yet enables users to experience new possibilities through low code platforms, let's have a look how governance models have often been designed and why that doesn't fully satisfy all needs.
 
 A lot of governance models work by prohibiting access and restricting opportunities. In a classic, often outdated perception of how we work together in organizations, there is the idea of silos. According to that idea, employees work in their area and don't collaborate with people from other areas as they each have their own strategies and objectives. Following that logic, we often find governance models that only make sure achieving the objective to keep the status quo. In my experience I see organizations designing governance models to...
 
 - maintain control,
 - ensure planning certainty and
-- isolate knowledge 
+- isolate knowledge
 
 so users can't break anything and we can ensure the stability of the system.
 
-The idea of control, predictability and hierarchies is the main driver for this mindset, yet these concepts no longer meet the needs of modern organizations.  Accordingly, as demands on modern organizations change, so must a modern governance concept. As explained in detail in the article [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail), it is necessary to abolish old mental models and replace them with new ones so that the benefits of Microsoft 365 and Power Platform can be leveraged by the organization. 
+The idea of control, predictability and hierarchies is the main driver for this mindset, yet these concepts no longer meet the needs of modern organizations.  Accordingly, as demands on modern organizations change, so must a modern governance concept. As explained in detail in the article [Why Microsoft 365 adoption projects fail](https://docs.microsoft.com/microsoft-365/community/why-m365-adoption-projects-fail), it is necessary to abolish old mental models and replace them with new ones so that the benefits of Microsoft 365 and Power Platform can be leveraged by the organization.
 
 > Same old thinking, same old problems.
 
@@ -96,7 +96,7 @@ The acronym VUCA describes the environments in which modern organizations operat
 
 > In an ever-changing environment, a strategy based on inflexibility can never be successful.
 
-Let's have a look and compare old and new mental models:
+Let's have a look and compare old and new mental models and how the old models need to change:
 
 - Controlling --> Empowerment
 - Planning --> Experimentation
@@ -157,7 +157,7 @@ To get started, there are a few things that should be considered: Each category 
 #### Environment considerations
 
 - Take care of your default environment
-- Think about an minimal set of environments
+- Think about a minimal set of environments
 - Set up Security groups
 
 #### Data Loss Prevention Policies
@@ -181,7 +181,7 @@ To get started, there are a few things that should be considered: Each category 
 
 I will highlight all aspects in each category with a separate article, stay tuned.
 
-// TODO tweetlink 
+// TODO tweetlink
 I welcome comments, remarks and discussions about your experiences with Power Platform Governance.
 
 Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://www.linkedin.com/in/michael-roth-handsomeguy/)
