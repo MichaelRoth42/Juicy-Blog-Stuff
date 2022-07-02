@@ -18,20 +18,20 @@ draft: true
 
 Recently a new (old) Power Platform feature came into preview and it's a huge deal.
 
-I'm talking about cross-tenant isolation (or short tenant isolation). In the past you had to raise a support ticket in the Power Platfom Admin Center to activate tenant isolation and I hardly know any admin who actually did that.
+I'm talking about cross-tenant isolation (or short tenant isolation). In the past we had to raise a support ticket in the Power Platform Admin Center to activate tenant isolation and I hardly know any admin who actually did that.
 
-Now you have a handy little switch in your Power Platform Admin Center to switch it on.
+Now we have a handy little switch in our Power Platform Admin Center to switch it on.
 
 {{< image src="images/blog/Tenant_Isolation_4.png" >}}
 
-## Why should you care?
+## Why should we care?
 
-Even if you have a very mature security concept (you have multiple DLP policies in place, external sharing is managed, automatic forwarding is disabled, you have the creation of custom connectors monitored) there is a crucial aspect you need to consider.
+Even if we have a very mature security concept (we have multiple DLP policies in place, external sharing is managed, automatic forwarding is disabled, we have the creation of custom connectors monitored) there is a crucial aspect we need to consider.
 
-With tenant isolation you can block inbound and outbound connections from and to another tenant.
+With tenant isolation we can block inbound and outbound connections from and to another tenant.
 
-That means without tenant isolation someone can create a flow that connects to another tenant (if you have the credentials).
-If you ever worked with guest accounts, service accounts or external contractors, you should consider this.
+That means without tenant isolation someone can create a flow that connects to another tenant (if we have the credentials).
+If we ever worked with guest accounts, service accounts or external contractors, we should consider this.
 
 Here is a demonstration between a flow that works between two tenants:
 
@@ -62,9 +62,9 @@ the flow run successful!
 
 {{< image src="images/blog/Tenant_Isolation_6.png" >}}
 
-You see, there is the possibility to run flows from in your tenant from a different tenant.
+We see, there is the possibility to run flows from in our tenant from a different tenant.
 
-If you work with multiple tenants in your organization you can add tenant rules to create exceptions. You can decide if this exception is only for inbound, for outbound or for both. That gets you a lot of possibilities to customize it to your needs.
+If we work with multiple tenants in our organization we can add tenant rules to create exceptions. We can decide if this exception is only for inbound, for outbound or for both. That gets us a lot of possibilities to customize it to our needs.
 
 ## Further ressources
 

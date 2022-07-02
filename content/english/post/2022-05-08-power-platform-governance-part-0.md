@@ -36,7 +36,7 @@ People and their behavior will impact organizational goals, which is why tools a
 In my experience, many organizations do not have a specific Power Platform governance concept at all as they did not clearly define their goals with Power Platform yet. Therefore, the rules for usage are often vague: Either they are too restrictive and leave little to no room for maneuver, or they are virtually non-existent.
 Too strict rules often result in poor user adoption (and thus poor ROI) and lead to shadow IT solutions. If there are no or hardly any rules enforced, this often leads to a wild and uncontrolled sprawl of apps, poor overview and thus resulting in security gaps. Moreover, it also leads to administrators having to respond suddenly and unplanned to urgent matters.
 
-If there's one thing I don't want, it's unplanned tasks that grab my attention directly. The less governance rules are clearly formulated, the more likely you have to step in unexpectedly to put out fires.
+If there's one thing I don't want, it's unplanned tasks that grab my attention directly. The less governance rules are clearly formulated, the more likely we have to step in unexpectedly to put out fires.
 
 ### What are the benefits of good Power Platform governance?
 
@@ -49,9 +49,9 @@ Good governance helps making the benefits of Power Platform usable in an organiz
 
 {{< image src="images/blog/BenefitsOfPowerPlatform.png" >}}
 
-You can utilize a Power Platform governance concept to support users in making good decisions that align with corporate and IT strategic objectives.
+We can utilize a Power Platform governance concept to support users in making good decisions that align with corporate and IT strategic objectives.
 
-To define your goals, you can use the following supporting questions as a guideline:
+To define our goals, we can use the following supporting questions as a guideline:
 
 - Who shall benefit from Power Platform?
 
@@ -66,7 +66,7 @@ To define your goals, you can use the following supporting questions as a guidel
 
 #### Learning environment for maker
 
-Makers need an environment in which they can learn how to use all tools of Power Platform according to rules, regulations and governance policies you set up in your tenant. Let's call it a learning environment. You will want to have the exact same rules and governance policies, which are in place in your production environment, in that learning environment as well. It's important that users experience the same working conditions across different environments, to learn how to use the tools.
+Makers need an environment in which they can learn how to use all tools of Power Platform according to rules, regulations and governance policies we set up in our tenant. Let's call it a learning environment. We will want to have the exact same rules and governance policies, which are in place in our production environment, in that learning environment as well. It's important that users experience the same working conditions across different environments, to learn how to use the tools.
 
 If users break something in this learning environment, it can be reset. This is important for users to know, since humans learn through trial and error. Yet many organizations don't foster a culture where making mistakes is part of learning, which is why they don't encourage trial. In the learning environment, people have access to tools, are taught about the rules and how to use the tools accordingly. This is mandatory in order to teach makers how to use Power Platform for their personal and business productivity.
 
@@ -118,7 +118,7 @@ I'll start with a real-world example of a company struggling to increase user ad
 
 With our considerations behind a governance concept, we can make people aware of the broken system that doesn't meet the needs anymore, and that forces people into workarounds, unhealthy work ethics, and poor connection to their organization.
 
-> Stop trying to fix users when you need to fix the system.
+> Stop trying to fix users when we need to fix the system.
 
 In order to change the outcome on the event level, we need to change our mental model first. To make it easier, I will turn the iceberg model upside down:
 
@@ -132,7 +132,7 @@ In order to change the outcome on the event level, we need to change our mental 
 
 **Level 1 - What just happens? (Event)**: Utilization of Power Platform and multiple apps and workflows automate business processes to gain benefits of the platform.
 
-To balance the valid needs of admins who secure and maintain data access, overall security and keep systems working with the emerging needs of business being more closely involved into automating workloads and bringing solutions to life, we need to put our own mindset and mental models to the test. To do this, it is helpful to clarify which goals you want to achieve with implementing Power Platform. Only when you know where you want to go can you define the necessary steps 🙂
+To balance the valid needs of admins who secure and maintain data access, overall security and keep systems working with the emerging needs of business being more closely involved into automating workloads and bringing solutions to life, we need to put our own mindset and mental models to the test. To do this, it is helpful to clarify which goals we want to achieve with implementing Power Platform. Only when we know where we want to go, we can define the necessary steps 🙂
 
 ### What's needed to create good Power Platform governance
 
@@ -145,7 +145,7 @@ Every organization needs to determine what good governance looks like depending 
 
 This is why no one can impose good governance from the outside or apply a best-practice blueprint. Even advanced or elaborated concepts need to be adapted to an organization, otherwise they won't paint a coherent picture. In that case it would lead to either users trying to circumvent the governance concept because it was too restrictive or to security gaps because it has only been cared for too laxly.
 
-To get started, there are a few things that should be considered: Each category consists of its own articles, which helps you understand the different aspects to create a good basis for governance.
+To get started, there are a few things that should be considered: Each category consists of its own articles, which helps us to understand the different aspects to create a good basis for governance.
 
 #### Basics
 
