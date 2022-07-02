@@ -1,6 +1,6 @@
 ---
 title: Power Platform Administrator
-description: ""
+description: "This blog is a guide why and how to designate specific Power Platform administrator and what they actually have to do"
 date: '2022-05-24T14:11:06.185Z'
 images: 
 - images/blog/title-calling-connector.png
@@ -20,8 +20,22 @@ When it comes to administer the Power Platform you want to designate a Power Pla
 
 ## Why consider a Power Platform Administrator?
 
-If you want to implement and use the Power Platform in your organization, the administrative effort is quite high at the beginning. Too much for regular IT to do on the side.
-Therefore, it is necessary to appoint a Power Platform Admin to take care of all administrative tasks.
+Let me begin with something very important, we need to understand: if we want to implement and use the Power Platform in our organization, the administrative effort is quite high at the beginning. Too much for regular IT to do on the side. If we put it on top of your regular IT/Admin teams workload, that is simply too much.
+
+Microsoft advises to come up even with a whole team, which depends on the size of your organization, but may be worth considering. Let's check the most important tasks on a Power Platform Admin's list:
+
+- establish and maintain an environment strategy
+- set up data loss prevention policies
+- managing security groups and assign users
+- take care about the capacity and licensing
+- make data available to makers
+- handle integration and migration
+- handle security
+- monitor makers efforts
+
+Does that sound like a long list do you? Exactly that is why we should consider a separate Power Platform Admin, if not a whole team.
+
+A designated admin might increase the chance of your makers working in a well structured environment with clear rules. That lead to fast learning makers, which makes their projects develop faster, being more efficient and ultimately them make better decisions.
 
 ## How to assign the role?
 
@@ -87,6 +101,22 @@ In the next chapters of the basic category you will find a few settings that are
 | Add security roles                                                           |           🛑          |
 | Add licenses                                                                 |           🛑          |
 
+## Low-code strategy team
+
+Since we're on it we should think about something else regarding the Power Platform Admin. Every Administrator will thank you, if their task list is based on the organizational strategy and goals. They implement measures to reach the goals and they prefer to do it in a structured way (remember me saying that Administrator hate to put out fires unexpectedly?).
+
+The way Power Platform fits into our strategical goals, our IT landscape and in our culture needs to be decided by key decision maker who know the big picture. Don't let your admins come up with something like that, it's not their job. Gather a team from the business the IT and from the management to think about cross organizational collaboration and how a low code platform will improve it.
+
+---
+
 I welcome comments, remarks and discussions about your experiences with Power Platform Governance, if I forgot something and what I can do better 🙂
 
 Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://www.linkedin.com/in/michael-roth-handsomeguy/)
+
+## Useful resources
+
+[Microsoft Power Platform Best Practices - Roles and Responsibilities](https://docs.microsoft.com/en-us/power-platform/guidance/adoption/roles)
+
+[Admin and governance best practices (tasklist)](https://docs.microsoft.com/en-us/power-platform/guidance/adoption/admin-best-practices)
+
+[Designate the Microsoft Power Platform admin role](https://docs.microsoft.com/en-us/power-platform/guidance/adoption/pp-admin)

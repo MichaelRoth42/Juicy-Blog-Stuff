@@ -181,6 +181,8 @@ To get started, there are a few things that should be considered: Each category 
 
 I will highlight all aspects in each category with a separate article, stay tuned.
 
+---
+
 // TODO tweetlink
 I welcome comments, remarks and discussions about your experiences with Power Platform Governance.
 
