@@ -1,5 +1,5 @@
 ---
-title: Power Platform Administrator
+title: Designate Power Platform Administrator
 description: "This blog is a guide why and how to designate specific Power Platform administrator and what they actually have to do"
 date: '2022-05-24T14:11:06.185Z'
 images: 

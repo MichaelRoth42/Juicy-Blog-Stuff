@@ -1,6 +1,6 @@
 ---
 title: Take care about your default environment
-description: "Things you should consider to set up"
+description: "Things you should consider to set up in your default environment before you start to roll out a dedicated Power Platform environment strategy"
 date: 2022-07-02T16:49:14.316Z
 author: "Michael Roth"
 tags: 
@@ -8,8 +8,8 @@ tags:
   - Governance
   - Administration
   - Security
-type: "regular"
-draft: "true"
+type: regular
+draft: true
 ---
 
 The default environment is created automatically for each tenant and every user in that tenant got access to it. It's created in the region closest to the default region of the Azure AD tenant and it comes without a database, unless you provision Dataverse to it. Therefor every user who signs up to Power Apps or gets a license assigned is added the Maker role. 

@@ -1,6 +1,6 @@
 ---
 title: Think about limiting environment creation
-description: ""
+description: "This blog describes why and how to limit the environment creation in the Power Platform Admin Center"
 date: '2022-05-24T15:30:38.565Z'
 images: 
 - images/blog/title-calling-connector.png

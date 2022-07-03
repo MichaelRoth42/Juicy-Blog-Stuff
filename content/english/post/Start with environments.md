@@ -47,7 +47,7 @@ If you **copy** your environment, you're basically overwriting another already e
 
 {{< image src="images/blog/Environment2_copy.png" >}}
 
-If you **reset** your environment you set it back to factory settings 😉, deleting everything, including the backups.
+If you **reset** your environment you set it back to factory settings, deleting everything, including the backups.
 
 {{< image src="images/blog/Environment2_reset.png" >}}
 
