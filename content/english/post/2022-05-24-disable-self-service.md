@@ -16,19 +16,19 @@ draft: true
 
 # Disable self-service purchase
 
-For the Power Platform there is the possibility for a self-service purchase. That means user can buy licenses online and use them in their organization without considering the IT or an admin.
+User can purchase Power Platform licenses online and use them in their organization without consulting with IT or an admin.
 
 ## Why should we care?
 
-The problem with this is, that this can lead to a shadow IT like behavior. In a later blog I will recommend to train and support our user before they get access to all the Power Platform environments in our organization in order to help them grow their skills bit by bit.
+This can lead to a shadow IT like behavior. In a later blog I will recommend to train and support users before they get access to all the Power Platform environments in an organization in order to help them grow their skills bit by bit.
 
-If users are denied a license, they still have the possibility to buy them on their own. That means, even if we decided to not use Power Platform in our organization, there is the possibility that user will create Power Platform solutions on their own (this does not work for guest users).
+If users are denied a license, they still have the possibility to buy them on their own. That means, even if we decided to not use Power Platform in our organization, there is the possibility that users will create Power Platform solutions on their own (this does not work for guest users).
 
 With their email address and their Azure Active Directory credentials they can sign in to the self-service portals of Power Platform and buy licenses. They then get access to a limited view of the Microsoft 365 admin center and can assign those licenses, but only to to users in the same Azure AD tenant.
 
 As an admin however we have the possibility to see all self-service purchases in our Microsoft 365 admin center.
 
-In the admin center, select "Billing" and then "Your products"
+In the admin center, select **Billing** and then **Your products**
 
 ![a picture showing the Microsoft 365 admin center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Self-service_1.png)
 
@@ -36,18 +36,19 @@ On the right side of the screen we find that there are already filters in place.
 
 ![a picture showing the product filer in the Microsoft 365 admin center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Self-service_2.png)
 
-If we decided to not use Power Platform in our organization, we may want to inform our users, why we decided this way. As an additional measure we can disable the self-service purchase with the MSCommerce PowerShell module.
+If we decided to not use Power Platform in our organization, we may want to inform our users, why we decided this way. As an additional measure we can disable the self-service purchase with the **MSCommerce PowerShell** module.
 
 After installing the module we can run this little script to disable the self-service possibility for users in our tenant per product. We need to run it for every product we want to exclude from the self-service:
 
-`Import-Module -Name MSCommerce Connect-MSCommerce //sign-in with your global or billing administrator account when prompted//
+```
+Import-Module -Name MSCommerce Connect-MSCommerce //sign-in with your global or billing administrator account when prompted//
 $product = Get-MSCommerceProductPolicies -PolicyId AllowSelfServicePurchase |
 where {$_.ProductName -match 'Power Automate'}
-Update-MSCommerceProductPolicy -Policy`
+Update-MSCommerceProductPolicy -Policy
+```
 
----
 
-I welcome comments, remarks and discussions about your experiences with Power Platform Governance, if I forgot something and what I can do better 🙂
+I welcome comments, remarks and discussions about your experiences with Power Platform Governance.
 
 Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://www.linkedin.com/in/michael-roth-handsomeguy/)
 
