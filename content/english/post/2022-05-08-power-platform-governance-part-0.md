@@ -151,7 +151,6 @@ To get started, there are a few things that should be considered: Each category 
 
 - Designate Power Platform Admin
 - Think about limiting environment creation
-- Switch on tenant isolation
 - Disable Self-service
 
 #### Environment considerations

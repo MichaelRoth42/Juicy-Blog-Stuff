@@ -102,12 +102,23 @@ In the next chapters of the basic category you will find a few settings that are
 | Add security roles                                                           |           🛑          |
 | Add licenses                                                                 |           🛑          |
 
+## Switch on Tenant Isolation
+
+The Power Platform Administrator has the ability to switch on tenant isolation. That is to block inbound and outbound connections from and to another tenant. If it's not switched on, there can be a connection created to our tenant (e.g. a flow), that wouldn't be blocked by a data loss prevention policy. If you have guest accounts, service accounts or external contractors working on your tenant, consider this safety measure.
+
+In the Power Platform Admin Center select **Policies** and the **Tenant isolation (preview)**. Switch the toggle to **On** and select Save. 
+
+![a picture showing the Power Platform admin center and the Policies menu](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Tenant_Isolation0.png)
+
+If we work with multiple tenants in our organization we can add tenant rules to create exceptions. We can decide if this exception is only for inbound, for outbound or for both. That gets us a lot of possibilities to customize it to our needs.
+
+If you want an example, [Thibault Joubert has a great blog](https://www.thijoubert.com/2021-07/PowerPlatform-TenantIsolation/) in which he describes how it works.
+
 ## Low-code strategy team
 
 Since we're on it we should think about something else regarding the Power Platform Admin. Every Administrator will thank you, if their task list is based on the organizational strategy and goals. They implement measures to reach the goals and they prefer to do it in a structured way (remember me saying that Administrator hate to put out fires unexpectedly?).
 
 The way Power Platform fits into our strategical goals, our IT landscape and in our culture needs to be decided by key decision makers who know the big picture. Don't let your admins come up with something like that, it's not their job. Gather a team from business, IT, and management side to think about cross-organizational collaboration and how a low-code platform will improve it.
-
 
 I welcome comments, remarks and discussions about your experiences with Power Platform Governance.
 
@@ -120,3 +131,5 @@ Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://w
 [Admin and governance best practices (tasklist)](https://docs.microsoft.com/en-us/power-platform/guidance/adoption/admin-best-practices)
 
 [Designate the Microsoft Power Platform admin role](https://docs.microsoft.com/en-us/power-platform/guidance/adoption/pp-admin)
+
+[Enable cross-tenant isolation](https://docs.microsoft.com/en-us/power-platform/guidance/adoption/tenant-isolation)
