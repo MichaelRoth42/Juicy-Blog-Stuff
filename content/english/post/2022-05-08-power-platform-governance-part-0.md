@@ -47,7 +47,7 @@ Good governance helps making the benefits of Power Platform usable in an organiz
 - Enhanced collaboration
 - Improved employee engagement
 
-![a picture showing the benefits of using Power Platform in your organization](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/BenefitsOfPowerPlatform.png.png)
+![a picture showing the benefits of using Power Platform in your organization](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/BenefitsOfPowerPlatform.png)
 
 We can utilize a Power Platform governance concept to support users in making good decisions that align with corporate and IT strategic objectives.
 
