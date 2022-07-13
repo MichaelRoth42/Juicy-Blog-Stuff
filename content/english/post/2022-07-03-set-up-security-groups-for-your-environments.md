@@ -16,15 +16,15 @@ draft: true
 
 Security groups are a great way to control which users have access to which of your environments. If you have multiple environments and not every user is allowed to have access to any, security groups will help us achieve this goal.
 
-This way you can group different users and grant access based on the those groups.
+Security groups come from Azure Active Directory (Azure AD) and are used to group different resources in Azure such as users, licenses or roles. This way you can group different users and grant access based on the those groups.
 
 ## Why should we care?
 
 In Dataverse (and therefore in every environment with a database) there is the standard security principle in place, which is role based. If users are added to a database, the access to resources within that environment (data, apps, flows, etc.) is based on the role concept. Only users with the correct security role can access resources in this environment.
 
-But after creating a new environment, every user with an active Power Platform license will be added to an environment automatically. Quite often that is not what we want, even if there is a role based security concept in place. If we set up a new environment for all the sales user, we just want user working in the sales department to be added to that environment and security groups can help us with that.
+But after creating a new environment, every user with an active Power Platform license will be added to an environment automatically. Quite often that is not what we want, even if there is a role based security concept in place. If we set up a new environment for all the sales user, we just want user working in the sales department to be added to that environment and security groups can help us with that. They are used to group resources, so we can use them to group users and roles.
 
-Security groups work as a pre-filter to prevent every user to get added to an environment automatically. When a security group is associated with an environment, only user that are part of this security group get added to the environment.
+These security groups work as a pre-filter to prevent every user to get added to an environment automatically. When a security group is associated with an environment, only user that are part of this security group get added to the environment.
 
 ![a picture showing how security groups act as a filter to prevent every user to get added to a new environment automatically](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups1.png)
 
@@ -36,7 +36,7 @@ And there are even more benefits from using security groups:
 - more precise handling of security: You can create different groups for different user groups. That makes adding and removing users to or from an environment easier, quicker and reduces the probability of errors.
 - nested security groups: you have the possibility to work with nested security groups, which have different security roles.
 - easier management: you can bulk assign groups to environments and have control over permissions.
-- possibility of automation: We can add dataverse security roles to groups, to let us automate the whole security management for users in environments.
+- possibility of automation: We can add Dataverse security roles to groups, to let us automate the whole security management for users in environments.
 
 ## How to set up a security group
 
@@ -69,7 +69,7 @@ Settings: *Add a group email address, decide if you want to make this group publ
 You have to assign at least one owner.
 
 If you decide to create a security group, you just have to provide the following information:
-Name: 
+Name:
 Description:
 
 You can add owner and member in a later step, but don't have to while creating.
@@ -150,4 +150,10 @@ Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://w
 
 ## Useful resources
 
-[]()
+[Security concepts in Datavers](https://docs.microsoft.com/power-platform/admin/wp-security-cds#role-based-security)
+
+[Groups in Microsoft 365 and Azure, and Which is Right for You](https://docs.microsoft.com/microsoft-365/community/all-about-groups)
+
+[Compare groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/compare-groups?view=o365-worldwide)
+
+[Control user access to environments: security groups and licenses](https://docs.microsoft.com/en-us/power-platform/admin/control-user-access)
