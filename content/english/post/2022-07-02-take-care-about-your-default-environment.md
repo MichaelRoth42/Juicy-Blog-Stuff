@@ -12,7 +12,7 @@ type: regular
 draft: true
 ---
 
-The default environment is created automatically for each tenant and every user in that tenant got access to it. It's created in the region closest to the default region of the Azure AD tenant and it comes without a database, unless you provision Dataverse to it. Therefor every user who signs up to Power Apps or gets a license assigned is added the Maker role. 
+The default environment is created automatically for each tenant and every user in that tenant got access to it. It's created in the region closest to the default region of the Azure AD tenant and it comes without a database, unless you provision Dataverse to it. Therefor every user who signs up to Power Apps or gets a license assigned is added the Maker role.
 
 ## Why should we care?
 
@@ -111,7 +111,7 @@ Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://w
 
 ## Useful resources
 
-[Teh default environment](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-powershell#designate-sharepoint-custom-form-environment)
+[The default environment](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-powershell#designate-sharepoint-custom-form-environment)
 
 [Defining a Power Platform Environment Strategy](https://docs.microsoft.com/en-us/microsoft-365/community/defining-a-power-platform-environment-strategy)
 
