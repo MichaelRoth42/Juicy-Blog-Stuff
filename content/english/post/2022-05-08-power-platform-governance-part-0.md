@@ -163,7 +163,7 @@ To get started, there are a few things that should be considered: Each category 
 
 #### Data Loss Prevention Policies
 
-- Layering DLPs
+- Consider a DLP strategy
 - Connector action control & endpoint filtering
 - PowerShell possibilities
 
