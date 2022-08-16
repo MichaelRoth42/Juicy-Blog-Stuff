@@ -192,3 +192,7 @@ Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://w
 [Microsoft 365 Maturity model](https://docs.microsoft.com/microsoft-365/community/microsoft365-maturity-model--intro)
 
 [Power Platform Adoption workbook](https://aka.ms/powerplatformadoptionworkbook)
+
+---
+
+[Photo in header image by Viktor Bystrov](https://unsplash.com/photos/tXIpcZhVKiQ)

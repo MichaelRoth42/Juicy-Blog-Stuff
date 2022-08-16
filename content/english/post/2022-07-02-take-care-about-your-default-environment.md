@@ -1,7 +1,9 @@
 ---
 title: Take care about your default environment
 description: "Things you should consider to set up in your default environment before you start to roll out a dedicated Power Platform environment strategy"
-date: 2022-07-02T16:49:14.316Z
+date: '2022-07-02T16:49:14.316Z'
+images: 
+- images/blog/title-take-care-about-your-default-environment.png
 author: "Michael Roth"
 tags: 
   - Power Platform

@@ -2,6 +2,8 @@
 title: Consider a data loss prevention strategy
 description: This blog explains how data loss prevention policies work and how you can use them for your governance strategy
 date: '2022-08-03T20:34:32.391Z'
+images: 
+- images/blog/title-consider-a-dlp-strategy.png
 author: "Michael Roth"
 tags:
   - Power Platform
