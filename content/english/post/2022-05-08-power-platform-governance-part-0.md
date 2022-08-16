@@ -22,9 +22,8 @@ This is part 0 for setting the scene, in the upcoming parts, learn more about:
 
 - Part 1: Basics
 - Part 2: Environment considerations
-- Part 3: DLP policies
-- Part 4: Monitoring
-- Part 5: Maker enablement
+- Part 3: Data Loss Prevention Policies & Monitoring
+- Part 4: Enable Makers
 
 ## Part 0: Power Platform governance - setting the scene
 
