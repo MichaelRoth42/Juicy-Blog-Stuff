@@ -11,5 +11,5 @@ description: "This is meta description"
 # Taxonomies
 tags: ["Power Platform","M365"]
 type: "regular" # available type (epic, trending, popular, or regular)
-draft: false
+draft: true
 ---
