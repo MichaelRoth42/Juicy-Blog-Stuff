@@ -1,7 +1,7 @@
 ---
 title: Power Platform governance - setting the scene
 description: This blog asks what good power platform governance is, what patterns need to be identified for good implementation, and what should be considered technically
-date: '2022-08-16T09:07:32.391Z'
+date: 'Mon, 15 Aug 2022 11:22:51 +0000'
 images:
 - images/blog/title-Power-Governance-Setting-Scene.png
 author: Michael Roth
@@ -11,6 +11,7 @@ tags:
     - Administration
     - Security
 type: regular
+draft: false
 ---
 
 ## Introduction to Governance blog post series
