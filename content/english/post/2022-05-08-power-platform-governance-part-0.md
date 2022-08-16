@@ -48,12 +48,6 @@ Good governance helps making the benefits of Power Platform usable in an organiz
 - Enhanced collaboration
 - Improved employee engagement
 
-![a picture showing the benefits of using Power Platform in your organization](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/BenefitsOfPowerPlatform.png)
-
-![a picture showing the benefits of using Power Platform in your organization](images/blog/BenefitsOfPowerPlatform.png)
-
-<img src="images/blog/BenefitsOfPowerPlatform.png" alt="a picture showing the benefits of using Power Platform in your organization"/>
-
 {{< image src="images/blog/BenefitsOfPowerPlatform.png" >}}
 
 We can utilize a Power Platform governance concept to support users in making good decisions that align with corporate and IT strategic objectives.
@@ -62,12 +56,12 @@ To define our goals, we can use the following supporting questions as a guidelin
 
 - Who shall benefit from Power Platform?
 
-*Citizen Developers, Code first Developers, Admin teams, or all of them?*
+_Citizen Developers, Code first Developers, Admin teams, or all of them?_
 
 - What is the intended scope of Power Platform?
 
-*Do we want to tackle personal productivity solutions or are we looking to retire legacy tools and processes?*
-*Are we looking into mission critical, organization-wide solutions?*
+_Do we want to tackle personal productivity solutions or are we looking to retire legacy tools and processes?_
+_Are we looking into mission critical, organization-wide solutions?_
 
 - Do we want to buy one low-code app or do we want to invest in a platform to support a long term goal?
 
