@@ -56,12 +56,12 @@ To define our goals, we can use the following supporting questions as a guidelin
 
 - Who shall benefit from Power Platform?
 
-_Citizen Developers, Code first Developers, Admin teams, or all of them?_
+--> Citizen Developers, Code first Developers, Admin teams, or all of them?
 
 - What is the intended scope of Power Platform?
 
-_Do we want to tackle personal productivity solutions or are we looking to retire legacy tools and processes?_
-_Are we looking into mission critical, organization-wide solutions?_
+--> Do we want to tackle personal productivity solutions or are we looking to retire legacy tools and processes?
+--> Are we looking into mission critical, organization-wide solutions?
 
 - Do we want to buy one low-code app or do we want to invest in a platform to support a long term goal?
 
