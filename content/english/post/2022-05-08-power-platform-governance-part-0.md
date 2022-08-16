@@ -161,16 +161,10 @@ To get started, there are a few things that should be considered: Each category 
 - Think about a minimal set of environments
 - Set up Security groups
 
-#### Data Loss Prevention Policies
+#### Data Loss Prevention Policies & Monitoring
 
 - Consider a DLP strategy
-- Connector action control & endpoint filtering
-- PowerShell possibilities
-
-#### Monitoring what's going on
-
-- Enable Activity logs
-- What's possible with Center of Excellence Starter Kit
+- Monitoring Power Platform activities
 
 #### Enable Makers
 
