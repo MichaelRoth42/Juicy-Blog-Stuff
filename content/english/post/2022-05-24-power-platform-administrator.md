@@ -41,21 +41,21 @@ You can assign this role in the **Microsoft 365 Admin Center**:
 
 In the **Users** menu, select **Active users**. Then select the user you want to assign the Power Platform Admin role to.
 
-![a picture showing the active users menu in the Microsoft 365 Admin Center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/PowerPlatformAdmin_0.png)
+![a picture showing the active users menu in the Microsoft 365 Admin Center](/images/PowerPlatformAdmin_0.png)
 
 Select **Manage roles**, then **Admin center access** and finally expand the menu by selecting **Show all by category**.
 
-![a picture showing the manage roles button in the Microsoft 365 Admin Center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/PowerPlatformAdmin_01.png)
+![a picture showing the manage roles button in the Microsoft 365 Admin Center](/images/PowerPlatformAdmin_01.png)
 
-![a picture showing the manage admin roles menu in the Microsoft 365 Admin Center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/PowerPlatformAdmin_1.png)
+![a picture showing the manage admin roles menu in the Microsoft 365 Admin Center](/images/PowerPlatformAdmin_1.png)
 
 You will find the Power Platform Administrator role with a little infobox, describing the access to Microsoft Dynamics 365, Power Apps, Data Loss Prevention policies, and Power Automate.
 
 Select the box to assign the role.
 
-![a picture showing the Power Platform Administrator role in the Microsoft 365 Admin Center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/PowerPlatformAdmin_2.png)
+![a picture showing the Power Platform Administrator role in the Microsoft 365 Admin Center](/images/PowerPlatformAdmin_2.png)
 
-![a picture showing the content of the infobox from the Power Platform Administrator role](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/PowerPlatformAdmin_3.png)
+![a picture showing the content of the infobox from the Power Platform Administrator role](/images/PowerPlatformAdmin_3.png)
 
 > Don't confuse the Power Platform Administrator with with Environment Administrator. The Environment Administrator is the administrator of a certain environment, the Power Platform Administrator ist the administrator of the whole Power Platform in the tenant. I will explain the Environment Administrator in the blog **Environment Strategies**.
 
@@ -108,7 +108,7 @@ The Power Platform Administrator has the ability to switch on tenant isolation. 
 
 In the Power Platform Admin Center select **Policies** and the **Tenant isolation (preview)**. Switch the toggle to **On** and select Save. 
 
-![a picture showing the Power Platform admin center and the Policies menu](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Tenant_Isolation0.png)
+![a picture showing the Power Platform admin center and the Policies menu](/images/Tenant_Isolation0.png)
 
 If we work with multiple tenants in our organization we can add tenant rules to create exceptions. We can decide if this exception is only for inbound, for outbound or for both. That gets us a lot of possibilities to customize it to our needs.
 
