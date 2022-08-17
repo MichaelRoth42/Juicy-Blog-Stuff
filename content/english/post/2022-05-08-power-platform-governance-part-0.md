@@ -1,6 +1,6 @@
 ---
 title: Power Platform governance - setting the scene
-description: This blog asks what good power platform governance is, what patterns need to be identified for good implementation, and what should be considered technically
+description: This blog sets the scene for good power platform governance, demonstrates what patterns need to be identified for good implementation, and what should be considered technically
 date: 'Mon, 15 Aug 2022 11:22:51 +0000'
 images:
 - images/blog/title-Power-Governance-Setting-Scene_2.png
