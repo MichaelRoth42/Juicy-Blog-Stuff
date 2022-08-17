@@ -49,7 +49,7 @@ Good governance helps making the benefits of Power Platform usable in an organiz
 
 {{< image src="images/blog/BenefitsOfPowerPlatform.png" >}}
 
-![iii](images/blog/BenefitsOfPowerPlatform.png)
+![iii](/images/BenefitsOfPowerPlatform.png)
 
 ![hhh](/images/blog/BenefitsOfPowerPlatform.png)
 
