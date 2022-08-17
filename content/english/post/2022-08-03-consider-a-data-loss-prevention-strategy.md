@@ -28,7 +28,7 @@ DLPs act as guardrails to help keep our data safe. With DLPs we can sort all the
 
 The names Business and Non-business are just to help you categorize the connectors. They don't have a further effect. The bucket blocked means, that all the connectors in there can't be used at all. The connectors in the other two buckets can be used, but not with each other. This way you can ensure that critical business data is only used with the connectors that have been selected for it. For example, we may not want to use our database of critical business data with a social media connector. However, we still want our marketing team to be able to create flows and apps for social media content. So we use two different buckets. Then both connectors can be used, just not with each other.
 
-![A gif showing different buckets to sort connectors in](/images/DLPgif.gif)
+![A gif showing different buckets to sort connectors in](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/DLPgif.gif)
 
 DLPs can be used for the whole tenant or for single environments, so you can (and should) have multiple DLPs.
 
@@ -48,14 +48,14 @@ Depending on your environment strategy you might consider:
 
 4. "Administration" - a special DLP for your administration environment. There are great possibilities to make the administrators life a lot easier with a bunch of great connectors.
 
-![a flowchart showing different environments with different DLPs, sorted by color](/images/DLPstrategy.png)
+![a flowchart showing different environments with different DLPs, sorted by color](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/DLPstrategy.png)
 
 **Important!**
 There are constantly new connectors added, so we make sure to set the default group for new connectors to *Blocked*. This way every new connector automatically gets sorted into the blocked category and our DLP stays always up to date.
 
 In the Power Platform Admin Center, we select *Data policies*, in the *Pre-build connectors* menu we select the cog wheel in the upper right corner. We select *Blocked* and then *Apply*.
 
-![a picture showing the pre-build connectors menu in the Power Platform Admin Center](/images/RenameDefEnv_2.png)
+![a picture showing the pre-build connectors menu in the Power Platform Admin Center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/RenameDefEnv_2.png)
 
 ### We need to go deeper
 
@@ -67,7 +67,7 @@ The following menu lists all actions of this connector and we can choose if we a
 
 This is a great functionality to customize our DLP in detail for very specific use cases.
 
-![a picture showing the connector actions menu in the Power Platform Admin Center](/images/DLPactions.png)
+![a picture showing the connector actions menu in the Power Platform Admin Center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/DLPactions.png)
 
 ## Why you should never layer your DLPs
 

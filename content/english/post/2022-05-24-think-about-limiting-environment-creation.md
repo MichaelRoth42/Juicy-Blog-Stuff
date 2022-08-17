@@ -45,11 +45,11 @@ Per default every environment admin is able to allocate additional capacity to e
 
 In the Power Platform admin center, select the cogwheel in the upper right corner and select **Power Platform settings**.
 
-![a picture showing the cogwheel in the Power Platform admin center](/images/EnvironmentCreation_1.png)
+![a picture showing the cogwheel in the Power Platform admin center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/EnvironmentCreation_1.png)
 
 Now we can define, who can create production and sandbox environments, trial environments as well as who can allocate add-on capacities.
 
-![a picture showing the Power Platform settings menu](/images/EnvironmentCreation_2.png)
+![a picture showing the Power Platform settings menu](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/EnvironmentCreation_2.png)
 
 ## Options with PowerShell
 

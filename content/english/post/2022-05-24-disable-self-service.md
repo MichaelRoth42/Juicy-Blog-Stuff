@@ -30,11 +30,11 @@ As an admin however we have the possibility to see all self-service purchases in
 
 In the admin center, select **Billing** and then **Your products**
 
-![a picture showing the Microsoft 365 admin center](/images/Self-service_1.png)
+![a picture showing the Microsoft 365 admin center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Self-service_1.png)
 
 On the right side of the screen we find that there are already filters in place. Select the filter option and then the Self-service account type to see all products purchased by the self-service.
 
-![a picture showing the product filer in the Microsoft 365 admin center](/images/Self-service_2.png)
+![a picture showing the product filer in the Microsoft 365 admin center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Self-service_2.png)
 
 If we decided to not use Power Platform in our organization, we may want to inform our users, why we decided this way. As an additional measure we can disable the self-service purchase with the **MSCommerce PowerShell** module.
 

@@ -28,10 +28,10 @@ Different environments are even the foundation for a good Application Lifecycle 
 When you're on [flow.microsoft.com](www.flow.powerapps.com) or [make.powerapps.com](www.make.powerapps.com) you will see your current environment in the upper right corner.
 
 Right now I am in an environment that is called "CoE Demo".
-![a picture showing the environment "CoE Demo"](/images/Environment1.png)
+![a picture showing the environment "CoE Demo"](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Environment1.png)
 
 If you click on that environment you see a list of all environments you have access to. Maybe you see but one environment that is called "[(default)" in the end. That is your default environment, which everyone has access to per default. Every time a new user gets added,  that user gets added to this default environment as well.
-![a picture showing all the environments in my tenant](/images/Environment2.png)
+![a picture showing all the environments in my tenant](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Environment2.png)
 
 ## What kind of environments are there?
 
@@ -46,18 +46,18 @@ Security: Every user has the security role "Environment Maker" in the default en
 These environments are used for long term working scenarios that don't require special features. Microsoft recommends these for the most usecases: *"Production environments are what you should use for any environments on which you depend."*
 You can convert your production environment into a sandbox environment anytime. Of course you can convert it back into production as well.
 
-![a picture showing how to convert production environments to sandbox environments](/images/Environment2_convertToSandbox.png)
+![a picture showing how to convert production environments to sandbox environments](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Environment2_convertToSandbox.png)
 
 ### Sandbox
 
 Sandbox environments are similar to production environments but you have the possibility to copy, reset it and convert it into a production environment as well (**if your sandbox environment has a database, if it doesn't you don't get those options*).
 If you **copy** your environment, you're basically overwriting another already existing environment. Now you can choose if you want to override everything or just customizations and schemas.
 
-![a picture showing the copy menu of environments](/images/Environment2_copy.png)
+![a picture showing the copy menu of environments](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Environment2_copy.png)
 
 If you **reset** your environment you set it back to factory settings, deleting everything, including the backups.
 
-![a picture showing the hints of the resetting menu of environments](/images/Environment2_reset.png)
+![a picture showing the hints of the resetting menu of environments](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/Environment2_reset.png)
 
 ### Trial and Trial (subscription-based)
 
@@ -88,7 +88,7 @@ If we have important business productivity or even critical solutions, we need t
 
 The same is true for business critical solutions.
 
-![a picture showing the described Power Platform environment strategy](/images/EnvironmentStrategy.png)
+![a picture showing the described Power Platform environment strategy](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/EnvironmentStrategy.png)
 
 ---
 

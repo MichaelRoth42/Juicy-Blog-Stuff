@@ -28,7 +28,7 @@ But after creating a new environment, every user with an active Power Platform l
 
 These security groups work as a pre-filter to prevent every user to get added to an environment automatically. When a security group is associated with an environment, only user that are part of this security group get added to the environment.
 
-![a picture showing how security groups act as a filter to prevent every user to get added to a new environment automatically](/images/SecurityGroups1.png)
+![a picture showing how security groups act as a filter to prevent every user to get added to a new environment automatically](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups1.png)
 
 Security group --> prevent users from being added to an environment automatically
 Security roles --> prevent users from accessing resources within an environment
@@ -50,13 +50,13 @@ Azure AD Security Groups have the same functionality but in Azure and are often 
 
 Both kind of groups work for defining access, membership and permissions in Power Platform environments. One difference to keep in mind is, that Microsoft 365 Groups are Mail-enabled which can become handy, if you want to easily address all member of a certain group. Also the membership of Microsoft 365 groups can be managed dynamically in Azure AD, no other group combines these two features.
 
-![a picture comparing different groups in the microsoft universe](/images/SecurityGroups4.png)
+![a picture comparing different groups in the microsoft universe](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups4.png)
 
 ### Create a group from the Microsoft 365 admin center
 
 Navigate to the [Microsoft 365 admin center](admin.microsoft.com) and select **Active teams & groups**
 
-![a picture showing the Microsoft 365 admin center](/images/SecurityGroups3.png)
+![a picture showing the Microsoft 365 admin center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups3.png)
 
 There you have tabs listing the different groups: Microsoft 365, Distribution list, Mail-enabeld security and Security.
 
@@ -78,26 +78,26 @@ You can add owner and member in a later step, but don't have to while creating.
 
 At the last stage you get an overview over your setting, finish the group creation with selecting **Create group**
 
-![a picture showing overview of the group creation process in the Microsoft 365 admin center](/images/SecurityGroups5.png)
+![a picture showing overview of the group creation process in the Microsoft 365 admin center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups5.png)
 
 ### Create a group from the Azure portal
 
 The process from within the Azure portal is exactly the same, yet it looks a bit different.
 
 Navigate to the [Azure portal](portal.azure.com) and select Azure Active Directory
-![a picture showing the Azure portal](/images/SecurityGroups6.png)
+![a picture showing the Azure portal](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups6.png)
 
 Select groups to get to the groups menu
 
-![a picture showing all Azure services. The groups service is selected](/images/SecurityGroups7.png)
+![a picture showing all Azure services. The groups service is selected](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups7.png)
 
 Select **New group** to start the group creating process
 
-![a picture showing all Azure services. The groups service is selected](/images/SecurityGroups8.png)
+![a picture showing all Azure services. The groups service is selected](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups8.png)
 
 From here you can create two kind of groups: Security groups and Microsoft 365 groups and the information you have to provide are exactly the same as in the Microsoft 365 admin center.
 
-![a picture the New Group menu in the azure portal](/images/SecurityGroups9.png)
+![a picture the New Group menu in the azure portal](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups9.png)
 
 ## How to add a security group to an environment
 
@@ -105,11 +105,11 @@ Once you have a Microsoft 365 or security group created we can navigate to the [
 
 When we want to create a new environment with a security group, we select **New**, provide all required information and select **Next**. At the very bottom we find the paragraph **Security group**. Select the plus icon to see a list of all Microsoft 365 and Security groups that are available in our tenant. Select the group you want to use and select **Done**.
 
-![a picture showing how to add a security group to an environment during the creation process](/images/SecurityGroups10.png)
+![a picture showing how to add a security group to an environment during the creation process](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups10.png)
 
 When you want to add a security group to an already existing environment, select the environment from the menu and select **Edit** in the Details pane. In the side menu you see the **Security group** section at the bottom of the page. Select the pen icon to see a list with all Microsoft 365 and Security groups available in our tenant. Confirm your selection with **Done**
 
-![a picture showing how to add a security group to an already existing environment](/images/SecurityGroups11.png)
+![a picture showing how to add a security group to an already existing environment](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups11.png)
 
 ## Bonus: How to link a security role to a security group
 
@@ -117,13 +117,13 @@ If you want to add a security role to the security group, to give every member o
 
 Navigate to the teams settings menu in the environment from which you want to assign a security role to the security group. Select the environment and in the **Access pane** under Teams select **See all**
 
-![a picture showing where to find the team settings menu in an environment](/images/SecurityGroups12.png)
+![a picture showing where to find the team settings menu in an environment](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups12.png)
 
 *(You will see an already existing team, which usually has the name of your business unit. [Business units](https://docs.microsoft.com/en-us/power-platform/admin/wp-security-cds#business-units) are another layer of managing security in Dataverse. You can create different business units to further customize your security.)*
 
 Select **Create team** in the upper left corner
 
-![a picture showing the "Create team" button in the team settings menu](/images/SecurityGroups13.png)
+![a picture showing the "Create team" button in the team settings menu](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups13.png)
 
 Provide the following information:
 
@@ -135,7 +135,7 @@ Team type: *here we pick the kind of team that matches the security group we jus
 
 Then you search for the name of your group. Finally you have to select the Membership type. You can decide which are the active users for this team, based on the different roles within the security group.
 
-![a picture showing of the "edit team" menu](/images/SecurityGroups14.png)
+![a picture showing of the "edit team" menu](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/SecurityGroups14.png)
 
 *Hint: When you already provided a description for your group it will be added automatically, after you created the team.*
 

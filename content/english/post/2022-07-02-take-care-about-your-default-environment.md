@@ -45,7 +45,7 @@ Microsoft intends to use the default environment for any personal productivity u
 
 Select *Environments*, then select your default environment. In the default menu, select *Edit*, choose a new name and select *Save*
 
-![a picture showing the environment menu in the Power Platform Admin Center](/images/RenameDefEnv.png)
+![a picture showing the environment menu in the Power Platform Admin Center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/RenameDefEnv.png)
 
 This way all users get an indication that this environment is meant for personal productivity and not for critical usecases or solutions that affect more than the own account.
 
@@ -93,7 +93,7 @@ There are constantly new connectors added, so we make sure to set the default gr
 
 In the Power Platform Admin Center, we select *Data policies*, in the *Prebuild connectors* menu we select the cog wheel in the upper right corner. We select *Blocked* and then *Apply*.
 
-![a picture showing the prebuild connectors menu in the Power Platform Admin Center](/images/RenameDefEnv_2.png)
+![a picture showing the prebuild connectors menu in the Power Platform Admin Center](https://github.com/MichaelRoth42/Juicy-Blog-Stuff/blob/main/assets/images/blog/RenameDefEnv_2.png)
 
 ### Change SharePoint custom forms
 
