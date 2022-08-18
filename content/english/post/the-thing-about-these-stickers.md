@@ -1,11 +1,15 @@
 ---
 title: 'The thing about these stickers…'
+description:
 date: Mon, 02 Mar 2020 20:56:00 +0000
-draft: false
+images: - images/blog/title-the-thing-about-stickers.png
+author: Michael Roth
 tags: ['Community', 'Community', 'Sticker']
+type: popular
+draft: false
 ---
 
-![](https://gezeitenbrand.de/wp-content/uploads/Sticker_collage-1-820x1024.jpeg)
+![an image showing different laptops with lots of stickers on them]((/images/title-the-thing-about-stickers.png)
 
 If you’ve been active in this community or if you ever attended any event whatsoever regarding Office 365, Microsoft, Dynamics 365 or the Power Platform you’ve probably noticed that stickers are a thing right?
 

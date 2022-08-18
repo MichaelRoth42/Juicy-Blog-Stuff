@@ -6,7 +6,7 @@ images:
 - images/blog/title-calling-connector.png
 author: Michael Roth
 tags: ["Power Automate","PowerPlatform","Citizen Developer"]
-type: regular
+type: popular
 draft: false
 ---
 
