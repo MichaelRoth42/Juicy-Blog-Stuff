@@ -17,7 +17,7 @@ draft: false
 
 ## Introduction to Governance blog post series
 
-This series consists of technical articles as well as organizational considerations, such as why and how to create a good governance for Power Platform. This is equally important, because for good governance, we don't just have to look at the technology and decide what users are allowed to do and what they are not, but ask ourself, where are we actually going with this? What goal do we want to pursue and how do we get there? Or rather, what questions do we need to ask so that we can find answers to how we can get to our goal?
+TestThis series consists of technical articles as well as organizational considerations, such as why and how to create a good governance for Power Platform. This is equally important, because for good governance, we don't just have to look at the technology and decide what users are allowed to do and what they are not, but ask ourself, where are we actually going with this? What goal do we want to pursue and how do we get there? Or rather, what questions do we need to ask so that we can find answers to how we can get to our goal?
 
 This is part 0 for setting the scene, in the upcoming parts, learn more about:
 
