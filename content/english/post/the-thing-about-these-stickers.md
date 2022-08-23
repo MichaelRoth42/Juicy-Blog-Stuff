@@ -1,9 +1,8 @@
 ---
-title: The thing about these stickers
-description: This blog explains what the community stickers mean to me
+title: 'The thing about these stickers…'
+description:
 date: Mon, 02 Mar 2020 20:56:00 +0000
-images: 
-- images/blog/title-the-thing-about-stickers.png
+images: - images/blog/title-the-thing-about-stickers.png
 author: Michael Roth
 tags: ['Community', 'Community', 'Sticker']
 type: popular
