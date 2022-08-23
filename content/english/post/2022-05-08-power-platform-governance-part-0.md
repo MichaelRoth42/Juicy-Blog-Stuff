@@ -177,7 +177,7 @@ I will highlight all aspects in each category with a separate article, stay tune
 
 ---
 
-// TODO tweetlink
+[Let me hear from you](https://twitter.com/MichaelRoth42/status/1561989243626524672?s=20&t=k2aAt4MPkCh328u0EtImBQ)
 I welcome comments, remarks and discussions about your experiences with Power Platform Governance.
 
 Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://www.linkedin.com/in/michael-roth-handsomeguy/)
