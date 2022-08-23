@@ -10,7 +10,7 @@ type: popular
 draft: false
 ---
 
-![an image showing different laptops with lots of stickers on them]((/images/title-the-thing-about-stickers.png)
+![an image showing different laptops with lots of stickers on them](/images/title-the-thing-about-stickers.png)
 
 If you’ve been active in this community or if you ever attended any event whatsoever regarding Office 365, Microsoft, Dynamics 365 or the Power Platform you’ve probably noticed that stickers are a thing right?
 
