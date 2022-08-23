@@ -12,7 +12,7 @@ logo_text = "Reader"
 menu_align = "center"
 
 # OpenGraph / Twitter Card metadata
-description = "Awesomeness and Power Platform knowledge"
+description = "Awesomeness and tech knowledge for beginner"
 author = "MichaelRoth42"
 # this image will be used as fallback if a page has no image of its own
 image = "images/social-card.png"
