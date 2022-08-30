@@ -1,7 +1,7 @@
 ---
 title: Designate Power Platform Administrator
 description: "This blog is a guide why and how to designate specific Power Platform administrator and what they actually have to do"
-date: '2022-08-30T08:11:06.185Z'
+date: '2022-08-29T08:11:06.185Z'
 images: 
 - images/blog/title-power-platform-administrator.png
 author: Michael Roth
