@@ -120,7 +120,7 @@ Since we're on it we should think about something else regarding the Power Platf
 
 The way Power Platform fits into our strategical goals, our IT landscape and in our culture needs to be decided by key decision makers who know the big picture. Don't let your admins come up with something like that, it's not their job. Gather a team from business, IT, and management side to think about cross-organizational collaboration and how a low-code platform will improve it.
 
-I welcome comments, remarks and discussions about your experiences with Power Platform Governance.
+[I welcome comments, remarks and discussions](https://twitter.com/MichaelRoth42/status/1564508722508009472?s=20&t=2qvzxiSj03RvPNT6OqpnWw) about your experiences with Power Platform Governance.
 
 Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://www.linkedin.com/in/michael-roth-handsomeguy/)
 
@@ -133,3 +133,7 @@ Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://w
 [Designate the Microsoft Power Platform admin role](https://docs.microsoft.com/en-us/power-platform/guidance/adoption/pp-admin)
 
 [Enable cross-tenant isolation](https://docs.microsoft.com/en-us/power-platform/guidance/adoption/tenant-isolation)
+
+---
+
+[Photo in header image by Matty Adame](https://unsplash.com/photos/nLUb9GThIcg)
