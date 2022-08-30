@@ -11,7 +11,7 @@ tags:
     - Governance
     - Administration
     - Security
-type: regular
+type: trending
 draft: false
 ---
 
