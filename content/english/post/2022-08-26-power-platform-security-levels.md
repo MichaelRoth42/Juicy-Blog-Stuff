@@ -1,9 +1,9 @@
 ---
-title: Power Platform Security Levels
+title: Power Platform Path To An Environment
 description: This blog describes the different threshold level of security you need to know about, if you want to give (or deny) users access to data in an environment
 date: 'Mon, 15 Aug 2022 11:22:51 +0000'
 images:
-- images/blog/title-Power-Governance-Setting-Scene_2.png
+- images/blog/title-path-to-an-environment.png
 author: Michael Roth
 tags: 
     - Power Platform
@@ -21,7 +21,6 @@ draft: true
 
 Are your familiar with that sentence? I hear user complain that they can't see environments, as well as admins that they can't see user in the environments user list.
 
-
 If you want a user to work on an environment there are three things to consider (depending on the kind of environment, but basically it's like this):
 
 1. Licensing
@@ -29,8 +28,6 @@ If you want a user to work on an environment there are three things to consider 
 3. Security roles
 
 Depending on which of these a user has, they have access up to different stages. I will go through each of these stages and demonstrate the user experience, as well as the admin experience. That gives you the opportunity to determine, what your users need for which scenario. Should or shouldn't they see that environment? After this post you know how to set all components up to be in control.
-
-If you just want the flow diagram as a cheat sheet, take the [shortcut](#markdown-header-useful-resources)
 
 For our scenario we try to add users to a production/sandbox environment with a database and an added security group. Be aware that different environments work differently, especially the default environment (more on that later).
 
@@ -109,4 +106,4 @@ From an administrator point of view, nothing as changed yet either. But when we 
 
 ---
 
-[Photo in header image by Viktor Bystrov](https://unsplash.com/photos/tXIpcZhVKiQ)
+[Photo in header image by Lili Popper](https://unsplash.com/photos/lu15z1m_KfM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
