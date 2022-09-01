@@ -15,9 +15,7 @@ type: regular
 draft: false
 ---
 
-## Path to working in an environment
-
-"But I can't see the environment!"
+## "But I can't see the environment!"
 
 Are your familiar with that sentence? I hear user complain that they can't see environments, as well as admins that they can't see user in the environments user list.
 
@@ -57,7 +55,7 @@ As an Administrator we don't see Isaiah in the list of users of our environment 
 
 ## Scenario B: No security group, no security role
 
-When we log is as Henrietta we can see the Power Platform products Power Apps, Power Automate as well as Power BI on [www.office.co](www.office.com).
+When we log is as Henrietta we can see the Power Platform products Power Apps, Power Automate as well as Power BI on [www.office.com](www.office.com).
 
 ![Image that shows all apps of the logged in user. There are all the Power Platform products](/images/SecurityLevels_6.png)
 
