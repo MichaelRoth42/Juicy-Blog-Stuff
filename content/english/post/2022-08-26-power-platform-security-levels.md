@@ -12,7 +12,7 @@ tags:
     - Security
     - Dataverse
 type: regular
-draft: true
+draft: false
 ---
 
 ## Path to working in an environment
@@ -100,9 +100,9 @@ From an administrator point of view, nothing as changed yet either. But when we 
 
 ## Useful resources
 
-[Add users to an environment](https://docs.microsoft.com/en-us/power-platform/admin/add-users-to-environment)
+[Add users to an environment](https://docs.microsoft.com/power-platform/admin/add-users-to-environment)
 
-[CheatSheet: Path to an environment](/images/PathToEnvironment.png)
+![CheatSheet: Path to an environment](/images/PathToEnvironment.png)
 
 ---
 
