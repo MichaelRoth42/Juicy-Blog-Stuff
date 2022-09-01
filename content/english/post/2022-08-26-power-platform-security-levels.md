@@ -1,7 +1,7 @@
 ---
 title: Power Platform Path To An Environment
 description: This blog describes the different threshold level of security you need to know about, if you want to give (or deny) users access to data in an environment
-date: 'Mon, 15 Aug 2022 11:22:51 +0000'
+date: 'Thu, 01 Sep 2022 11:22:51 +0000'
 images:
 - images/blog/title-path-to-an-environment.png
 author: Michael Roth
