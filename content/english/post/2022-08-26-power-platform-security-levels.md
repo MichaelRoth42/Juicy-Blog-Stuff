@@ -94,13 +94,41 @@ From an administrator point of view, nothing as changed yet either. But when we 
 
 ![Image that shows that a security role has been assigned to the user Joni Sherman](/images/SecurityLevels_11.png)
 
-## Conclusion
+Now we are able to assign a security role to Joni. But in order for her to actually see the environment, it is crucial to assign the right security role:
+
+> users need at least environment maker privileges in order to see an environment
+
+And another hint that may save you some time: after you assigned the environment maker role, it usually takes between 20 and 30 minutes until users can see the environment. Sometimes it's necessary for them to log off and on again.
+
+## Conclusion and Diagnostics
+
+Users need an active license, at least the environment maker security role and (if set up) be member of the environment's security group.
+
+In the Power Platform Admin Center you find the option to run diagnostics on user which will show you all this information at a glance.
+
+In an environment, select **user**, then **ellipsis** and then **Run diagnostics**
+
+![Image that shows the user diagnostic dialog](/images/SecurityLevels_13.png)
+
+**Hint:** If you run the diagnostics it forces to sync the Azure Active Directory user information with the environment's Dataverse database. Usually that eliminates all sync errors you may face 💡
+
+---
+
+There we have it, that is the complete way for users to see an environment and interact with it. Do you have similar experiences, do you think this is helpful?
+
+I welcome comments, remarks and discussions about your experiences 🙂
+
+Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://www.linkedin.com/in/michael-roth-handsomeguy/)
 
 ## Useful resources
 
 [Add users to an environment](https://docs.microsoft.com/power-platform/admin/add-users-to-environment)
 
-![CheatSheet: Path to an environment](/images/PathToEnvironment.png)
+[Troubleshooting: Common user access issues](https://docs.microsoft.com/power-platform/admin/troubleshooting-user-needs-read-write-access-organization)
+
+![CheatSheet: Path to an environment (light mode)](/images/SeeEnv_light.png)
+
+[CheatSheet: Path to an environment (dark mode)](/images/SeeEnv_dark.png)
 
 ---
 
