@@ -114,6 +114,8 @@ In an environment, select **user**, then **ellipsis** and then **Run diagnostics
 
 ---
 
+![CheatSheet: Path to an environment (light mode)](/images/SeeEnv_light.png) (right.click on the image to open in a new tab for better quality. Or download a light- or dark version in the resource section)
+
 There we have it, that is the complete way for users to see an environment and interact with it. Do you have similar experiences, do you think this is helpful?
 
 I welcome comments, remarks and discussions about your experiences 🙂
@@ -126,7 +128,7 @@ Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://w
 
 [Troubleshooting: Common user access issues](https://docs.microsoft.com/power-platform/admin/troubleshooting-user-needs-read-write-access-organization)
 
-![CheatSheet: Path to an environment (light mode)](/images/SeeEnv_light.png)
+[CheatSheet: Path to an environment (light mode)](/images/SeeEnv_light.png)
 
 [CheatSheet: Path to an environment (dark mode)](/images/SeeEnv_dark.png)
 
