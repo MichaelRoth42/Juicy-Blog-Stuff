@@ -63,6 +63,12 @@ Set-TenantSettings $settings`
 `$settings = @{ DisableTrialEnvironmentCreationByNonAdminUsers = $true }
 Set-TenantSettings $settings`
 
+## Spoiler alert
+
+later in this series we will take a look at the Center of Excellence Starter Kit. There is a out of the box environment request app that gives your users the possibility to request an environment 😉
+
+![a gif showing the environment request app](/images/EnvironmentRequest.gif)
+
 ---
 
 I welcome comments, remarks and discussions about your experiences with Power Platform Governance.
