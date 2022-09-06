@@ -1,9 +1,9 @@
 ---
 title: Think about limiting environment creation
 description: "This blog describes why and how to limit the environment creation in the Power Platform Admin Center"
-date: '2022-05-24T15:30:38.565Z'
+date: 'Tue, 06 Sep 2022 00:08:51 +0000'
 images: 
-- images/blog/~~title-limit-environment-creation.png~~
+- images/blog/title-limit-environment-creation.png
 author: Michael Roth
 tags:
   - Power Platform
@@ -11,7 +11,7 @@ tags:
   - Administration
   - Security
 type: regular
-draft: true
+draft: false
 ---
 
 # Think about limiting environment creation
