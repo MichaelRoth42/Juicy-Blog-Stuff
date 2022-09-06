@@ -151,7 +151,7 @@ To get started, there are a few things that should be considered: Each category 
 #### Basics
 
 - [Designate Power Platform Admin](https://www.michaelroth42.com/post/2022-05-24-power-platform-administrator/)
-- Think about limiting environment creation
+- [Think about limiting environment creation](https://www.michaelroth42.com/post/2022-05-24-think-about-limiting-environment-creation/)
 - Disable Self-service
 
 #### Environment considerations
