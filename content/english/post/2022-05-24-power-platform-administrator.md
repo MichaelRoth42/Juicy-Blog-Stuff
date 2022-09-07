@@ -73,14 +73,14 @@ In the next chapters of the basic category you will find a few settings that are
 
 ## Rights of the Power Platform Administrator
 
-This is the part where the [documentation](https://docs.microsoft.com/power-platform/admin/use-service-admin-role-manage-tenant) might be a bit misleading. Checking the table below it seems as if the Power Platform Administrator can't use security groups, add security roles, licenses or create new users. Basically it says, the role can create environments and the whole infrastructure but relies on another role to manage Power Platform user.
+[This is the part where the documentation](https://docs.microsoft.com/power-platform/admin/use-service-admin-role-manage-tenant) might be a bit misleading. Checking the table below it seems as if the Power Platform Administrator can't use security groups, add security roles, licenses or create new users. Basically it says, the role can create environments and the whole infrastructure but relies on another role to manage Power Platform user.
 
 But don't be fooled, that's not entirely true, otherwise the role would be very limited. The Power Platform Admin can:
 
 - Create new security groups
-- assign user to security groups
-- assign security roles
-- edit security roles
+- Assign user to security groups
+- Assign security roles
+- Edit security roles
 
 The table below is somewhat correct, since the Power Platform Admin can't create security groups and assign them in the Microsoft 365 Admin Center, but has to use the Azure Portal instead 😉
 
@@ -122,7 +122,7 @@ The Power Platform Admin however can not:
 
 The Power Platform Administrator has the ability to switch on tenant isolation. That is to block inbound and outbound connections from and to another tenant. If it's not switched on, there can be a connection created to our tenant (e.g. a flow), that wouldn't be blocked by a data loss prevention policy. If you have guest accounts, service accounts or external contractors working on your tenant, consider this safety measure.
 
-In the Power Platform Admin Center select **Policies** and the **Tenant isolation (preview)**. Switch the toggle to **On** and select Save.
+In the Power Platform Admin Center select **Policies** and the **Tenant isolation (preview)**. Switch the toggle to **On** and select **Save**.
 
 ![a picture showing the Power Platform admin center and the Policies menu](/images/Tenant_Isolation0.png)
 
