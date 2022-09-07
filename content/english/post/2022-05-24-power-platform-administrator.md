@@ -73,9 +73,10 @@ In the next chapters of the basic category you will find a few settings that are
 
 ## Rights of the Power Platform Administrator
 
-This is the part where the documentation might be a bit misleading. Checking the table below it seems as if the Power Platform Administrator can't use security groups, add security roles, licenses or create new users. Basically it says, the role can create environments and the whole infrastructure but relies on another role to manage Power Platform user.
+This is the part where the [documentation](https://docs.microsoft.com/power-platform/admin/use-service-admin-role-manage-tenant) might be a bit misleading. Checking the table below it seems as if the Power Platform Administrator can't use security groups, add security roles, licenses or create new users. Basically it says, the role can create environments and the whole infrastructure but relies on another role to manage Power Platform user.
 
 But don't be fooled, that's not entirely true, otherwise the role would be very limited. The Power Platform Admin can:
+
 - Create new security groups
 - assign user to security groups
 - assign security roles
@@ -84,6 +85,7 @@ But don't be fooled, that's not entirely true, otherwise the role would be very 
 The table below is somewhat correct, since the Power Platform Admin can't create security groups and assign them in the Microsoft 365 Admin Center, but has to use the Azure Portal instead 😉
 
 The Power Platform Admin however can not:
+
 - Create new users
 - add licenses
 
