@@ -1,7 +1,7 @@
 ---
 title: Disable self-service
 description: "This blog describes why and how to disable the self service features for Power Platform in your tenant"
-date: 'Wen, 14 Sep 2022 08:00:51 +0000'
+date: 'Wed, 14 Sep 2022 08:00:51 +0000'
 images: 
 - images/blog/title-disable-self-service.png
 author: Michael Roth

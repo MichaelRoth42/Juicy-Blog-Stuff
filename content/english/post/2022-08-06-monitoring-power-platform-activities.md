@@ -16,18 +16,20 @@ draft: true
 
 ## Why monitoring matters
 
-## What you can do with the Power Platform Admin Center
+## Tenant level
 
-### Activity logs
+### Microsoft Purview Audit Searches
 
-### Reports
+### Center of Excellence Starter Kit Power BI Report
+
+## Environment Level
 
 ### Managed Environments
 
-## What you can do with the Center of Excellence Starter Kit
+### Self made alerts with the CoE
 
-### Power BI dashboard
+## App Level
 
-### Power Platform Admin View
+### Azure Insights
 
 ## Useful resources
