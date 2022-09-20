@@ -120,3 +120,7 @@ Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://w
 [PowerShell support for Power Apps](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-powershell#designate-sharepoint-custom-form-environment)
 
 [Get started using the Power Apps admin module](https://docs.microsoft.com/en-us/powershell/powerapps/get-started-powerapps-admin?view=pa-ps-latest)
+
+---
+
+[Photo in header image by Sven Mieke](https://unsplash.com/photos/jO6vBWX9h9Y)

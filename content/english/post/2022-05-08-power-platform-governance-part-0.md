@@ -156,7 +156,7 @@ To get started, there are a few things that should be considered: Each category 
 
 #### Environment considerations
 
-- Take care of your default environment
+- [Take care of your default environment](https://www.michaelroth42.com/post/2022-07-02-take-care-about-your-default-environment/)
 - Think about a minimal set of environments
 - Set up Security groups
 
