@@ -11,7 +11,7 @@ tags:
   - Administration
   - Security
 type: regular
-draft: false
+draft: true
 ---
 
 ## What are data loss prevention strategies and why would you one some?
