@@ -6,7 +6,7 @@ images:
 - images/blog/title-dev-tenant.png
 tags: ["Blog","Lvl 50","Power Automate","PowerApps"]
 author: Michael Roth
-type: popular
+type: regular
 ---
 
 The Microsoft “dev tenant” is an amazing feature to learn and experiment in the Microsoft 365 universe (actually I’m talking about your personal development “sandbox” of the Microsoft 365 developer program. If you have no idea, what a “dev tenant” is, read the article “[What is a “Dev tenant” and why would you want one](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/what-is-a-dev-tenant-and-why-would-you-want-one/ba-p/2036610)” from [Julie Turner](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/605)). But there are limitations if it comes to experience the full potential of the Power Platform. Since the dev tenant gives you a E5 license, you can not use premium connectors or add Dataverse to your environments. You would need a standalone license and that costs money. Not ideal if you just want to learn and decide if you want to dig deeper into the Power Platform.

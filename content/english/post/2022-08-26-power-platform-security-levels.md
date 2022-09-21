@@ -11,7 +11,7 @@ tags:
     - Administration
     - Security
     - Dataverse
-type: regular
+type: popular
 draft: false
 ---
 
