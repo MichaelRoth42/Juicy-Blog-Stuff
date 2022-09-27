@@ -1,7 +1,7 @@
 ---
 title: Think about a minimal set of environments
 description: This blog explains a strategy to start your Power Platform environment strategy
-date: '2022-05-26T20:34:32.391Z'
+date: '2022-09-26T08:11:06.185Z'
 images: 
 - images/blog/title-minimal-set-of-environments.png
 author: "Michael Roth"
@@ -11,7 +11,7 @@ tags:
   - Administration
   - Security
 type: regular
-draft: true
+draft: false
 ---
 
 ## Environments for Power Platform
