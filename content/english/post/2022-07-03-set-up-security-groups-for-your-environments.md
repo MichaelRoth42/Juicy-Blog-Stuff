@@ -145,7 +145,6 @@ Now every member of the security group will automatically be associated with the
 
 ---
 
-// TODO tweetlink
 I welcome comments, remarks and discussions about your experiences with Power Platform Governance.
 
 Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://www.linkedin.com/in/michael-roth-handsomeguy/)
