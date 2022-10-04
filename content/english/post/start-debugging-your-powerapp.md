@@ -6,7 +6,7 @@ images:
 draft: false
 author: Michael Roth
 tags: ["Blog","Citizen Developer","Debugging","M 365","Power Platform","Power Apps"]
-type: trending
+type: regular
 ---
 
 **Make troubleshooting and understanding single elements easier.**
