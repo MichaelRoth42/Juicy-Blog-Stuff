@@ -1,7 +1,7 @@
 ---
 title: Set up security groups for your environments
 description: This blog describes why and how to add security groups to your Power Platform environments
-date: '2022-07-03T20:34:32.391Z'
+date: 'Tue, 04 Oct 2022 00:08:51 +0000'
 images: 
 - images/blog/title-set-up-security-groups.png
 author: "Michael Roth"
@@ -11,7 +11,7 @@ tags:
   - Administration
   - Security
 type: regular
-draft: true
+draft: false
 ---
 
 ## Security groups
