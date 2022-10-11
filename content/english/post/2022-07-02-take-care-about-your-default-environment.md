@@ -106,7 +106,6 @@ There you have it, with this we should have built a well equipped default enviro
 
 ---
 
-// TODO tweetlink
 I welcome comments, remarks and discussions about your experiences with Power Platform Governance.
 
 Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://www.linkedin.com/in/michael-roth-handsomeguy/)

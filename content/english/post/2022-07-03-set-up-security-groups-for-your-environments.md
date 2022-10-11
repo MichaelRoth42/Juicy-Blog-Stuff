@@ -158,3 +158,7 @@ Find me on [Twitter](https://twitter.com/MichaelRoth42) and [LinkedIn](https://w
 [Compare groups](https://docs.microsoft.com/microsoft-365/admin/create-groups/compare-groups?view=o365-worldwide)
 
 [Control user access to environments: security groups and licenses](https://docs.microsoft.com/en-us/power-platform/admin/control-user-access)
+
+---
+
+[Photo in header image by Randy Fath](https://unsplash.com/photos/07dDz_PI05k)

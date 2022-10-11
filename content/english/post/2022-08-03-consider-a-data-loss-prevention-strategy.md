@@ -14,7 +14,7 @@ type: regular
 draft: false
 ---
 
-## What are data loss prevention strategies and why would you one some?
+## What are data loss prevention strategies and why would you want some?
 
 One of the coolest things about Power Platform is the amount of connectors that are available. Right now there are about 683 (August 3rd, 2022) and there are more every week. Despite not having their own icon, I consider connectors one of the backbones of Power Platform. With connectors you can use multiple data sources and services.
 
@@ -87,3 +87,7 @@ One last thing that is important. When we implement a new DLP policy, it might a
 
 - [Data loss prevention policies](https://docs.microsoft.com/en-us/power-platform/admin/wp-data-loss-prevention)
 - [Combined effect of multiple DLP policies](https://docs.microsoft.com/en-us/power-platform/admin/dlp-combined-effect-multiple-policies)
+
+---
+
+[Photo in header image by Miroslav Matthess](https://unsplash.com/photos/68jjOAPtxS4)
