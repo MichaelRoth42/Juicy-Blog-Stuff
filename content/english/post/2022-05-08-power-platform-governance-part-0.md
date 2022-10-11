@@ -162,7 +162,7 @@ To get started, there are a few things that should be considered: Each category 
 
 #### Data Loss Prevention Policies & Monitoring
 
-- Consider a DLP strategy
+- [Consider a DLP strategy](https://www.michaelroth42.com/post/2022-08-03-consider-a-data-loss-prevention-strategy/)
 - Monitoring Power Platform activities
 
 #### Enable Makers
