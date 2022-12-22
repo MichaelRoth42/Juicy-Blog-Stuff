@@ -37,7 +37,7 @@ mission:
   enable : true
   title : "What is my mission?"
   image : "images/michael-mission.png"
-  content : "I want to inspire people without a tech background to start their own journey into the tech world. <br>I'm a tech person by choice. That means, I didn't have a technical background to begin with until I decided (in my thirties) to learn everything around tech that seems relevant to me. In order to learn, I write. It helps me understand this complex stuff. With my blog I want to deliver instructions and helpful content for every beginner out there."
+  content : "I want to inspire people without a tech background to start their own journey into the tech world. <br>I'm a tech person by choice. That means, I didn't have a technical background to begin with until I decided (in my thirties) to learn everything around tech that seems relevant to me. In order to learn, I write. It helps me understand this complex stuff. With my blog I want to deliver instructions and helpful content for every beginner out there." ! [Image that shows the mvp banner](/images/MVP_Logo_Horizontal_Preferred_Cyan300_CMYK_72ppi.png)
 
 # Youtube
 youtube:
