@@ -42,10 +42,13 @@ After installing the module we can run this little script to disable the self-se
 
 ```
 Import-Module -Name MSCommerce Connect-MSCommerce //sign-in with your global or billing administrator account when prompted//
+
 $product = Get-MSCommerceProductPolicies -PolicyId AllowSelfServicePurchase |
 where {$_.ProductName -match 'Power Automate'}
-Update-MSCommerceProductPolicy -Policy
+Update-MSCommerceProductPolicy -PolicyId AllowSelfServicePurchase -ProductId $product.ProductID -Enabled $false
 ```
+
+Now you can change the part that says 'Power Automate' to 'Power Apps' or 'Power BI' to disable all the products.
 
 I welcome comments, remarks and discussions about your experiences with Power Platform Governance.
 
