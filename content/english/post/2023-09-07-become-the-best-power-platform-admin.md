@@ -1,7 +1,7 @@
 ---
 title: Become the best Power Platform Admin
-description: "This blog is a summary of my session 'Become the best Power Platform Admin' and reflects my own experiences as well as those from others. Learn what you should know if you pursue a career as Power Platform Administrator"
-date: 2023-09-07T10:06:51.289Z
+description: "This is a summary of my session 'Become the best Power Platform Admin' and describes what you should know if you pursue a career as Power Platform Administrator"
+date: '2023-09-07T10:06:51.289Z'
 images:
 - images/blog/title-become-best-admin.png
 author: Michael Roth
@@ -12,6 +12,8 @@ tags:
     - Administration
 type: regular
 ---
+
+# Become the best Power Platform Admin
 
 ## Introduction
 In today's fast-paced digital landscape, organizations are harnessing the power of low-code platforms like the Microsoft Power Platform to streamline processes, drive innovation, and gain a competitive edge. At the heart of this transformative journey lies a key player: the Power Platform Administrator 😎🚀💪
