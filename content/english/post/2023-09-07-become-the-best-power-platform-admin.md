@@ -5,7 +5,7 @@ date: 2023-09-07T10:06:51.289Z
 images:
 - images/blog/title-become-best-admin.png
 author: Michael Roth
-draft: true
+draft: false
 tags: 
     - Power Platform
     - Governance
@@ -144,7 +144,7 @@ This connector equips you with the tools to automate administrative workflows wi
 #### Power Automate Management Connector: 
 This connector enables advanced management of Power Automate flows and business process flows. You can automate flow creation, updates, and execution, enhancing your control over business processes.
 
-{{< image src="images/blog/admin_connectors.png" >}}
+![Image that shows a the five described Power Automate connectors](/images/admin_connectors.png)
 
 These connectors are designed to seamlessly integrate with your administrative tasks, allowing you to automate and optimize processes, set up alerts for critical events, and manage your Power Platform environments more effectively.
 By harnessing the power of these connectors within Power Automate, you'll find that many administrative tasks become more efficient and less time-consuming. This enables you to focus on higher-value activities, such as strategic planning and ensuring the Power Platform aligns with your organization's goals.
@@ -154,8 +154,7 @@ And now just think about the possibilities of the Center of Excellence Starter K
 ### The Exciting World of CLIs
 While graphical user interfaces (GUIs) provide a user-friendly way to manage the Power Platform, the world of command-line interfaces (CLIs) offers a different dimension of possibilities for administrators. CLIs empower you to automate tasks, work more efficiently, and take fine-grained control of the Power Platform. Here's why diving into the CLI world can make your life as an administrator easier:
 
-{{< image src="images/blog/admin_whole_new_world.png" >}}
-
+![Image that shows Aladdin and Jasmine on the flying carpet](/images/admin_whole_new_world.png)
 
 #### Automation and Scripting:
 Repetitive Tasks: CLIs allow you to automate routine and repetitive administrative tasks, saving you time and reducing the risk of manual errors. Tasks like user provisioning, environment management, and deployment can be scripted for efficiency.
