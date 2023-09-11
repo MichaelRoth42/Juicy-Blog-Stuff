@@ -1,15 +1,16 @@
 ---
-title: Become the best Power Platform Admin
-description: This is a summary of my session 'Become the best Power Platform Admin' and describes what you should know if you pursue a career as Power Platform Administrator
-date: '2023-09-07T10:06:51.289Z'
+title: "Become the best Power Platform Admin"
+description: "This is a summary of my session 'Become the best Power Platform Admin' and describes what you should know if you pursue a career as Power Platform Administrator"
+date: 2023-09-07T10:06:51.289Z
 images:
-- images/blog/title-become-best-admin.png
+  - images/blog/title-become-best-admin.png
 author: "Michael Roth"
-tags: 
-    - Power Platform
-    - Governance
-    - Administration
+tags:
+  - Power Platform
+  - Governance
+  - Administration
 type: regular
+draft: true
 ---
 
 ## Introduction
