@@ -9,7 +9,7 @@
 # customize your color and font from here.
 [params.variables]
 primary_color = "#4FD675"
-secondary_color = "#4fc3d6"
+secondary_color = "#ff00ff"
 text_color = "#555"
 text_color_dark = "#4fc3d6"
 text_color_light = "#777"
