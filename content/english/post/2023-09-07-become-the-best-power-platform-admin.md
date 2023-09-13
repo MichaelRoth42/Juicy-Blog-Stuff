@@ -1,6 +1,6 @@
 ---
-title: "Become the best Power Platform Admin"
-description: "This is a summary of my session 'Become the best Power Platform Admin' and describes what you should know if you pursue a career as Power Platform Administrator"
+title: Become the best Power Platform Admin
+description: This is a summary of my session 'Become the best Power Platform Admin' and describes what you should know if you pursue a career as Power Platform Administrator
 date: 2023-09-07T10:06:51.289Z
 images:
   - images/blog/title-become-best-admin.png
@@ -260,10 +260,9 @@ It’s the logical follow up from the point above: when you stay informed, you n
 And you should check the blog from [Forward Forever](https://forwardforever.com/blog/), where [Antti Pajunen](https://twitter.com/anttipajunen), [Jukka Niiranen](https://twitter.com/jukkan) and their Team blog about Power Platform stuff. They often cover administrational topics and it’s by far the best blog out there. I salute you 🫡
 
 ### User Feedback
-Actively get feedback from your users and give them a channel for that too. Understand their pain points, requirements and even their suggestions for improvement. This is really valuable feedback, since the users are working with the tools day to day, so their ideas can help you tailor the platform to better meet business needs and evolve it further.
-Collaborate with Makers and Developers
-When you have a community of Citizen Developers and Code-First Developers, foster collaboration with both audiences. They both usually have very different requirements and ideas, which isn’t a bad thing, not at all. The real beauty of the platform is that it brings different people together. I can't stress enough how fantastic results are when you bring different brilliant people together and they have a common goal.
-This creates new ideas, exchange and progress. As an administrator, you have the opportunity to create a whole new way of collaboration through low-code.
+Actively get feedback from your users and give them a channel for that too. Understand their pain points, requirements and even their suggestions for improvement. 
+Think of it as your secret sauce for success. Instead of waiting for feedback to come to you, create a feedback-friendly environment. Be proactive and set up channels for users to share their thoughts and experiences with the platform. Whether it's a simple feedback form or a dedicated email address, make sure they know their voices are heard. Plus, don't forget to celebrate their wins! When a user builds an impressive app or workflow, give them a virtual high-five. Encourage a culture of collaboration and recognition, and you'll see the Power Platform community within your organization thrive.
+
 
 ## The End
 By incorporating these additional tips and best practices into your daily routines and strategies, you can further elevate your role as a Power Platform Administrator. Your dedication to continuous improvement and commitment to best practices will help drive the success of the Power Platform within your organization.
