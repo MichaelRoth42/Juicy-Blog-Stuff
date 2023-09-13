@@ -1,16 +1,17 @@
 ---
-title: Become the best Power Platform Admin
-description: This is a summary of my session 'Become the best Power Platform Admin' and describes what you should know if you pursue a career as Power Platform Administrator
-date: 2023-09-07T10:06:51.289Z
-images:
-  - images/blog/title-become-best-admin.png
-author: Michael Roth
+title: Think about a minimal set of environments
+description: This blog explains a strategy to start your Power Platform environment strategy
+date: '2022-09-26T08:11:06.185Z'
+images: 
+- images/blog/title-minimal-set-of-environments.png
+author: "Michael Roth"
 tags:
   - Power Platform
   - Governance
   - Administration
+  - Security
 type: regular
-draft: true
+draft: false
 ---
 
 ## Introduction
