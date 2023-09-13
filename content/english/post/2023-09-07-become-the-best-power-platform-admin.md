@@ -1,7 +1,7 @@
 ---
 title: Become the best Power Platform Admin
-description: This blog explains a strategy to start your Power Platform environment strategy
-date: '2022-09-26T08:11:06.185Z'
+description: This is a summary of my session 'Become the best Power Platform Admin' and describes what you should know if you pursue a career as Power Platform Administrator
+date: '2023-09-13T08:11:06.185Z'
 images: 
 - images/blog/title-minimal-set-of-environments.png
 author: "Michael Roth"
