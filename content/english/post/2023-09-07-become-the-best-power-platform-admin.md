@@ -38,6 +38,8 @@ Power Platform administrators are the unsung heroes behind the scenes, ensuring 
 
 ### Responsibilities of a Power Platform Administrator:
 
+
+
 #### 1.	Secure:
 Data Security: Implement robust security measures, including data loss prevention (DLP) policies and access controls, to safeguard sensitive information.
 Compliance: Ensure that the organization complies with industry regulations and internal policies, reducing legal and financial risks.
@@ -62,6 +64,8 @@ Proactive Maintenance: Take a proactive approach to maintenance, anticipating po
 User Training and Support: Provide guidance and support to users, helping them make the most of the platform's capabilities through training, documentation, and assistance.
 
 In essence, a Power Platform administrator is a versatile role that spans a wide range of responsibilities across security, monitoring, proactive management, and deployment. The successful execution of these responsibilities ensures that the organization can harness the Power Platform's capabilities effectively while maintaining data integrity and security.
+
+![Image that shows a the four areas of responsibilities](/images/admin_responsibilitites.png)
 
 ### The Impact of a Skilled Administrator
 
