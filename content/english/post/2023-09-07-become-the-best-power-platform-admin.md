@@ -88,7 +88,10 @@ In essence, a Power Platform Administration Team acts as a cohesive force, tackl
 
 In the sections to follow, we will explore the tools, knowledge, and strategies that can help you become a valuable member of such a team and excel as a Power Platform administrator.
 
-## What Tools Do You Need:
+## What Tools Do You Need
+
+![Image that shows a comic version of Michael standing infront of a laptop and multiple tool icons flyring aroung](/images/admin_tools.png)
+
 To become a proficient Power Platform administrator, you'll need a toolkit of essential tools and resources at your disposal. These tools are your allies in managing, securing, and optimizing the Power Platform environment. Start with getting familiar with the admin center and the Center of Excellence Starter Kit. That’s an excellent starting point, before getting familiar with more and more possibilities.
 Here's a selection of indispensable tools for your role:
 
@@ -118,17 +121,17 @@ Your choice of tools may evolve as your skills and responsibilities grow. It's e
 
 In the following sections, we'll explore strategies and tips to make your life as a Power Platform administrator more manageable and effective.
 
-## How to Make Your Life Easier:
+## How to Make Your Life Easier
 
 ### Organizational Stuff
 
 #### It's a Team Effort
 Successful Power Platform administration is a collaborative endeavor. While you play a pivotal role, remember that it's not a one-person show. Work closely with your fellow administrators, developers, and business users. Create a cohesive Power Platform Administration Team where each member brings their unique expertise to the table.
 
-#### Bring in Stakeholders: 
+#### Bring in Stakeholders
 To ensure the Power Platform aligns with your organization's goals, involve stakeholders from various departments. Seek input from business leaders, IT teams, and end-users. This collaboration ensures that the Power Platform is tailored to address specific business needs and fosters a sense of ownership across the organization.
 
-#### Get Your Users Trained: 
+#### Get Your Users Trained
 While training end-users isn't a direct responsibility of the administrator, it's crucial for the platform's success. Advocate for user training and provide guidance on available resources. Well-trained users are more likely to use the platform effectively and contribute to its success.
 
 By fostering a culture of collaboration, involving stakeholders, and advocating for user training, you'll create an environment where the Power Platform thrives, and your administrative tasks become more streamlined.
@@ -189,7 +192,7 @@ As you explore the exciting world of CLIs, you'll discover new ways to automate,
 
 In the next section, we'll delve into the typical schedule and processes that administrators often encounter in their day-to-day work.
 
-## Typical Schedule and Processes/Tasks
+## Typical Schedule and Processes/Tasks 🗓️
 As a Power Platform administrator, your daily, weekly, and monthly schedule involves a range of responsibilities and processes aimed at ensuring the smooth operation of the platform and supporting your organization's goals. Here's how these tasks may be categorized:
 
 ### Daily Tasks:
