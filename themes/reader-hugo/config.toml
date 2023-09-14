@@ -11,7 +11,7 @@
 primary_color = "#005b72"
 secondary_color = "#005b72"
 text_color = "#555"
-text_color_dark = "#333"
+text_color_dark = "#c91eee"
 text_color_light = "#777"
 body_color = "#fff"
 border_color = "#EBEBEB"
