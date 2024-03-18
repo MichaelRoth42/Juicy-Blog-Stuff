@@ -1,6 +1,6 @@
 ---
 title: What every Admin needs to know
-description: This is just a placeholder
+description: There are a few things that every admin should know, but that no one teaches you. Don't worry, we're here for you 
 date: '2024-03-18T08:11:06.185Z'
 images: 
 - images/blog/title-What-Every-Admin.png
@@ -18,7 +18,7 @@ Before [Craig](https://platformsofpower.net/) and I deep dive into the really co
 
 There's a good chance that you have no idea how to behave as an admin and that can be dangerous. You probably have a lot of responsibilities and tasks to manage. You also have a lot of power and access to sensitive data and resources. That's why you need to be careful and smart about how you use your privileges and protect your accounts.
 
-So, in this first overview article, we want to familiarize you with a few basic skills that many people are unfortunately not taught. Unfortunately, there are hardly any crash courses "So you want to be an admin". So, let's take it from here ;)
+So, in this first overview article, we want to familiarize you with a few basic skills that many people are unfortunately not taught. Unfortunately, there are hardly any crash courses "So you want to be an admin". So, let's take it from here 😉
 
 We will discuss the aspects of Breaks-Glass accounts, password management and do's & don'ts of admin accounts. 
 
