@@ -1,7 +1,7 @@
 ---
 title: What every Admin needs to know
 description: This is just a placeholder
-date: '2024-03-19T08:11:06.185Z'
+date: '2024-03-18T08:11:06.185Z'
 images: 
 - images/blog/title-What-Every-Admin.png
 author: "Michael Roth"
