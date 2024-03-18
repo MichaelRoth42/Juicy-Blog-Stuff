@@ -52,7 +52,7 @@ Another topic that every admin should know is good password management. Password
 Because in the end, it’s usually not weak passwords, that lead to a breach, but human behavior. This is nothing bad, it’s simply a fact that we need to acknowledge when we think about data security. So arguably, it cannot be a good security behavior, if we rely on the weakest part of security (the human) and ask them to keep something in mind, that should be designed to not be kept in mind (complex passwords).<br><br>
 Obviously, the answer is MFA. Or using a password manager. Or both. A combination is pretty good, since people would go crazy if they would need MFA for every system again and again. On average we use around 8 accounts during a day that requires a password. That’s why people tend to re-use the same password over and over, and here comes the next problem. If you use the same password for your online poker game as for the sensitive data at your workplace, then we should hope that the online poker game stores the user passwords just as securely as a company that specializes in storing sensitive data. Which is rather unlikely.
 
-![Image that shows the xkcd comic how-hacking-works](/images/admin_whole_new_world.png)
+![Image that shows the xkcd comic how-hacking-works](/images/how-hacking-works.png)
 
 The problem with the human brain and highly complex machines is this: When you can remember the password, it’s very easy for the computer to “guess” it. And that’s also why “123456”, “password” and “admin” are still used by almost 25% of the accounts (info comes from a [study published bei tech.co](https://tech.co/password-managers/how-many-passwords-average-person)).
 
