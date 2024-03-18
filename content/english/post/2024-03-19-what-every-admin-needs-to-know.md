@@ -11,7 +11,7 @@ tags:
   - Administration
   - Security
 type: regular
-draft: true
+draft: false
 ---
 
 Before [Craig](https://platformsofpower.net/) and I deep dive into the really cool stuff about administering and governing Power Platforms, we wanted to start with some regular knowledge for administrators. Becoming a Power Platform Administrator is sometimes very easy and even happens by the way. You are known in the company for being interested in the Power Platform, you are in the wrong meeting at the wrong time and boom: you are a Power Platform Administrator. 
