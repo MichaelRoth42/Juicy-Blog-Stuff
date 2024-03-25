@@ -76,8 +76,8 @@ I’m not a huge fan, but what do I know 🤷‍♂️
 - Beware of phishing emails or websites that may try to trick you into revealing your passwords.
 
 ![Craig says header](/images/CraigSays.png)
-Did you know that 59% of adults in the USA use birthdays or names in their passwords? That’s according to these [top password statistics](https://explodingtopics.com/blog/password-stats).<br><br>
-In today’s world of social media, a hacker can readily guess simple passwords. Do you post about your birthday, or your wedding anniversary or the name and school of your children? So, not only make different passwords a default action, but make them hard for anyone to guess.***<br>
+*Did you know that 59% of adults in the USA use birthdays or names in their passwords? That’s according to these [top password statistics](https://explodingtopics.com/blog/password-stats).<br><br>
+In today’s world of social media, a hacker can readily guess simple passwords. Do you post about your birthday, or your wedding anniversary or the name and school of your children? So, not only make different passwords a default action, but make them hard for anyone to guess.*<br>
 
 ## Do’s and don’ts for your admin account
 If you are new at being an admin or just got thrown into the role of Power Platform admin, let me tell you a few classic mistakes I’ve made through the last year. There are a few things you should be aware of, so let’s dive in 🤿:
@@ -95,8 +95,8 @@ This is something that happened to me too and I confess: it happened out of conv
 Be cleverer than me and set up a system that gives you an overview of admin notifications. This means you don't have to keep switching and can only use the admin account when you really need it.
 
 ![Craig says header](/images/CraigSays.png)
-One of the most prominent things I’ve always lived by for good account health is [PoLP – Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege). If the admin account(s) you’re using has access to TOO MUCH information, or TOO MANY settings, work to ensure you only have the access you NEED.<br> 
-Don’t assume your admin account needs access to everything possible. Microsoft 365 and tools from other vendors will have various administrator roles to apply to accounts. Make sure your admin accounts have the right roles for the tasks.***
+*One of the most prominent things I’ve always lived by for good account health is [PoLP – Principle of Least Privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege). If the admin account(s) you’re using has access to TOO MUCH information, or TOO MANY settings, work to ensure you only have the access you NEED.<br> 
+Don’t assume your admin account needs access to everything possible. Microsoft 365 and tools from other vendors will have various administrator roles to apply to accounts. Make sure your admin accounts have the right roles for the tasks.*
 
 ## Conclusion
 In this blog post, I have outlined three topics that are crucial for every admin to know: break-glass accounts, good password management and general do’s & don’ts.<br> 
