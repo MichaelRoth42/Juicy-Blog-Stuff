@@ -21,7 +21,7 @@ If you didn’t catch me talk about that topic yet, fear not for I have got you 
 
 What does it take to become the best Power Platform Administrator? What tools, knowledge, and skills are essential to excel in this pivotal role? In this comprehensive guide, we'll navigate the exciting world of Power Platform administration, from defining the role to providing you with the resources and insights you need to succeed.
 
-Let's dive in!
+Let's dive in! 🤿
 
 ## What is an Administrator for Power Platform?
 Power Platform administrators are the unsung heroes behind the scenes, ensuring that the organization's Power Apps, Power Automate flows, Power BI reports, and Power Virtual Agents run smoothly. They are the guardians of data security, governance, and performance, enabling businesses to leverage the full potential of the Power Platform with confidence.

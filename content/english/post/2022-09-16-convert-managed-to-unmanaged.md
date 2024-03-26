@@ -21,7 +21,7 @@ No, I never wanted to hear that sentence again. Yes, I did anyway.
 
 The question is, how you can change your managed Power Platform solution into an un-managed one? Let's have a look at the scenario first:
 
-You develop Power Platform solutions in a development environment, then you export them as a managed solution into your UAT/test environment, so users can test it, but not change it anymore.
+You develop Power Platform solutions in a development environment, then you export them as a managed solution into your UAT/test environment, so users can test it, but not change it anymore!
 
 ![Image that shows a flowchart how to export a solution as managed from the developer environment and as managed to an UAT/testing environment](/images/ManagedAsUnmanaged_1.png)
 
