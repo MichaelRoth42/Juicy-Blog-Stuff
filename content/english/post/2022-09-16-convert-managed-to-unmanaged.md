@@ -11,7 +11,7 @@ tags:
     - Administration
     - Security
     - Solutions
-type: regular
+type: trending
 draft: false
 ---
 

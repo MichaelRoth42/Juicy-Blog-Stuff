@@ -10,7 +10,7 @@ tags:
   - Governance
   - Administration
   - Security
-type: trending
+type: popular
 draft: false
 ---
 
