@@ -59,7 +59,7 @@ The problem with the human brain and highly complex machines is this: When you c
 Long story short, here is a link to some [recommendations for password manager](https://cybernews.com/best-password-managers/). Use them, and please also tell your friends about them. They store your passwords, and they use complex passwords you could never remember. It’s a win-win.
 
 >***A side note to admins***<br>
-Since we know that humans are bad at remembering complex passwords, it would be a terrible, terrible idea to force them to come up with new passwords on a regular basis then, right? I mean, what would you expect in terms of password quality? That's right, it would just get worse and worse.<br><br>
+Since we know that humans are really bad at remembering complex passwords, it would be a terrible, terrible idea to force them to come up with new passwords on a regular basis then, right? I mean, what would you expect in terms of password quality? That's right, it would just get worse and worse.<br><br>
 And if you're thinking about the fact that passwords must be changed regularly in your organization, then unfortunately that's because this is a prerequisite for ISO 27001 certification. Yup, the International Organization for Standardisation requires people to come up with new passwords on a regular basis for the organization to be considered secure and to receive an ISO certification. The certification for information security, cybersecurity, and privacy protection.<br><br> 
 I’m not a huge fan, but what do I know 🤷‍♂️
 
