@@ -68,6 +68,21 @@ This usually is taken care of, by whoever works with Microsoft Intune in your or
 **-	Information and data <br>**
 This is a classic “it depends” question. Responsibility for data security is usually shared between the user (often you find something like a “Information Classification” concept to label certain data) and the ones providing the data storage. Within the Microsoft universe that can be OneDrive, SharePoint, Fabric, Azure Datalake or Dataverse. Depending on where the data is stored, different administrators are responsible for this. Additionally, the access to different data sources is managed through DLPs (Data Loss Prevention Policies). This is the moment when you should know exactly where you have documented your DLPs 😉<br>
 
+![Craig says header](/images/CraigSays.png)
+*Your shared responsibility isn’t just with Microsoft but with other areas of your business too. The above points therefore underline how critical these relationships are to building & maintaining a healthy ecosystem. Administration across the Microsoft stack is a team effort between any combination of the following (or similar) roles:*
+
+
+- Power Platform admins
+- Microsoft 365 admins
+- Azure admins
+- Security leads/engineers
+- Architecture/Technical Design Authority
+- Data leads/engineers
+- Governance & Compliance/GDPR experts <br>
+
+*Having a shared understanding across the board will not only help with those invasive security audits, but allow you to embrace a cross-functional working culture that’ll be critical for ongoing success. This is as much about knowing how their areas impact yours, as it is the other way around. Make sure you have the tools in place to foster transparent communications between all involved.*
+
+
 ## The Low-Code Maker part
 If you are someone who develops apps and flows and other services with the Power Platform, only a few of these parts are important to you. When you’re developing and deploying a Power App, you are responsible for at least the “Accounts & Identities” part. 
 
