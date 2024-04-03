@@ -14,7 +14,7 @@ type: regular
 draft: false
 ---
 
-Welcome back to the next blog in the ppacAttack series, run by Craig White and me. I have to admit that the topic can feel a bit tough, but believe me, you'll thank me when the next auditor shows up at the latest. It’s about Power Platform architecture, Platforms as a service and software as a service (PaaS and SaaS) but also about Pizza, so it can’t be that bad, right? 🍕😎
+Welcome back to the next blog in the ppacAttack series, run by Craig White and me. I have to admit that the topic can feel a bit tough, but believe me, you'll thank me when the next auditor comes around. It’s about Power Platform architecture, Platforms as a service and software as a service (PaaS and SaaS) but also about Pizza, so it can’t be that bad, right? 🍕😎
 
 Okay, I hope you all know the [Pizza-as-a-service](https://www.linkedin.com/pulse/20140730172610-9679881-pizza-as-a-service/) metaphor from [Albert Barron](https://www.linkedin.com/in/albertbarron/) from 20124. It’s a great way to understand the basic difference between systems that are hosted [on-prem](https://pimpyourowndevice.com/community/onpremsucks/) and those that come as some form of online service. Mainly we have Infrastructure as a service (IaaS), Platform as a service (PaaS) and Software as a service (SaaS). They all include different aspects that are managed by Microsoft for you. 
  
