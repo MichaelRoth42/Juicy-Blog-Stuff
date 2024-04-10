@@ -34,13 +34,13 @@ But we rise by facing our fears, right? So buckle up, because we’re going to g
 PowerShell is an open-source, command-line interface (CLI) based tool that allows developers, IT admins, and DevOps professionals to automate tasks and configurations using code. Here are some key points about PowerShell:
 
 1.	CLI-Based Tool:
->- CLI stands for Command-Line Interface. It’s a way to interact with a computer system using text-based commands.
->-	In PowerShell, you type commands in the console, and it executes them. Think of it as a powerful text-based control center for your computer. We call those commands cmdlets (pronounced command-lets). 
+- CLI stands for Command-Line Interface. It’s a way to interact with a computer system using text-based commands.
+-	In PowerShell, you type commands in the console, and it executes them. Think of it as a powerful text-based control center for your computer. We call those commands cmdlets (pronounced command-lets). 
 
 2.	Bifunctional Attribute:
->-	PowerShell serves two main purposes: 
->>- Shell: As a shell, it lets you control the computer using commands from the command line. You can automate repetitive tasks, reducing errors and making work easier.
->>- Scripting Language: PowerShell is also a programming language used to pass instructions from one software to another. Unlike compiled languages, PowerShell commands are interpreted line by line.
+-	PowerShell serves two main purposes: 
+    - Shell: As a shell, it lets you control the computer using commands from the command line. You can automate repetitive tasks, reducing errors and making work easier.
+    - Scripting Language: PowerShell is also a programming language used to pass instructions from one software to another. Unlike compiled languages, PowerShell commands are interpreted line by line.
 
 3.	Origins and Evolution:
 - Created by Jeffery Snover, PowerShell was initially known as Monad *(free weird knowledge for your next pub-quiz🤓)*.
@@ -97,8 +97,8 @@ But seriously, a short example from the command list makes clear what I mean:
 
 4.	The admin calls for help! And the shell will answer. Because the help system is pretty clever and you should use it all the time. At least that’s what I do. There are two super important cmdlets that you need to know:
 
->>>>a.	Get-Help
->>>>b.	Get-Command
+    a.	Get-Help<br>
+    b.	Get-Command<br>
 (see the verb-noun combination? Just like in your favourite text adventure 🤓)
 
 **Get-Help** is used to get more information about specific cmdlets and it shows you how to use them. If you use the command Get-Help enable-AdminFlow you will get the help text for that command:
