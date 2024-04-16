@@ -1,7 +1,7 @@
 ---
 title: Getting started with PowerShell - A Beginner's Guide
 description: A beginners guide to PowerShell, specifically for Power Platform Administrators
-date: '2024-04-09T08:11:06.185Z'
+date: '2024-04-10T08:11:06.185Z'
 images: 
 - images/blog/title-getting-started-with-powershell.png
 author: "Michael Roth"
