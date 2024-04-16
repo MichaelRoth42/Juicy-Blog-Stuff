@@ -17,7 +17,7 @@ draft: false
 
 This is the next post in our mini-series with PowerShell for Power Platform Administrators here at ppacAttack.
 
-After we’ve learned (how to start PowerShell in different modes)[https://www.michaelroth42.com/post/2024-04-10-getting-started-with-powershell/], understood the general syntax and already got the first cool features covered (the help cmdlet, toggling through the last cmdlets, etc.), this week we’re going through PowerShell ISE, as well as all the modules that we’re going to need in our Power Platform life. 
+After we’ve learned [how to start PowerShell in different modes](https://www.michaelroth42.com/post/2024-04-10-getting-started-with-powershell/), understood the general syntax and already got the first cool features covered (the help cmdlet, toggling through the last cmdlets, etc.), this week we’re going through PowerShell ISE, as well as all the modules that we’re going to need in our Power Platform life. 
 
 
 
@@ -78,7 +78,7 @@ And I sweat that this is really the last thing we need to understand and prepare
 
 Think of a PowerShell module as a package of related scripts, cmdlets, functions, variables, and other tools that you can easily reuse in different scripts or on different machines. It’s like having a toolbox where each tool is designed for a specific task, and you can bring it out whenever you need it.
 
-If you want to use certain cmdlets, you need to import them first. And usually you don’t import single cmdlets, but modules. Of course, you get modules in the so-called internet and the best way is the (PowerShell Gallery)[https://www.powershellgallery.com/]. It’s a central repository for sharing and acquiring PowerShell scripts and modules. Microsoft has a great (documentation)[https://learn.microsoft.com/en-us/powershell/gallery/getting-started?view=powershellget-3.x] around it, including how to get started, different How-To’s and so much more. Check it out, if you want to know more about the Gallery.
+If you want to use certain cmdlets, you need to import them first. And usually you don’t import single cmdlets, but modules. Of course, you get modules in the so-called internet and the best way is the [PowerShell Gallery](https://www.powershellgallery.com/). It’s a central repository for sharing and acquiring PowerShell scripts and modules. Microsoft has a great [documentation](https://learn.microsoft.com/en-us/powershell/gallery/getting-started?view=powershellget-3.x) around it, including how to get started, different How-To’s and so much more. Check it out, if you want to know more about the Gallery.
 
 ## Required roles
 
@@ -90,15 +90,15 @@ As usual, thanks for reading, if you have questions, comments, and stories to sh
 
 There are a few modules that are must-haves when it comes to Power Platform Administration and I have a handy list for you, including the link:
 
--	(Microsoft.PowerApps.Administration.PowerShell)[https://www.powershellgallery.com/packages/Microsoft.PowerApps.Administration.PowerShell/2.0.180] (Power Platform Admin)
+-	[Microsoft.PowerApps.Administration.PowerShell](https://www.powershellgallery.com/packages/Microsoft.PowerApps.Administration.PowerShell/2.0.180) (Power Platform Admin)
 This one is packed with cmdlets around administering Power Platform and you will need (and love) it.
--	(Microsoft.PowerApps.PowerShell)[https://www.powershellgallery.com/packages/Microsoft.PowerApps.PowerShell/1.0.34] (no Admin role required)
+-	[Microsoft.PowerApps.PowerShell](https://www.powershellgallery.com/packages/Microsoft.PowerApps.PowerShell/1.0.34) (no Admin role required)
 This one is more aimed towards makers who want to use CLI to manage their own apps and flows.
--	(MSCommerce)[https://www.powershellgallery.com/packages/MSCommerce/2.0] (Billing Admin)
+-	[MSCommerce](https://www.powershellgallery.com/packages/MSCommerce/2.0) (Billing Admin)
 This one is for accessing Microsoft Commerce APIs and will be necessary later for working with self service purchase licenses (you usually don’t want them in your tenant).
--	(MSAL.PS)[https://www.powershellgallery.com/packages/MSAL.PS/4.37.0.0] (Power Platform Admin)
+-	[MSAL.PS](https://www.powershellgallery.com/packages/MSAL.PS/4.37.0.0) (Power Platform Admin)
 With this module we can build cross tenant isolation reports. Again, this is something we will cover in a later blog post.
--	(ExchangeOnlineManagement)[https://www.powershellgallery.com/packages/ExchangeOnlineManagement/3.4.2-Preview1] (Exchange Admin)
+-	[ExchangeOnlineManagement](https://www.powershellgallery.com/packages/ExchangeOnlineManagement/3.4.2-Preview1) (Exchange Admin)
 As the name suggests, we can connect to exchange online, which is really handy if we want to activate the audit logs for Power Platform 
 
 I will always note the required module at the beginning of the following blog posts so that you always know directly what we will need.
