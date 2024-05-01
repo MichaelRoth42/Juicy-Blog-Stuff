@@ -1,7 +1,7 @@
 ---
 title: PowerShell - Let's create custom objects
 description: Deep dive into PowerShell custom objects and how to use them
-date: '2024-05-01T08:11:06.185Z'
+date: '2024-05-01T07:11:06.185Z'
 images: 
 - images/blog/title-PowerShell-custom-objects.png
 author: "Michael Roth"
