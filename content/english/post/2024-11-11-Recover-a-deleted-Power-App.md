@@ -3,7 +3,7 @@ title: Recover a deleted Power App
 description: How to recover deleted assets in Power Platform
 date: '2024-11-11T07:11:06.185Z'
 images: 
-- images/blog/title-PowerShell-custom-objects.png
+- images/blog/title-recover-apps-and-flows.png
 author: "Michael Roth"
 tags:
   - Power Platform
@@ -121,8 +121,6 @@ Let me walk you through:
 That are the possibilities we have right now to restore Power Apps and Power Automate flows. Remember to get the settings right when you want to recover a flow, otherwise it's gonna be frustrating. It's a bit easier for apps in my opinion.
 
 I will update this post, as soon as the PowerShell cmdlet will work again 
-
-Next week we’re going through my favourite PowerShell scripts for Power Platform Admins, before we end this series with a real banger: the cross tenant isolation reports.
 
 Thanks a lot for reading, and if you have comments, questions, or remarks, feel free to contact me on social media. I'm happy to chat and help and learn 😉
 
