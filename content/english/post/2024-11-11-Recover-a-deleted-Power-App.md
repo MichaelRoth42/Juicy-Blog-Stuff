@@ -29,29 +29,29 @@ If you are new to PowerShell, check out this [Beginner's Guide](https://www.mich
 
 We begin with the cmdlet `Add-PowerAppsAccount´, and wait for the pop-up to sign in with our credentials.
 
-![Connecting our account with the right tenant in PowerShell](/images/Restore_Apps_1.png)
+![Connecting our account with the right tenant in PowerShell](/images/RestoreApps_1.png)
 
 Then we get a list of all deleted PowerApps in the dedicated environment. We only need the environment ID for this cmdlet `Get-AdminDeletedPowerAppsList -EnvironmentName <Environment ID>´
 
 The result is a list of all applications that were deleted during the retention period. 
 
-![The result of the PowerShell cmdlet](/images/Restore_Apps_2.png)
+![The result of the PowerShell cmdlet](/images/RestoreApps_2.png)
 
 And here is a little reminder about the supported retention periods in different environments 😉
 
-![supported retention period in different environments](/images/Restore_Apps_3.png)
+![supported retention period in different environments](/images/RestoreApps_3.png)
 
 The last step is to actually recover the app. We will use the cmdlet `Get-AdminRecoverDeletedPowerApp -EnvironmentName <Environment ID> -AppName <AppName>´
 
 The result is a quick reply with a code (hopefully it's a 200 🤞) like this:
 
-![Result of restoring the application](/images/Restore_Apps_4.png)
+![Result of restoring the application](/images/RestoreApps_4.png)
 
 This is how the restored app looks in the maker studio and it just works like a charm:
 
-![How it looks in the maker studio](/images/Restore_Apps_5.png)
+![How it looks in the maker studio](/images/RestoreApps_5.png)
 
-![The restored apps works like before](/images/Restore_Apps_6.png)
+![The restored apps works like before](/images/RestoreApps_6.png)
 
 ## And what about flows?
 
@@ -64,47 +64,47 @@ If you (or any user) accidentally deleted a Power Automate Flow, things work a b
 
 ## PowerShell for Flow recovery
 
-In theory you should use the Get-AdminFlow cmdlet and use it for a skript that lists all flows from a dedicated environment:
+In theory you should use the Get-AdminFlow cmdlet and use it for a skript that lists all flows from a dedicated environment:<br>
 `Get-AdminFlow -EnvironmentName <Your-Environment-ID> -IncludeDeleted $true`
 
 Yet the result shows you nothing, not even an empty object. That is a known issue by now (Nov 13th, 2024) and should be fixed at some point.
 
-![No result from the Get-AdminFlow cmdlet](/images/Restore_Apps_7.png)
+![No result from the Get-AdminFlow cmdlet](/images/RestoreApps_7.png)
 
 **Flow recovery with PowerShell is not possible at the moment**
 
 ## Power Automate for Flow recovery
 
-The (Microsoft documentation)[https://learn.microsoft.com/en-us/power-automate/how-tos-restore-deleted-flow] mentions Power Automate to recover deleted flows at first, so we can assume it's the preferred solution.
+The [Microsoft documentation](https://learn.microsoft.com/en-us/power-automate/how-tos-restore-deleted-flow) mentions Power Automate to recover deleted flows at first, so we can assume it's the preferred solution.
 
 The idea is simple, you build a flow that lists all flows in an environment, including the deleted ones, then you restore the desired flow based on that list. 
 
-![Straightforward flow design](/images/Restore_Apps_8.png)
+![Straightforward flow design](/images/RestoreApps_8.png)
 
 Yet the devil likes to hide in the details. When you run a flow like this, Power Automate will only show you flows that are stored in a solution. That means, in the last action "Restore Deleted Flow as Admin" you won't be able to select the deleted flows.
 There are two things you need to set up in the "List Flos as Admin (V2)" action first:
 
 1. in the advanced settings, include soft-deleted flows as well. Set it to "Yes"
-![Select to include soft-deleted flows](/images/Restore_Apps_9.png)
+![Select to include soft-deleted flows](/images/RestoreApps_9.png)
 
 2. select the ellipsis and navigate to settings. Turn on the pagination and set the value to 100000
-![Switch on pagination](/images/Restore_Apps_10.png)
+![Switch on pagination](/images/RestoreApps_10.png)
 
 Only now you see all the flows of an environment, regardless of whether the flows are stored in a solution or not. You can also see all deleted flows from the last 21 days.
 
 The flow that you restore will show up in the menu "My flows", yet it will be turned off. Select the ellipsis to turn it back on again and voilá, that's how we recover a flow.
 
-![The restored flow is back and only needs to be switched on again](/images/Restore_Apps_11.png)
+![The restored flow is back and only needs to be switched on again](/images/RestoreApps_11.png)
 
 ## Best practice from the real world
 
 When you build this flow the way I build it in this example, it can be problematic. You need to get the output from the "List Flos as Admin (V2)" action and copy/paste it into the "Restore Deleted Flow as Admin" action. 
 
-![manually paste the name into the flow - that sucks](/images/Restore_Apps_12.png)
+![manually paste the name into the flow - that sucks](/images/RestoreApps_12.png)
 
 If you want to build it a bit more elegant, you use variables like this:
 
-![A more elegant with variables](/images/Restore_Apps_13.png)
+![A more elegant with variables](/images/RestoreApps_13.png)
 
 Let me walk you through:
 
