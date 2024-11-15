@@ -27,11 +27,11 @@ Luckily it's usually quick and easy to restore an app or an flow (even in the de
 For this we will need the [Microsoft.PowerApps.Administration.PowerShell module](https://www.powershellgallery.com/packages/Microsoft.PowerApps.Administration.PowerShell/2.0.112), which means, we will need at least the **Power Platform Administrator** admin role for this.
 If you are new to PowerShell, check out this [Beginner's Guide](https://www.michaelroth42.com/post/2024-04-10-getting-started-with-powershell/), or if you need help with modules, [click on this blog](https://www.michaelroth42.com/post/2024-04-16-ise-modules-and-roles-copy/).
 
-We begin with the cmdlet `Add-PowerAppsAccount´, and wait for the pop-up to sign in with our credentials.
+We begin with the cmdlet ``Add-PowerAppsAccount``, and wait for the pop-up to sign in with our credentials.
 
 ![Connecting our account with the right tenant in PowerShell](/images/RestoreApps_1.png)
 
-Then we get a list of all deleted PowerApps in the dedicated environment. We only need the environment ID for this cmdlet `Get-AdminDeletedPowerAppsList -EnvironmentName <Environment ID>´
+Then we get a list of all deleted PowerApps in the dedicated environment. We only need the environment ID for this cmdlet ``Get-AdminDeletedPowerAppsList -EnvironmentName <Environment ID>``
 
 The result is a list of all applications that were deleted during the retention period. 
 
@@ -41,7 +41,7 @@ And here is a little reminder about the supported retention periods in different
 
 ![supported retention period in different environments](/images/RestoreApps_3.png)
 
-The last step is to actually recover the app. We will use the cmdlet `Get-AdminRecoverDeletedPowerApp -EnvironmentName <Environment ID> -AppName <AppName>´
+The last step is to actually recover the app. We will use the cmdlet ``Get-AdminRecoverDeletedPowerApp -EnvironmentName <Environment ID> -AppName <AppName>``
 
 The result is a quick reply with a code (hopefully it's a 200 🤞) like this:
 
@@ -65,7 +65,7 @@ If you (or any user) accidentally deleted a Power Automate Flow, things work a b
 ## PowerShell for Flow recovery
 
 In theory you should use the Get-AdminFlow cmdlet and use it for a skript that lists all flows from a dedicated environment:<br>
-`Get-AdminFlow -EnvironmentName <Your-Environment-ID> -IncludeDeleted $true`
+``Get-AdminFlow -EnvironmentName <Your-Environment-ID> -IncludeDeleted $true``
 
 Yet the result shows you nothing, not even an empty object. That is a known issue by now (Nov 13th, 2024) and should be fixed at some point.
 
