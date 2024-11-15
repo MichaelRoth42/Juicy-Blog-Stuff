@@ -2,7 +2,7 @@
 title: Recover a deleted Power App
 description: How to recover deleted assets in Power Platform using Power Automate and PowerShell. Regardless where they have been stored, you can recover them :)
 date: '2024-11-11T07:11:06.185Z'
-image: 
+images: 
 - images/blog/title-recover-apps-and-flows.png
 author: "Michael Roth"
 tags:
