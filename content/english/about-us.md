@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "Let's get to work"
 image : "images/about-us-1.jpg"
 # description
 description: "This is meta description"

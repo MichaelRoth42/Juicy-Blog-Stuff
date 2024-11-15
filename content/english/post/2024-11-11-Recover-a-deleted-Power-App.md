@@ -12,7 +12,7 @@ tags:
   - Security
   - PowerShell
 type: regular
-draft: true
+draft: false
 ---
 
 Hey there, this is the start of a mini series called "Admins Essentials" covering all the activities that an Admin should have done at least once or needs to do re-occuring. The posts will be small with detailed step-by-step explanations so everyone will be able to follow along 🙂
