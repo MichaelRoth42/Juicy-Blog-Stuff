@@ -4,7 +4,7 @@ description: How to recover deleted assets in Power Platform using Power Automat
 date: '2024-11-11T07:11:06.185Z'
 images: 
 - images/blog/title-recover-apps-and-flows.png
-author: "Michael Roth"
+author: Michael Roth
 tags:
   - Power Platform
   - Governance
