@@ -38,9 +38,6 @@ I would recommend to use PowerShell ISE or Visual Studio Code, because we will n
 ```
 Add-PowerAppsAccount
 ```
-
-![Connecting our account with the right tenant in PowerShell](/images/Restore_Apps_1.png)
-
 <span style="color:green">##Create a variable called "tenantSettings", set it to disable sharing with everyone, then set the tenant settings to the value of the variable</span>
 
 ```
