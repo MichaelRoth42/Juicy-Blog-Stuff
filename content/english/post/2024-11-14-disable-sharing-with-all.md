@@ -1,7 +1,7 @@
 ---
 title: Disable Sharing with All
 description: Why and how to restricting sharing with all in Power Platform
-date: '2024-11-21T07:11:06.185Z'
+date: '2024-11-20T07:11:06.185Z'
 images: 
 - images/blog/title-disable-sharing-with-all.png
 author: "Michael Roth"
