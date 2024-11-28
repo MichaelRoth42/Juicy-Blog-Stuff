@@ -43,7 +43,7 @@ Add-PowerAppsAccount
 ```
 $tenantSettings = Get-TennantSettings
 $tenantSettings.powerPlatform.powerApps.disableShareWithEveryone = $true
-Set-TenantSettings $tenantSettings
+Set-TenantSettings $tenantSettings 
 ```
 
 ## Conclusion

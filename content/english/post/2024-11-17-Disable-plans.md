@@ -1,7 +1,7 @@
 ---
 title: Disable Viral and internal plans
 description: What are viral and internal plans and why should you disabled them
-date: '2024-11-27T07:11:06.185Z'
+date: '2024-11-28T07:11:06.185Z'
 images: 
 - images/blog/title-disable-plans.png
 author: "Michael Roth"
@@ -12,7 +12,7 @@ tags:
   - Security
   - PowerShell
 type: regular
-draft: true
+draft: false
 ---
 
 This is the next part of our mini series called "Admins Essentials" covering all the activities that an Admin should have done at least once or needs to do re-occuring. This time we check out what viral and internal licensing plans are, and why we should disable them 🙂
