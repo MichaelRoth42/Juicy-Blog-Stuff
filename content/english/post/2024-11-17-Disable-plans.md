@@ -82,6 +82,20 @@ This is a quick and easy fix for this problem. If you need to enable then again,
 Add-AllowedConsentPlans -Types @("Internal", "Viral")
 ~~~
 
+## The extra chapter
+
+But wait, there's more ☝️
+
+Now that you've turned them off, how do you make sure you don't have any of these plans on the tenant yet? 
+
+Fear not, I got you covered. 
+
+Hop over to the (M365 admin center)[https://admin.microsoft.com/] and select **Billing** --> **Your Products**. Did you ever notice that on the very right hand side of the screen a filter is pre-selected? No? Well, now you know. Click on that filter and down at the bottom you can include "Self-service" licenses. When you check this, you can see if you have any on the tenant, and whom they are assigned to.
+
+***Hint: You have to be Global Admin, Global Reader or Billing Admin. If you are not, you should be good friends with at least one of them***
+
+![Detect Self-service licenses in your tenant](/images/Disable_Plans_3.png)
+
 ## Conclusion
 
 Once again, a super short blog. It's not about the amount of effort, but that you are aware of this. Power Platform is all about empowerment—but as administrators, it’s our job to balance freedom with responsibility. By understanding the risks of viral and internal plans and taking proactive steps, you can ensure your organization’s Power Platform journey is smooth, secure, and stress-free.
