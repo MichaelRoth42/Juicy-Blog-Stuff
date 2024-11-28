@@ -1,7 +1,7 @@
 ---
 title: Disable Viral and internal plans
 description: What are viral and internal plans and why should you disabled them
-date: '2024-11-28T07:11:06.185Z'
+date: '2024-11-27T07:11:06.185Z'
 images: 
 - images/blog/title-disable-plans.png
 author: "Michael Roth"
