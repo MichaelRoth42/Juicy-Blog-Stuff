@@ -12,7 +12,7 @@ tags:
   - Security
   - PowerShell
 type: regular
-draft: true
+draft: false
 ---
 
 Admin's Essentials is back with something that was a thing some time before, but has vanished, at least from my point of view. Again, this mini series is about tasks that an Admin should have done at least once or needs to do re-occuring. Remember customizing the DLP error message in Power Platform? This post is about the why and the how. 
