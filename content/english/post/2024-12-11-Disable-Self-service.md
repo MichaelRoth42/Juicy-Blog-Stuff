@@ -12,7 +12,7 @@ tags:
   - Security
   - PowerShell
 type: regular
-draft: true
+draft: false
 ---
 
 Welcome back to this mini blog post series called "Admin's Essentials", in which we talk about those tasks that every Administrator has to do once or twice or at least, be aware about it.
