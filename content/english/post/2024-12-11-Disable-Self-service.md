@@ -1,7 +1,7 @@
 ---
 title: Disable Self purchase services
 description: Learn what self-service purchases are, why you don't want them and how to switch them off
-date: '2024-12-11T07:11:06.185Z'
+date: '2024-12-10T07:11:06.185Z'
 images: 
 - images/blog/title-disable-self-service-2.png
 author: "Michael Roth"
