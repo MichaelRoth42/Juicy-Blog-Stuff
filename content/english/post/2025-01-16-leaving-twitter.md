@@ -1,7 +1,7 @@
 ---
 title: Leaving Twitter
 description: I explain my reasons why I deleted my twitter account to focus more on LinkedIn and Bluesky
-date: '2025-11-01T07:11:06.185Z'
+date: '2025-01-16T07:11:06.185Z'
 images: 
 - images/blog/title-leaving-twitter.png
 author: "Michael Roth"
