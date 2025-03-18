@@ -56,7 +56,7 @@ While these tools reduce manual workload and error-proneness, they aren’t the 
 **🚀 We are still at the very beginning of the AI era.** Much of what we consider AI today is not yet transformative.
 **🎯 If we are at the beginning, we have a real opportunity to influence AI’s** development and ensure a mindset shift from the start.
 
-![An image of a robot, unsure of it's purpose](/images/DearAlice.jpg)
+![An image of a robot, unsure of it's purpose](/images/DearRobot.jpg)
 
 Photo by <a href="https://unsplash.com/@rocknrollmonkey?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rock'n Roll Monkey</a> on <a href="https://unsplash.com/photos/gray-and-white-robot-illustration-FTfjMijq-Ws?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
@@ -69,7 +69,7 @@ The real challenge is shifting our mindset. AI shouldn’t just be about automat
 
 We don’t need permission to make the change we want to see in the world. We can start today, right now, by thinking differently, by sharing, by questioning the status quo. Change happens when people take action—not when they wait for corporations or governments to lead the way.
 
-![What if we value people over profit?](/images/DearAlice.jpg)
+![What if we value people over profit?](/images/DearPeopleOverProfit.jpg)
 
 Photo by <a href="https://unsplash.com/@koshuuu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Koshu Kunii</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-people-on-street-t86cJxwmBWc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
@@ -122,3 +122,10 @@ By actively using Copilot Studio to create AI solutions that prioritize openness
 
 Openness has already revolutionized tech once. Why not again? The same way developers built the open-source movement, we can build an AI future that is transparent, ethical, and focused on real human needs. The question is: are we ready to take that step?
 
+---
+
+Thanks a lot for reading, and if you have comments, questions, or remarks, feel free to contact me on social media. I'm happy to chat and help and learn 😉
+
+Michael on [Bluesky](https://bsky.app/profile/michael42.bsky.social) and [LinkedIn](https://www.linkedin.com/in/michaelroth42/)
+
+<br> Thank you for reading!
