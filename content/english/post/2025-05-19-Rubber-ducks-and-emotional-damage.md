@@ -38,16 +38,12 @@ It’s about resisting the urge to push blame onto the tool, the platform, or th
 
 And most of all, it’s about shifting your state of mind—from emotional storm to analytical story mode.
 
-That shift is what makes all the difference.  
-Everything else—logs, tools, documentation, even the wise gaze of Geordi La Quack—is just support.
+That shift is what makes all the difference. Everything else—logs, tools, documentation, even the wise gaze of Geordi La Quack—is just support.
 
-That realization is also why I started this blog in the first place.  
-Because half the time I solve something, I immediately forget what I did.  
-And the next time it breaks? I feel just as lost—until I find an old post of mine and think:  
+That realization is also why I started this blog in the first place. Because half the time I solve something, I immediately forget what I did. And the next time it breaks? I feel just as lost—until I find an old post of mine and think:  
 *“Oh right. I do know this. I’ve just… been here before.”*
 
-This blog post is my attempt to capture that moment.  
-The one where frustration turns into clarity—and chaos becomes a story you can actually tell.
+This blog post is my attempt to capture that moment. The one where frustration turns into clarity—and chaos becomes a story you can actually tell.
 
 It’s not a checklist.  
 It’s not a magic fix.  
@@ -63,14 +59,11 @@ Here’s the thing no one tells you when you start in tech:
 
 > **Troubleshooting isn’t really about tools. It’s about how you deal with being stuck.**
 
-When I was younger, getting stuck felt like failure.  
-I’d get frustrated. I’d feel dumb. I’d blame the system, the update, the user, the computer—anything to not feel like it was me.
+When I was younger, getting stuck felt like failure. I’d get frustrated. I’d feel dumb. I’d blame the system, the update, the user, the computer—anything to not feel like it was me.
 
-And in that state? I wasn’t thinking clearly.  
-I wasn’t investigating. I was defending myself against my own insecurity.
+And in that state? I wasn’t thinking clearly. I wasn’t investigating. I was defending myself against my own insecurity.
 
-But over time, I learned to recognize the shift.  
-The moment where I go from:
+But over time, I learned to recognize the shift. The moment where I go from:
 
 > “Why doesn’t this work?!”  
 > *to*  
@@ -83,9 +76,7 @@ Let’s talk about it. The panic. The blame. The voice in your head that says:
 - *“What if I break it even more?”*
 - *“Why does this always happen to me?”*
 
-These reactions don’t mean you’re bad at your job.  
-They mean you’re human.  
-But if you stay in that storm, you can’t see clearly.
+These reactions don’t mean you’re bad at your job. They mean you’re human. But if you stay in that storm, you can’t see clearly.
 
 > **Strong emotions prevent rational inspection.  
 > Frustration builds walls. Curiosity opens doors.**
@@ -95,8 +86,7 @@ If you're too upset to think clearly, you're not troubleshooting—you're protec
 
 When you calm down—when you stop taking the error personally—you start to see the issue like a puzzle.
 
-You become an investigator, not a victim.  
-And the weird thing is—it actually feels good. Even fun, sometimes.
+You become an investigator, not a victim. And the weird thing is—it actually feels good. Even fun, sometimes.
 
 ### 💡 Julia Evans calls this out beautifully in her [Debugging Manifesto](https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/):
 - *Being stuck is temporary.*
@@ -105,9 +95,7 @@ And the weird thing is—it actually feels good. Even fun, sometimes.
 - *It’s probably your code.*
 - *Trust nobody and nothing.*
 
-That last one isn’t cynical. It’s about letting go of assumptions.  
-Just because you think something should behave a certain way doesn’t mean it does.  
-And honestly? That mindset shift helps a lot when you're dealing with low-code platforms where "magic" often hides actual logic.
+That last one isn’t cynical. It’s about letting go of assumptions. Just because you think something should behave a certain way doesn’t mean it does. And honestly? That mindset shift helps a lot when you're dealing with low-code platforms where "magic" often hides actual logic.
 
 ### 🧠 My personal core principles:
 -  **There is always a reason, even when it feels random.**  
@@ -123,49 +111,38 @@ And honestly? That mindset shift helps a lot when you're dealing with low-code p
 
 So you’ve made the shift. You’re out of panic mode. You’ve stopped yelling at your screen (or at least reduced it to grumbling). Now it’s time to actually investigate.
 
-This is where the tools come in.  
-Not just fancy admin tools—also the mental ones.  
-The habits, questions, and tiny decisions that help you make sense of chaos.
+This is where the tools come in. Not just fancy admin tools—also the mental ones. The habits, questions, and tiny decisions that help you make sense of chaos.
 
 💡 **Narrow things down.**  
-Is it only happening in one environment? Is it tied to one account?  
-I try to reproduce the error *and* eliminate everything that probably has nothing to do with it.
+Is it only happening in one environment? Is it tied to one account? I try to reproduce the error *and* eliminate everything that probably has nothing to do with it.
 
 If I can make it break differently, I know I’m getting closer.
 
 > Producing a new error message might not look like progress from the outside—but to me, it’s gold.
 
 💡 **Read the actual error message.**  
-I used to skip them, thanks to years of vague garbage like *"Something went wrong."*  
-But these days, I always read them. I Google the weird stuff. I ask colleagues.  
-Sometimes the one-liner at the bottom is the key.
+I used to skip them, thanks to years of vague garbage like *"Something went wrong."* But these days, I always read them. I Google the weird stuff. I ask colleagues. Sometimes the one-liner at the bottom is the key.
 
 💡 **Use the logs—but format them first.**  
-I once opened a massive XML log file in VS Code and got absolutely nothing from it. Just noise.  
-Then I opened it in Excel, and there it was—perfectly formatted with the problem staring me in the face.
+I once opened a massive XML log file in VS Code and got absolutely nothing from it. Just noise. Then I opened it in Excel, and there it was—perfectly formatted with the problem staring me in the face.
 
 > **Bad formatting hides good information.**
 
 💡 **Explain it out loud.**  
 Rubberducking is real.  
-I talk through what I’ve seen, what I’ve tried, and what I think is going on.  
-Somewhere in that monologue, a pattern usually shows up.
+I talk through what I’ve seen, what I’ve tried, and what I think is going on. Somewhere in that monologue, a pattern usually shows up.
 
 Bonus points if your duck wears a Starfleet uniform.
 
 💡 **Try one thing at a time.**  
-We all know this, but it’s hard to do when you're desperate.  
-Still, it matters.  
-If you change three things and it works, you won’t know which one mattered.
+We all know this, but it’s hard to do when you're desperate. Still, it matters. If you change three things and it works, you won’t know which one mattered.
 
 💡 **Write it down. Seriously.**  
 If you don’t, you’ll try the same thing five times and wonder why nothing's changing.
 
-Honestly, that's one of the main reasons I started this blog—  
-to remember what I actually know, before I forget I ever figured it out.
+Honestly, that's one of the main reasons I started this blog - to remember what I actually know, before I forget I ever figured it out.
 
-These tools won’t fix the issue for you.  
-But they *will* keep you sane and help you stay on the trail.
+These tools won’t fix the issue for you. But they *will* keep you sane and help you stay on the trail 😅
 
 ---
 
@@ -186,46 +163,34 @@ But they *will* keep you sane and help you stay on the trail.
 ## 🤓 Chapter 4: Helpful Tipps and Tricks  
 *(aka “the weird little things that actually work”)*
 
-Not everything about troubleshooting is deep mindset work or tool mastery.  
-Sometimes, it’s just the little things.
+Not everything about troubleshooting is deep mindset work or tool mastery. Sometimes, it’s just the little things.
 
 💡 **Take a break.**  
-No seriously. Walk away. Drink water. Talk to a human.  
-If you’ve been staring at the same bug for an hour, you’re not debugging—you’re just baking frustration into your brain.
+No seriously. Walk away. Drink water. Talk to a human. If you’ve been staring at the same bug for an hour, you’re not debugging—you’re just baking frustration into your brain.
 
 > **Debugging while angry is like doing surgery in a hurricane.**
 
  **Screenshot everything.**  
-The error, the test run, the log line.  
-Half the time I fix something, the error disappears.  
-And then nobody believes it ever happened.
+The error, the test run, the log line. Half the time I fix something, the error disappears. And then nobody believes it ever happened.
 
  **Reboot the world.**  
-Clear your cache. Use another browser. Go incognito.  
-These feel like cheap tricks—until they work.  
-And then you’re a wizard.
+Clear your cache. Use another browser. Go incognito. These feel like cheap tricks. UNTIL THEY WORK. And then you’re a wizard. 
 
  **Clone it. Strip it down. Rebuild it.**  
 Sometimes breaking things into smaller pieces is the only way to see where it cracks.
 
  **Talk to someone.**  
-Post it on a forum. Ping a friend. Say it out loud to your cat. Doesn’t matter.  
-Just don’t do it alone.
+Post it on a forum. Ping a friend. Say it out loud to your cat. Doesn’t matter. Just don’t do it alone.
 
  **Don’t trust your assumptions.**  
-They should work. But they don’t. Not always.  
-So test everything. Especially the stuff you’re *sure* about.
+They should work. But they don’t. Not always. So test everything. Especially the stuff you’re *sure* about.
 
  **Build your own toolkit.**  
-Save good logs. Bookmark weird bugs.  
-Capture solutions somewhere you can find them later.  
-Future you will be grateful.
+Save good logs. Bookmark weird bugs. Capture solutions somewhere you can find them later. Future you will be grateful.
 
-These aren’t “best practices.”  
-They’re just things that help.
+These aren’t “best practices.” - They’re just things that help.
 
-Mix them with the mindset shift, the structured approach, and your personal debugging rituals—  
-and you might just start to enjoy troubleshooting.
+Mix them with the mindset shift, the structured approach, and your personal debugging rituals. And you might just start to enjoy troubleshooting.
 
 ---
 
@@ -236,9 +201,7 @@ You just debugged my brain.
 
 This post started as a list of tools, and turned into an emotional unpacking of frustration, ego, and rubber ducks in Starfleet uniforms.
 
-And maybe that’s the point.  
-Troubleshooting isn’t just fixing stuff.  
-It’s about staying with the problem long enough to turn noise into clarity.
+And maybe that’s the point. Troubleshooting isn’t just fixing stuff. It’s about staying with the problem long enough to turn noise into clarity.
 
 Now it’s your turn:
 
