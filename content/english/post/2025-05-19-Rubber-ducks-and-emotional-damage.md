@@ -1,7 +1,7 @@
 ---
 title: Rubber Ducks and Emotional Damage
 description: A practical guide to troubleshooting Power Platform issues by managing error messages, logs—and your own emotional meltdown. 
-date: '2025-05-15T07:11:06.185Z'
+date: '2025-05-19T07:11:06.185Z'
 images: 
 - images/blog/title-RubberDucks.png
 author: "Michael Roth"
@@ -13,7 +13,7 @@ tags:
   - Debugging
   - Microsoft
 type: regular
-draft: true
+draft: false
 ---
 
 # 🦆 Rubber Ducks and Emotional Damage
