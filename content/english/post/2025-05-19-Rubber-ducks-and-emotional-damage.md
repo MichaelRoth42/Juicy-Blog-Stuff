@@ -110,10 +110,10 @@ Just because you think something should behave a certain way doesn’t mean it d
 And honestly? That mindset shift helps a lot when you're dealing with low-code platforms where "magic" often hides actual logic.
 
 ### 🧠 My personal core principles:
-- 💡 **There is always a reason, even when it feels random.**  
-- 💡 **Strong feelings block clear thinking.**  
-- 💡 **Calm is a tool.**  
-- 💡 **You’re not dumb. You’re just not done.**
+-  **There is always a reason, even when it feels random.**  
+-  **Strong feelings block clear thinking.**  
+-  **Calm is a tool.**  
+-  **You’re not dumb. You’re just not done.**
 
 ![Michaels pro tipp](/images/ProTipp.png)
 ---
@@ -171,19 +171,19 @@ But they *will* keep you sane and help you stay on the trail.
 
 ### 🛠️ Quick Recap: My Go-To Troubleshooting Tools
 
-- 💡 Narrow the scope (user, environment, input)  
-- 💡 Reproduce *and* simplify  
-- 💡 Read error messages (yes, even the weird ones)  
-- 💡 Format logs properly (try Excel!)  
-- 💡 Explain it out loud (rubber ducks encouraged)  
-- 💡 Change one thing at a time  
-- 💡 Document what you try
+-  Narrow the scope (user, environment, input)  
+-  Reproduce *and* simplify  
+-  Read error messages (yes, even the weird ones)  
+-  Format logs properly (try Excel!)  
+-  Explain it out loud (rubber ducks encouraged)  
+-  Change one thing at a time  
+-  Document what you try
 
 ![Michaels pro tipp](/images/ProTipp.png)
 
 ---
 
-## 💡 Chapter 4: Helpful Tipps and Tricks  
+## 🤓 Chapter 4: Helpful Tipps and Tricks  
 *(aka “the weird little things that actually work”)*
 
 Not everything about troubleshooting is deep mindset work or tool mastery.  
@@ -195,28 +195,28 @@ If you’ve been staring at the same bug for an hour, you’re not debugging—y
 
 > **Debugging while angry is like doing surgery in a hurricane.**
 
-💡 **Screenshot everything.**  
+ **Screenshot everything.**  
 The error, the test run, the log line.  
 Half the time I fix something, the error disappears.  
 And then nobody believes it ever happened.
 
-💡 **Reboot the world.**  
+ **Reboot the world.**  
 Clear your cache. Use another browser. Go incognito.  
 These feel like cheap tricks—until they work.  
 And then you’re a wizard.
 
-💡 **Clone it. Strip it down. Rebuild it.**  
+ **Clone it. Strip it down. Rebuild it.**  
 Sometimes breaking things into smaller pieces is the only way to see where it cracks.
 
-💡 **Talk to someone.**  
+ **Talk to someone.**  
 Post it on a forum. Ping a friend. Say it out loud to your cat. Doesn’t matter.  
 Just don’t do it alone.
 
-💡 **Don’t trust your assumptions.**  
+ **Don’t trust your assumptions.**  
 They should work. But they don’t. Not always.  
 So test everything. Especially the stuff you’re *sure* about.
 
-💡 **Build your own toolkit.**  
+ **Build your own toolkit.**  
 Save good logs. Bookmark weird bugs.  
 Capture solutions somewhere you can find them later.  
 Future you will be grateful.
