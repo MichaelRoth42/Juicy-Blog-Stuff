@@ -9,7 +9,7 @@ Recently I was looking for super easy mini flows to implement with Power Automat
 
 My first flow was a tea timer. Just a button that would send me a notification 3min later. Super easy, yet it brought me into the world of workflows. 
 
-A general notification use case can be helpful for a lot of people: remember to water the plants, remember to order groceries, remember to drink enough water, and so on. [Luise Freese pointed out](https://twitter.com/LuiseFreese/status/1350432942036815877?s=20), that she used to have a flow to remind her to drink a sufficient amount of water per day and that Vivek, aka [That API guy](https://twitter.com/that_API_guy) built a pretty neat flow for that already. 
+A general notification use case can be helpful for a lot of people: remember to water the plants, remember to order groceries, remember to drink enough water, and so on. Vivek, aka [That API guy](https://twitter.com/that_API_guy) built a pretty neat flow for getting reminded to drink enough water throughout the day. 
 
 So I looked into [his tutorial](https://thatapiguy.tech/2019/08/26/stay-hydrated-%f0%9f%92%a7%f0%9f%92%a7%f0%9f%92%a7-using-microsoft-teams-flow-and-powerbi/) and tried to rebuild that. With every flow you build you learn something new.  
 

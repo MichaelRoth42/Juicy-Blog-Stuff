@@ -5,8 +5,6 @@ draft: false
 tags: ['M 365', 'Productivity']
 ---
 
-Note: I did a session with [Luise Freese](https://medium.com/@LuiseFreese?source=post_page---------------------------) on based on this blog post at #Office365UGHH — please connect with and follow her as well.
-
 If you want to run your Office 365 project like an usual IT project we just wanted to send you a non misunderstandable message:
 
 **ARE YOU NUTS?**
@@ -118,4 +116,4 @@ Fix the system — not the user
 CALL FOR FEEDBACK
 =================
 
-Please clap if you like this post, follow me and [Luise Freese](https://medium.com/@LuiseFreese). What are your thoughts? We are super keen on listening to your feedback and do another session on that crucial topic as well.
+Please clap if you like this post. What are your thoughts? We are super keen on listening to your feedback and do another session on that crucial topic as well.
