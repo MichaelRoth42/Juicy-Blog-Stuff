@@ -1,7 +1,7 @@
 ---
 title: 'Office 365 as an IT only Project — what could possibly go wrong?'
 date: Tue, 30 Jul 2019 08:17:00 +0000
-draft: false
+draft: true
 tags: ['M 365', 'Productivity']
 ---
 
