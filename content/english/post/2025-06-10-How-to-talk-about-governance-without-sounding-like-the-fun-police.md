@@ -14,7 +14,7 @@ tags:
   - Security
   - Microsoft
 type: regular
-draft: true
+draft: false
 ---
 
 # How to Talk About Governance Without Sounding Like the Fun Police
