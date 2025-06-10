@@ -17,12 +17,11 @@ type: regular
 draft: false
 ---
 
-# How to Talk About Governance Without Sounding Like the Fun Police
 How to explain Power Platform governance to your boss, your makers, and yourself.
 
 aka. the "Three Racoons in a Trench Coat Trilemma"
 
-# Intro: A Message for the Curious (and the Skeptical)
+## Intro: A Message for the Curious (and the Skeptical)
 
 So I heard you were thinking about Power Platform Governance lately… and someone thought you have to read this?!
 
