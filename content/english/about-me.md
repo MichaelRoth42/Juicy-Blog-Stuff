@@ -8,7 +8,8 @@ draft: false
 
 # education
 education:
-  enable : true
+  enable : false
+
   title : "Power Platform Portfolio"
   degree:
 
