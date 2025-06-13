@@ -9,28 +9,23 @@ draft: false
 # education
 education:
   enable : true
-  title : "Educational Qualification <br> That I Have Gathered"
+  title : "Power Platform Portfolio"
   degree:
 
-  - name : "Prosci Certified Practitioner"
-    duration : "December 2019"
-    academy : "Tiba Business School"
+  - name : "Governance Kickstart"
+  - Ziel : Strukturierter Einstieg in Governance + Handlungsempfehlungen  
+  - Leistung : 2 Tage Workshop, Analyse, Strategiepapier  
+  - Preis : 3.000 €
 
-  - name : "Certified ScrumMaster (CSM)"
-    duration : "October 2019"
-    academy : "Scrum Alliance"
-    
-  - name : "Microsoft Service Adoption Specialist"
-    duration : "March 2019"
-    academy : "edX"
-    
-  - name : "Systemic Business Consultant"
-    duration : "2007 - 2014"
-    academy : "TÜV Rheinland AG"
-    
-  - name : "Master of Arts: educational science"
-    duration : "2007 - 2014"
-    academy : "Ruhr University Bochum"
+  - name : "Power Platform Health Check (Self-Assessment)"
+  - Ziel : Strukturierter Einstieg in Governance + Handlungsempfehlungen  
+  - Leistung : 2 Tage Workshop, Analyse, Strategiepapier  
+  - Preis : 3.000 €
+
+  - name : "Adoption & Enablement Workshop"
+  - Ziel : Governance + Adoption zusammendenken, IT & Business vereinen  
+  - Leistung : 2x 2h Workshops, inkl. Materialien & Praxisbeispiele  
+  - Preis : 1.500 €
 
 # mission
 mission:
@@ -63,6 +58,38 @@ partners:
     - "images/logos/logo-9.png"
 ---
 
-## Hello I’m Michael Roth, I'm a M365 business consultant and graphic designer 
+# Wer ich bin & wie ich arbeite
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Velit massa vitae felis augue. In venenatis scelerisque accumsan egestas mattis. Massa feugiat in sem pellentesque.
+Ich bin Microsoft MVP für Business Applications und seit über zehn Jahren tief in der Power Platform unterwegs – mit Fokus auf Governance, Sicherheit und echter Enablement-Kultur.
+
+Ich helfe Menschen und Unternehmen, Ordnung in ihr Plattform-Chaos zu bringen. Ohne Buzzwords, ohne Druck, ohne Abhängigkeit.
+
+Mein Ziel ist nicht, dass du mich ständig brauchst – sondern dass du irgendwann selbst sicher entscheiden, steuern und weiterdenken kannst.
+
+Ich glaube an klare Regeln statt verklausulierte Prozesse. An transparente Kommunikation statt Beraternebel. Und daran, dass Technologie nur dann gut ist, wenn sie dich stärkt – nicht verwirrt.
+
+In meiner Arbeit bringe ich Technik, Mensch und Organisation zusammen. Ich spreche IT und Business, und baue Brücken zwischen Governance und Machbarkeit. Denn Plattformen wie Power Platform funktionieren nur dann gut, wenn jemand Verantwortung übernimmt – und den Mut hat, Entscheidungen zu treffen.
+
+---
+
+## 🤝 Was mir wichtig ist
+
+### Transparenz & Klartext  
+Ich sage, was Sache ist, auch wenn’s unbequem ist. Und ich verspreche nichts, was ich nicht liefern kann!
+
+### Community & Teilen  
+Ich bin Teil einer globalen Tech-Community, halte Vorträge, schreibe Artikel und teile mein Wissen, damit andere wachsen können.
+
+### Nachhaltigkeit & Haltung  
+Ich arbeite digital, bewusst und mit Rücksicht auf Mensch und Umwelt. Technik darf keine Spur aus Burnout und Servermüll hinterlassen.
+
+### Enablement statt Abhängigkeit  
+Ich zeig dir, wie du selbst steuern kannst! Ohne dass du mich dafür jede Woche brauchst.
+
+---
+
+## 👾 Und sonst so?
+
+Ich liebe 80s-Synths, Retro-Sci-Fi und Punkrock. Wahrscheinlich, weil ich finde: Systeme brauchen Haltung. Und manchmal auch Widerstand. Widerstand gegen ineffiziente Prozesse, gegen toxische Beratung und gegen Technik, die keiner versteht.
+
+Wenn du jemanden suchst, der Klarheit schafft und dich nicht zum Kunden auf Lebenszeit machen will, dann lass uns reden. Ich freu mich drauf.
