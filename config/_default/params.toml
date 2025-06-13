@@ -79,14 +79,14 @@ sidebar = ["search", "about-me", "promotion", "subscription", "recent-post", "ta
 
 ############################# social site ########################
 [[social]]
-name = "twitter"
-icon = "fab fa-twitter" # Fontawesome Icons : https://fontawesome.com/icons
-link = "https://twitter.com/MichaelRoth42"
-
-[[social]]
 name = "linkedin"
 icon = "fab fa-linkedin-in" # Fontawesome Icons : https://fontawesome.com/icons
-link = "https://www.linkedin.com/in/michael-roth-handsomeguy/"
+link = "https://www.linkedin.com/in/michaelroth42/"
+
+[[social]]
+name = "Bluesky"
+icon = "fab fa-bluesky" # Fontawesome Icons : https://fontawesome.com/icons
+link = "https://bsky.app/profile/michael42.bsky.social"
 
 [[social]]
 name = "github"
