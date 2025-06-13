@@ -6,6 +6,7 @@ draft: false
 
 # Power Platform Portfolio
 
+(english content will follow soon...)
 - Leistungen kombinierbar aus allen Bereichen (Governance, Security, AI, Coaching, Support)  
 - Alle Pakete sind flexibel anpassbar – die hier genannten Preise dienen der Orientierung.  
 - Ich stimme mich mit dir individuell ab, damit der Support zu deiner Realität passt.
