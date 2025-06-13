@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image : "images/about-michael.jpg"
+image : "images/about-michael.png"
 # description
 description: "a picture showing Michael Roth holding a coffee mug"
 layout: "about-me"
