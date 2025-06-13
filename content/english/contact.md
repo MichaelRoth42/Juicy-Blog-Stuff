@@ -13,4 +13,4 @@ Found a typo? Drop me a line.\
 Got any questions? Please let me explain, I learn by explaining.\
 Found serious mistakes? We should talk!
 
-You can also reach out on [twitter](https://twitter.com/MichaelRoth42), if you prefer this 😉
+You can also reach out on [LinkedIn](https://www.linkedin.com/in/michaelroth42/), if you prefer this 😉
