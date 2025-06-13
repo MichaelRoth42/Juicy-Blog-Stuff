@@ -6,6 +6,10 @@ draft: false
 
 # Power Platform Portfolio
 
+- Leistungen kombinierbar aus allen Bereichen (Governance, Security, AI, Coaching, Support)  
+- Alle Pakete sind flexibel anpassbar – die hier genannten Preise dienen der Orientierung.  
+- Ich stimme mich mit dir individuell ab, damit der Support zu deiner Realität passt.
+
 ## 1. Governance
 
 ### 1.1 Governance Kickstart
@@ -97,6 +101,4 @@ draft: false
 **Leistung:** 8 Std/Woche ≈ 32 Std/Monat  
 **Preis:** 9.600 €/Monat
 
-> *Leistungen kombinierbar aus allen Bereichen (Governance, Security, AI, Coaching, Support)*  
-> *Alle Pakete sind flexibel anpassbar – die hier genannten Preise dienen der Orientierung.  
-Ich stimme mich mit dir individuell ab, damit der Support zu deiner Realität passt.*
+

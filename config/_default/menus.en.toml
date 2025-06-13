@@ -8,14 +8,19 @@ URL = "homepage/full-right/"
 weight = 1
 
 [[main]]
+name = "Portfolio"
+URL = "/english/portfolio/"
+weight = 2
+
+[[main]]
   name = "About Me"
   url = "about-me/"
-  weight = 2
+  weight = 3
 
 [[main]]
 name = "Contact"
 URL = "contact/"
-weight = 3
+weight = 4
 
 # Dropdown menu
 #[[main]]
