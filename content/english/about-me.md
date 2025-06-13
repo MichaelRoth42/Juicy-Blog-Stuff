@@ -33,7 +33,7 @@ mission:
   enable : true
   title : "What is my mission?"
   image : "images/michael-mission.png"
-  content : "I want to inspire people without a tech background to start their own journey into the tech world. <br>I'm a tech person by choice. That means, I didn't have a technical background to begin with until I decided (in my thirties) to learn everything around tech that seems relevant to me. In order to learn, I write. It helps me understand this complex stuff. With my blog I want to deliver instructions and helpful content for every beginner out there."
+  content : "Hier könnte ein guter Text stehen"
 
 # Youtube
 youtube:
@@ -70,27 +70,3 @@ Mein Ziel ist nicht, dass du mich ständig brauchst – sondern dass du irgendwa
 Ich glaube an klare Regeln statt verklausulierte Prozesse. An transparente Kommunikation statt Beraternebel. Und daran, dass Technologie nur dann gut ist, wenn sie dich stärkt – nicht verwirrt.
 
 In meiner Arbeit bringe ich Technik, Mensch und Organisation zusammen. Ich spreche IT und Business, und baue Brücken zwischen Governance und Machbarkeit. Denn Plattformen wie Power Platform funktionieren nur dann gut, wenn jemand Verantwortung übernimmt – und den Mut hat, Entscheidungen zu treffen.
-
----
-
-## 🤝 Was mir wichtig ist
-
-### Transparenz & Klartext  
-Ich sage, was Sache ist, auch wenn’s unbequem ist. Und ich verspreche nichts, was ich nicht liefern kann!
-
-### Community & Teilen  
-Ich bin Teil einer globalen Tech-Community, halte Vorträge, schreibe Artikel und teile mein Wissen, damit andere wachsen können.
-
-### Nachhaltigkeit & Haltung  
-Ich arbeite digital, bewusst und mit Rücksicht auf Mensch und Umwelt. Technik darf keine Spur aus Burnout und Servermüll hinterlassen.
-
-### Enablement statt Abhängigkeit  
-Ich zeig dir, wie du selbst steuern kannst! Ohne dass du mich dafür jede Woche brauchst.
-
----
-
-## 👾 Und sonst so?
-
-Ich liebe 80s-Synths, Retro-Sci-Fi und Punkrock. Wahrscheinlich, weil ich finde: Systeme brauchen Haltung. Und manchmal auch Widerstand. Widerstand gegen ineffiziente Prozesse, gegen toxische Beratung und gegen Technik, die keiner versteht.
-
-Wenn du jemanden suchst, der Klarheit schafft und dich nicht zum Kunden auf Lebenszeit machen will, dann lass uns reden. Ich freu mich drauf.
