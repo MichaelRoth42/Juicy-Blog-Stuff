@@ -21,7 +21,9 @@ draft: false
 
 SharePoint has this awesome little feature: you can take a boring list and slap a custom form on top of it with Power Apps. This way you can customize the form of a SharePoint list. With all the possibilities a canvas app has to offer. 
 
-That means you can not only customize the input forms visually, but can add functionality. In fact all the functionality that you can express with Power FX, like validate input, conditional visibility, calculations, data lookups across lists or triggering flows. Just think of the possibilities. 
+That means you can not only customize the input forms visually, but can add functionality. In fact all the functionality that you can express with Power FX, like validate input, conditional visibility, calculations, data lookups across lists or triggering flows. Just think of the possibilities. And it can look awesome too. 
+
+![A customized SharePoint form](/images/CustomSharePointForms_11.jpg)
 
 And then, all of a sudden, that "simple SharePoint list" isn't so simple anymore, it's a full blown app in disguise. And while that's awesome for makers, it can also be a headache for administrators, if left unchecked.
 
