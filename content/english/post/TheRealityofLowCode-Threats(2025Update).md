@@ -1,7 +1,7 @@
 ---
 title: The Reality of Low-Code Threats (2025 Update)
 description: Low-code is powerful, but not harmless. Learn how misconfigurations and weak controls turn Power Platform apps into 2025’s hidden security risks.
-date: '2025-09-10T07:11:06.185Z'
+date: '2025-010-09T07:11:06.185Z'
 images: 
 - images/blog/title-The-Reality-of-Low-Code-Threats.png
 author: "Michael Roth"

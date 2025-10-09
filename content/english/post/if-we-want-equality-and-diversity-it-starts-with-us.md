@@ -3,10 +3,10 @@ title: 'If we want equality and diversity, it starts with us!'
 date: 'Sun, 06 Sep 2020 08:35:42 +0000'
 images:
     - images/blog/title-equality-2.png
-draft: false
+draft: true
 tags: ["Community", "Diversity", "Equality", "Gender"]
 author: Michael Roth
-type: "epic"
+type: regular
 ---
 
 There have been a few posts on twitter lately about the behavior of men in social media networks. It was about the fact that women's dm mailboxes look entirely different from men's. As a woman on social media platforms, harassment and degradation are almost a normal part of life:
