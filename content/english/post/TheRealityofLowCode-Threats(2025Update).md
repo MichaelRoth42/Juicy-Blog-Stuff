@@ -124,5 +124,24 @@ That’s not paranoia. That’s professionalism 😎
 
 ---
 
-**Next:** [Power Platform Security Levels – Understanding Roles and Boundaries →](https://www.michaelroth42.com/post/2022-08-26-power-platform-security-levels/)
+## 🧾 References and Further Reading
+
+- [OWASP Top 10 for Low-Code/No-Code Security Risks (2022–2025)](https://owasp.org/www-project-top-10-low-code-no-code-security-risks/)
+- [UpGuard Report – Microsoft Power Apps Data Exposure (2021)](https://www.upguard.com/blog/microsoft-power-apps-data-exposure)
+- [Verizon Data Breach Investigations Report 2024 (DBIR)](https://www.verizon.com/business/resources/reports/dbir/)
+- [IBM Cost of a Data Breach Report 2024](https://www.ibm.com/reports/data-breach)
+- [Microsoft Learn – Power Platform Security Guidance](https://learn.microsoft.com/en-us/power-platform/admin/security)
+- [Microsoft Purview Audit Documentation](https://learn.microsoft.com/en-us/purview/audit-log-search)
+- [Microsoft Sentinel Integration for Power Platform](https://learn.microsoft.com/en-us/azure/sentinel/power-platform)
+
+---
+
+Find me on [LinkedIn](https://www.linkedin.com/in/michaelroth42/) if you have questions, want to work with me, or just want a nice chat.
+
+For a full overview of this series, visit the **[Power Platform Security 2025 Hub](https://www.michaelroth42.com/post/security-2025-hub)** *(coming soon!)*
+
+---
+
+**Next:** [Power Platform Security Levels – Understanding Roles and Boundaries](https://www.michaelroth42.com/post/2022-08-26-power-platform-security-levels/)
+
 
