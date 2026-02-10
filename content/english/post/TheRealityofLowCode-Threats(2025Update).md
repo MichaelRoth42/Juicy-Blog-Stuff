@@ -20,13 +20,13 @@ draft: true
 
 # The Reality of Low-Code Threats (2025 Update)
 
-> **OWASP LCNC Reference:** #️⃣ 4 – Security Misconfiguration  
+> **OWASP LCNC Reference:** #️⃣ 5 – Security Misconfiguration  
 > *(Based on the OWASP Top 10 for Low-Code/No-Code Applications, 2022–2025)*  
-> [OWASP LCNC Top 10](https://owasp.org/www-project-top-10-low-code-no-code-security-risks/)
+> [OWASP LCNC Top 10](https://owasp.org/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-05-Security-Misconfiguration)
 
 ---
 
-## 🎯 Introduction – Why This Matters
+## Introduction – Why This Matters
 
 “Low-code means low risk.”  
 I have heard that sentence far too often, and every time, a security engineer somewhere screams quietly into a pillow.  
