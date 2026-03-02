@@ -3,10 +3,9 @@ title: How to Govern the Power Platform Default Environment
 description: Uncontrolled sharing, trial licenses, and self-service purchases turn the Default Environment into a governance risk. This practical guide shows Power Platform admins how to secure it and set clear rules.
 date: '2026-02-10T07:11:06.185Z'
 images: 
-- images/blog/title-defaultenvironment.png
+- images/blog/title-default-environment.png
 author: "Michael Roth"
 tags:
-  - Tech
   - PowerPlatform
   - Administration
   - Governance
@@ -18,7 +17,7 @@ draft: true
 
 ## Why the Default Environment Is Always the First Governance Decision
 
-Every Power Platform tenant starts with the same thing. A Default Environment that already exists, that everyone can access, and that feels harmless because it was there before anyone made a decision. That is exactly why it becomes a problem so quickly. The Default Environment does not wait for governance to be ready. It quietly becomes the place where people try things, solve small problems, and accidentally create things that matter. It is a bit like moving through a level that looks simple at first, until hidden passages, shortcuts, and drops reveal how much depth was there all along.
+Every Power Platform tenant starts with the same thing. A Default Environment that already exists, that everyone can access, and that feels harmless because it was there before anyone made a decision. That is exactly why it becomes a problem so quickly. In Part 0, I talked about how governance starts with mindset, not settings. The Default Environment is where that mindset gets tested immediately. The Default Environment does not wait for governance to be ready. It quietly becomes the place where people try things, solve small problems, and accidentally create things that matter. It is a bit like moving through a level that looks simple at first, until hidden passages, shortcuts, and drops reveal how much depth was there all along.
 
 What makes the Default Environment dangerous is not that it is powerful. It is that it is vague. There is no clear purpose attached to it. No shared understanding of what is allowed there and what is not. For makers it feels like neutral ground. For admins it often feels like a box full of snakes. In reality it becomes the first development environment, the first production environment, and the first place where responsibility dissolves.
 
@@ -32,13 +31,13 @@ To sum it up:
 - Can't be administerd with Security Groups.
 - You can't create any backups...*
 
-'*' That point is a bit confusing. The documentation states, that Microsoft "don't support restoring a system backup of the deafult environment", which sounds like there are no automatic backups. The quote "You can create these [manual] backups for production and sandbox environments, but not for the default environment" even sounds like, there's no possibility to create manual backups either, leaving you without anything (see [Back up and restore environments](https://learn.microsoft.com/en-us/power-platform/admin/backup-restore-environments)). But another article on learn.microsoft.com tells us, that you can indeed get access to backup data of your default environment, you just have to work with the Microsoft support ([Back up and restore the default environment](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/manage-default-environment#back-up-and-restore-the-default-environment))
+'*' That point is a bit confusing. The documentation states, that Microsoft "don't support restoring a system backup of the deafult environment", which sounds like there are no automatic backups. The quote "You can create these (manual backups) for production and sandbox environments, but not for the default environment" even sounds like, there's no possibility to create manual backups either, leaving you without anything (see [Back up and restore environments](https://learn.microsoft.com/en-us/power-platform/admin/backup-restore-environments)). But another article on learn.microsoft.com tells us, that you can indeed get access to backup data of your default environment, you just have to work with the Microsoft support ([Back up and restore the default environment](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/manage-default-environment#back-up-and-restore-the-default-environment))
 
 Since everyone has access and it's tricky to manage, you should definetly decide, how to handle the default environment properly, then.
 
 ## The Three Valid Models for the Default Environment (Pick One)
 
-There are many ways people talk about the Default Environment, but in practice there are only three models that actually work. The mistake is not choosing the wrong model. The mistake is mixing them without realizing it. Once that happens, the Default Environment becomes unpredictable, and unpredictability is what creates governance debt.
+There are many ways people talk about the Default Environment, but in practice there are roughly three models that actually work. The mistake is not choosing the wrong model. The mistake is mixing them without realizing it, or not choosing one at all. Once that happens, the Default Environment becomes unpredictable, and unpredictability is what creates governance debt. Choosing a model is not a technical decision. It's the direct result of answering those four questions from Part 0. What do you want to enable? What do you want to protect? Where do you accept risk? Where don't you? Your answer determines which model fits your organization. There is no universally correct choice, only the one that matches your governance mindset.
 
 ### Model One: Personal Productivity Only (my personal recommendation ⭐)
 
@@ -62,7 +61,7 @@ All three models can be valid. What does not work is blending them. Allowing per
 
 Pick one model and commit to it. Write it down. Communicate it. Apply it consistently. Once that decision is made, the Default Environment stops being a gray area and starts becoming a predictable part of your platform.
 
->[Personal recommendation: I strongly prefer the first approach. Everything that is only valid for my personal productivity can live there, as long as it's compliant with the DLP policy.]
+> [Personal recommendation: I strongly prefer the first approach. Everything that is only valid for my personal productivity can live there, as long as it's compliant with the DLP policy.]
 
 ## The Real Risk: Invisible Sharing and Accidental Scale
 
@@ -85,7 +84,7 @@ If you want a detailed technical explanation of how the everyone group works and
 
 ## Licensing Chaos Starts Here (Trials, Viral, Self-Service and Auto-claim Policies)
 
-Licensing problems in Power Platform rarely start with bad intent. They start with convenience. The Default Environment makes powerful features feel immediately available, while hiding the implications behind them. From a maker perspective, things simply work. From a governance perspective, commitments are created without anyone consciously agreeing to them.
+Remember what I said in Part 0: defaults are dangerous when left unreflected. Nowhere is this more true than with licensing in the Default Environment. Trials, viral plans, self-service purchases, auto-claim policies, all of these are enabled by default, and all of them turn experimentation into obligation without anyone consciously deciding to scale. Licensing problems in Power Platform rarely start with bad intent. They start with convenience. The Default Environment makes powerful features feel immediately available, while hiding the implications behind them. From a maker perspective, things simply work. From a governance perspective, commitments are created without anyone consciously agreeing to them.
 
 This is why licensing chaos almost always starts here.
 
@@ -118,6 +117,7 @@ I have also covered self service purchases in a separate post that explains how 
 Auto claim licenses take invisibility one step further. When enabled, the platform automatically assigns a premium license the moment a user interacts with a premium feature. There is no warning and no decision point. From the user perspective, nothing changes. From a governance perspective, a commitment has already been made. And until today it's not clear, whether it's turned on or off by default ⚠️
 
 ![Are auto-claim policies turned on or off in your tenant? Do you know?](/images/DefaultEnvironment_2.png)
+![A customized SharePoint form](/images/CustomSharePointForms_11.jpg)
 
 This turns exploration into obligation. A user does not decide to use premium features. They discover later that they already did. Cost is created without intent, and dependencies are established without awareness.
 
@@ -243,8 +243,10 @@ You do not need to get everything right on day one. What matters is that you rem
 
 Once this foundation is in place, every other governance decision becomes easier. Security policies make more sense. Licensing becomes more predictable. Conversations with makers become calmer and more productive.
 
-In the next part of this series, we will move on from the Default Environment and look at how to create one safe place to build. A place that invites experimentation without creating accidental production systems.
+In the next part of this series, we will move on from the Default Environment and look at how to create one safe place to build. A place that invites experimentation without creating accidental production systems. Because if you restrict the Default Environment without offering an alternative, you have not created governance, you have just created frustration. Part 2 is where we fix that.
+
+And in the end, governance without decisions is not governance. It's just drift 🤷‍♂️
 
 ---
 
-I hope you liked this blog. Feel free to find me on [LinkedIn](https://www.linkedin.com/in/michaelroth42/) if you have questions, want to work with me, or just want a nice chat s😎
+I hope you liked this blog. Feel free to find me on [LinkedIn](https://www.linkedin.com/in/michaelroth42/) if you have questions, want to work with me, or just want a nice chat 😎
