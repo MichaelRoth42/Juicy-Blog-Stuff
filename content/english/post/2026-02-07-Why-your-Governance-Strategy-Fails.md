@@ -14,9 +14,7 @@ type: regular
 draft: false
 ---
 
-# Part 0 – Start With Your Head, Not With Settings
-
-## About This Series
+### About This Series
 
 A few years ago, I wrote a governance series that focused heavily on technical settings and configurations. It was useful at the time, but I have learned a lot since then – both from my own work and from conversations with hundreds of Power Platform admins across the world.
 
@@ -24,7 +22,7 @@ This is the updated version. A series for anyone who is new to Power Platform go
 
 Between the main parts, I will publish deeper technical articles that go into specific topics in more detail. But the core series is designed to give you a clear foundation: what governance actually is, why it matters, and how to build it in a way that enables people instead of blocking them.
 
-If you have read my old series, this one will feel different. Less checklist, more principles. Less "click here," more "think about this first." That is intentional.
+If you have read my old series, this one will feel different. Less checklist, more principles. Less "click here," more "think about this first" That is intentional 😉
 
 So let's get started 🚀
 
