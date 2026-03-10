@@ -12,7 +12,7 @@ tags:
   - PowerApps
   - Microsoft
 type: regular
-draft: true
+draft: false
 ---
 
 ## Why the Default Environment Is Always the First Governance Decision
