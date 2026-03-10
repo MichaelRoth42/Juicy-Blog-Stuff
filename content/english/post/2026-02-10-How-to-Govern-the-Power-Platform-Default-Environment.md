@@ -102,7 +102,7 @@ Trials invite exploration, but they expire silently. A maker can build something
 
 Viral plans create a different kind of invisibility. Capabilities spread across the tenant without central awareness. From the outside, everything looks licensed. From the inside, nobody can reliably explain why.
 
-I have already written in detail about how trials and viral plans work and why disabling or reducing them is often necessary for sustainable governance. ![I will link those articles here](https://www.michaelroth42.com/post/2024-11-17-disable-plans/) for readers who want to go deeper into the technical and administrative details.
+I have already written in detail about how trials and viral plans work and why disabling or reducing them is often necessary for sustainable governance. [I will link those articles here](https://www.michaelroth42.com/post/2024-11-17-disable-plans/) for readers who want to go deeper into the technical and administrative details.
 
 ### Self Service Purchases: When Money Enters Without Governance
 
@@ -110,7 +110,7 @@ Self service purchases add a financial dimension to the same problem. A user nee
 
 Once the license exists, expectations exist as well. IT and finance usually find out later, when a solution is already considered important. At that point, removing or changing it feels disruptive, even though nobody explicitly agreed to support it.
 
-I have also covered self service purchases in a separate post that explains how to disable them and what changes for users and admins. That post will be linked ![here to avoid repeating the technical steps](https://www.michaelroth42.com/post/2024-12-11-disable-self-service/).
+I have also covered self service purchases in a separate post that explains how to disable them and what changes for users and admins. That post will be linked [here to avoid repeating the technical steps](https://www.michaelroth42.com/post/2024-12-11-disable-self-service/).
 
 ### Auto Claim Policies: When a Click Becomes a Contract
 
