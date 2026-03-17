@@ -14,7 +14,6 @@ tags:
 type: regular
 draft: false
 ---
-# Part 2 – Create One Safe Place to Build
 
 ## Restriction Without Alternative Is Not Governance
 
@@ -24,7 +23,7 @@ But if you stop there, you have created a problem.
 
 Because now makers have nowhere to go. They still have problems to solve. They still want to learn. They still need to experiment. And if you have restricted the Default Environment without offering an alternative, you have not created governance, you've created frustration.
 
-[Insert: Congratulations, you played yourself meme]
+![Congratulations](/images/congratulations.png)
 
 Frustrated makers do not stop building. They find workarounds. They use personal accounts. They ask for exceptions. They complain that IT is blocking innovation. And they are not wrong to be frustrated, because you gave them a rule without giving them a path forward.
 
