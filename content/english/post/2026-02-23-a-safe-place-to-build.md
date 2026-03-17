@@ -1,9 +1,9 @@
 ---
 title: Create One Safe Place to Build
 description: Learn how to design a Power Platform Maker Environment that balances enablement with governance. DLP alignment, access controls, and when to split environments.
-date: '2026-02-23T07:11:06.185Z'
+date: '2026-03-16T07:11:06.185Z'
 images: 
-- images/blog/title-default-environment.png
+- images/blog/title-safe-place-to-build.png
 author: "Michael Roth"
 tags:
   - PowerPlatform
@@ -12,7 +12,7 @@ tags:
   - PowerApps
   - Microsoft
 type: regular
-draft: true
+draft: false
 ---
 # Part 2 – Create One Safe Place to Build
 
